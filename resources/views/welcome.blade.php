@@ -13,7 +13,7 @@
 
 </head>
 
-<body class="dHctZm9udC1zYW5z __variable_aaf875 __variable_866216 __variable_9d7c83">
+<body class="dHctZm9udC1zYW5z __variable_aaf875 __variable_866216 __variable_9d7c83 bg-pattern">
     <div id="app">
         <App></App>
     </div>

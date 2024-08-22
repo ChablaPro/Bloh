@@ -5,7 +5,11 @@ import { createApp } from 'vue';
 const app = createApp({});
 
 import App from './components/App.vue';
+import Navbar from './components/navbar.vue';
+import Footer from './components/footer.vue';
 app.component('App', App);
+app.component('navbar-component', Navbar);
+app.component('footer-component', Footer)
 
 import { createRouter, createWebHashHistory } from 'vue-router';
 
