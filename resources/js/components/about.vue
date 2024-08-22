@@ -1,0 +1,2618 @@
+<template>
+  <div>
+    <header
+      class="dHctaC0yNA dHctYm9yZGVyLWI dHctYm9yZGVyLXNsYXRlLTIwMC84MA dHctYmctd2hpdGU"
+    >
+      <div
+        class="dHctbXgtYXV0bw dHctbWF4LXctc2NyZWVuLXhs dHctcHgtNQ sm:dHctcHgtNg lg:dHctcHgtOA dHctZmxleA dHctaC1mdWxs dHctdy1mdWxs dHctaXRlbXMtY2VudGVy"
+      >
+        <nav
+          class="dHctcmVsYXRpdmU dHctei01MA dHctZmxleA dHctdy1mdWxs dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1iZXR3ZWVu"
+        >
+          <div class="dHctZmxleA dHctc2hyaW5rLTA dHctaXRlbXMtY2VudGVy">
+            <a
+              aria-label="Home"
+              class="dHctZmxleA dHctZmxleC1zaHJpbmstMA dHctaXRlbXMtY2VudGVy"
+              href="index.htm"
+              ><img
+                alt=""
+                loading="lazy"
+                width="122"
+                height="48"
+                decoding="async"
+                data-nimg="1"
+                class="dHctaC04 dHctdy1hdXRv sm:dHctaC05 md:dHctaGlkZGVu lg:dHctYmxvY2s lg:dHctaC0xMA"
+                style="color: transparent"
+                srcset="bloh/logo-1.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Flogo.d2e4816a.png&amp;w=128&amp;q=75 1x, bloh/logo.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Flogo.d2e4816a.png&amp;w=256&amp;q=75 2x"
+                src="bloh/logo.png?url=%2Fbloh%2Fstatic%2Fmedia%2Flogo.d2e4816a.png&amp;w=256&amp;q=75" /><img
+                alt=""
+                loading="lazy"
+                width="65"
+                height="73"
+                decoding="async"
+                data-nimg="1"
+                class="dHctaGlkZGVu dHctaC04 dHctdy1hdXRv md:dHctYmxvY2s lg:dHctaGlkZGVu"
+                style="color: transparent"
+                srcset="bloh/logo-icon-1.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Flogo-icon.0c534754.png&amp;w=96&amp;q=75 1x, bloh/logo-icon.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Flogo-icon.0c534754.png&amp;w=256&amp;q=75 2x"
+                src="bloh/logo-icon.png?url=%2Fbloh%2Fstatic%2Fmedia%2Flogo-icon.0c534754.png&amp;w=256&amp;q=75"
+            /></a>
+          </div>
+          <div
+            class="dHctaGlkZGVu dHctaXRlbXMtY2VudGVy md:dHctZmxleA md:dHctc3BhY2UteC02 lg:dHctc3BhY2UteC04"
+          >
+            <a
+              class="dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS03MDA hover:dHctdGV4dC1zbGF0ZS05MDA hover:after:tw-opacity-25"
+              href="index.htm"
+              >Home</a
+            ><a
+              class="dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA after:tw-opacity-100"
+              href="about.html"
+              >About</a
+            ><a
+              class="dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS03MDA hover:dHctdGV4dC1zbGF0ZS05MDA hover:after:tw-opacity-25"
+              href="work.html"
+              >Work</a
+            ><a
+              class="dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS03MDA hover:dHctdGV4dC1zbGF0ZS05MDA hover:after:tw-opacity-25"
+              href="blog.html"
+              >Blog</a
+            ><a
+              class="dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS03MDA hover:dHctdGV4dC1zbGF0ZS05MDA hover:after:tw-opacity-25"
+              href="contact.html"
+              >Contact</a
+            >
+            <div class="dHctcmVsYXRpdmU" data-headlessui-state="">
+              <button
+                class="dHctZ3JvdXA dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZm9udC1tZWRpdW0 dHctb3V0bGluZS1ub25l dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ focus:dHctb3V0bGluZS1ub25l dHctdGV4dC1zbGF0ZS03MDA hover:dHctdGV4dC1zbGF0ZS05MDA"
+                id="headlessui-menu-button-:Rqda:"
+                type="button"
+                aria-haspopup="menu"
+                aria-expanded="false"
+                data-headlessui-state=""
+              >
+                <span>Pages</span
+                ><svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewbox="0 0 20 20"
+                  fill="currentColor"
+                  class="dHctbWwtMg dHctaC01 dHctdy01 dHctZHVyYXRpb24tMzAw dHctdGV4dC1zbGF0ZS02MDA group-hover:dHctdGV4dC1zbGF0ZS04MDA"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+                    clip-rule="evenodd"
+                  ></path>
+                </svg>
+              </button>
+            </div>
+          </div>
+          <div class="dHctZmxleA dHctaXRlbXMtY2VudGVy">
+            <a
+              class="dHctaW5saW5lLWZsZXg dHctaXRlbXMtY2VudGVy dHctcm91bmRlZC1mdWxs dHctZ2FwLTI.5 dHctanVzdGlmeS1jZW50ZXI dHctcHgtNw dHctcHktMw dHctdGV4dC1tZA dHctZm9udC1zZW1pYm9sZA dHctbGVhZGluZy1ub25l dHctb3V0bGluZS1vZmZzZXQtMg dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ active:dHctdHJhbnNpdGlvbi1ub25l dHctdGV4dC1zbGF0ZS05MDA dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDA hover:dHctYmctc2xhdGUtMjAwLzYw hover:dHctc2hhZG93LXNreS0xMDAvNTA dHctYmctc2xhdGUtMTAwLzgw"
+              href="#"
+              >Book a call</a
+            >
+            <div class="dHctbWwtNA md:dHctaGlkZGVu">
+              <div data-headlessui-state="">
+                <button
+                  class="dHctZ3JvdXA dHctcmVsYXRpdmU dHctei01MA dHctZmxleA dHctY3Vyc29yLXBvaW50ZXI dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctcm91bmRlZC1mdWxs dHctYmctc2xhdGUtMTAwLzgw dHctcC0z dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ dHctdHJhbnNpdGlvbg dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2xhdGUtMjAwLzYw focus:dHctb3V0bGluZS1ub25l md:dHctaGlkZGVu"
+                  aria-label="Toggle Navigation"
+                  type="button"
+                  aria-expanded="false"
+                  data-headlessui-state=""
+                >
+                  <span class="dHctcmVsYXRpdmU dHctaC0z.5 dHctdy00"
+                    ><span
+                      class="dHctYWJzb2x1dGU dHctYmxvY2s dHctaC0w.5 dHctcm90YXRlLTA dHctdHJhbnNmb3Jt dHctcm91bmRlZC1mdWxs dHctYmctc2xhdGUtNzAw dHctb3BhY2l0eS0xMDA dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:dHctYmctc2xhdGUtOTAw dHctbGVmdC0w dHctdG9wLTA dHctdy1mdWxs"
+                    ></span
+                    ><span
+                      class="dHctYWJzb2x1dGU dHctbGVmdC0w dHctdG9wLTE.5 dHctYmxvY2s dHctaC0w.5 dHctdy1mdWxs dHctdHJhbnNmb3Jt dHctcm91bmRlZC1mdWxs dHctYmctc2xhdGUtNzAw dHctb3BhY2l0eS0xMDA dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:dHctYmctc2xhdGUtOTAw dHctcm90YXRlLTA"
+                    ></span
+                    ><span
+                      class="dHctYWJzb2x1dGU dHctbGVmdC0w dHctdG9wLTE.5 dHctYmxvY2s dHctaC0w.5 dHctdy1mdWxs dHctdHJhbnNmb3Jt dHctcm91bmRlZC1mdWxs dHctYmctc2xhdGUtNzAw dHctb3BhY2l0eS0xMDA dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:dHctYmctc2xhdGUtOTAw dHctcm90YXRlLTA"
+                    ></span
+                    ><span
+                      class="dHctYWJzb2x1dGU dHctYmxvY2s dHctaC0w.5 dHctcm90YXRlLTA dHctdHJhbnNmb3Jt dHctcm91bmRlZC1mdWxs dHctYmctc2xhdGUtNzAw dHctb3BhY2l0eS0xMDA dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:dHctYmctc2xhdGUtOTAw dHctbGVmdC0w dHctdG9wLTM dHctdy1mdWxs"
+                    ></span
+                  ></span>
+                </button>
+              </div>
+              <div
+                style="
+                  position: fixed;
+                  top: 1px;
+                  left: 1px;
+                  width: 1px;
+                  height: 0;
+                  padding: 0;
+                  margin: -1px;
+                  overflow: hidden;
+                  clip: rect(0, 0, 0, 0);
+                  white-space: nowrap;
+                  border-width: 0;
+                  display: none;
+                "
+              ></div>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <section class="dHctcmVsYXRpdmU dHctYmctc2xhdGUtNTAvNTA">
+      <img
+        alt=""
+        loading="lazy"
+        width="1068"
+        height="897"
+        decoding="async"
+        data-nimg="1"
+        class="dHctYWJzb2x1dGU dHctaW5zZXQtMA dHctb2JqZWN0LWNvdmVy dHctb2JqZWN0LWxlZnQ dHctdy1mdWxs dHctaC1mdWxs lg:dHctdy0yLzM"
+        style="color: transparent"
+        src="bloh/static/media/about-hero-gradient.1533200d.svg"
+      />
+      <div
+        class="dHctbXgtYXV0bw dHctbWF4LXctc2NyZWVuLXhs dHctcHgtNQ sm:dHctcHgtNg lg:dHctcHgtOA dHctcmVsYXRpdmU dHctcHktMTY sm:dHctcHktMjQ lg:dHctcHktMzI"
+      >
+        <div
+          class="dHctbWF4LXctM3hs dHctcHgtNA dHctbXgtYXV0bw sm:dHctcHgtNg lg:dHctbXgtMA lg:dHctdy0yLzM lg:dHctbWF4LXctbm9uZQ lg:dHctcHgtOA lg:dHctcHItMTY"
+        >
+          <h1
+            class="dHctdGV4dC01eGw dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC02eGw"
+          >
+            Hi,<!-- -->
+            <span class="dHctcmVsYXRpdmU dHctd2hpdGVzcGFjZS1ub3dyYXA"
+              ><svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="249"
+                height="22"
+                viewbox="0 0 249 22"
+                fill="currentColor"
+                class="dHctYWJzb2x1dGU dHctbGVmdC0w dHctdG9wLTIvMw dHctaC0[0.6em] dHctdy1mdWxs dHctZmlsbC1za3ktMjAwLzc1"
+              >
+                <path
+                  d="M247.564 18.5807C241.772 13.3568 232.473 12.7526 225.225 11.4427C217.124 9.97395 208.996 8.57031 200.846 7.46093C186.542 5.51302 172.169 4.08854 157.79 3.01562C126.033 0.645827 94.0929 0.0338481 62.3387 2.36979C42.1785 3.85416 22.008 5.90885 2.32917 10.8463C-0.0155171 11.4349 0.207047 14.6719 2.6889 14.7083C22.0261 14.9896 41.3866 12.6406 60.7109 11.8568C79.9471 11.0807 99.2274 10.6719 118.484 10.9557C142.604 11.3125 166.719 12.8333 190.722 15.5156C199.956 16.5469 209.195 17.6016 218.411 18.8255C227.864 20.0807 237.259 22 246.767 20.7422C247.709 20.6198 248.426 19.3568 247.564 18.5807Z"
+                ></path></svg
+              ><span class="dHctcmVsYXRpdmU">I’m Jane</span></span
+            >
+            <!-- -->and I’m a designer &amp; developer
+          </h1>
+          <p
+            class="dHctbXQtOA dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1zbGF0ZS03MDA"
+          >
+            Pumpkin seasonal rich froth decaffeinated trifecta organic blue
+            panna doppio. Body a whipped lungo variety spice seasonal body press
+            mountain con macchiato. Medium coffee single white to caramelization
+            siphon con siphon id as con go single. So ristretto pumpkin affogato
+            cinnamon breve turkish organic. Lait black kopi dripper spice lait
+            cultivar robusta panna whipped and sit aromatic sugar.
+          </p>
+          <p
+            class="dHctbXQtNg dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1zbGF0ZS03MDA"
+          >
+            And café frappuccino extraction dHctZmlsdGVy froth sugar siphon
+            coffee pumpkin press milk ristretto et au. Trade instant aged as
+            wings bar seasonal pumpkin barista turkish shot go seasonal robusta.
+            Strong iced lungo frappuccino espresso redeye macchiato aftertaste
+            trade pot. Seasonal turkish mocha wings sit crema blue au and
+            grounds eu cortado café cup. Filter viennese bar seasonal wings
+            siphon as frappuccino go luwak single mazagran.
+          </p>
+          <p
+            class="dHctbXQtMTY dHctdGV4dC0zeGw dHctdGV4dC1zbGF0ZS03MDA __className_638ca0"
+          >
+            Jane Doe
+          </p>
+        </div>
+      </div>
+      <div
+        class="bg-picton-blue-25 dHctcmVsYXRpdmU dHctaC05Ng dHctdy1mdWxs md:dHctaC0[600px] lg:dHctYWJzb2x1dGU lg:dHctaW5zZXQteS0w lg:dHctcmlnaHQtMA lg:dHctaC1mdWxs lg:dHctdy0xLzM"
+      >
+        <img
+          alt=""
+          fetchpriority="high"
+          width="990"
+          height="1346"
+          decoding="async"
+          data-nimg="1"
+          class="dHctYWJzb2x1dGU dHctaW5zZXQtMA dHctb2JqZWN0LWNvdmVy dHctb2JqZWN0LXRvcA dHctdy1mdWxs dHctaC1mdWxs"
+          style="color: transparent"
+          sizes="(min-width: 1024px) 33vw, 100vw"
+          srcset="bloh/about-hero-1.png 128w?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=128&amp;q=75 128w, bloh/about-hero-2.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=256&amp;q=75 256w, bloh/about-hero-3.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=360&amp;q=75 360w, bloh/about-hero-4.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=384&amp;q=75 384w, bloh/about-hero-5.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=414&amp;q=75 414w, bloh/about-hero-6.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=512&amp;q=75 512w, bloh/about-hero-7.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=640&amp;q=75 640w, bloh/about-hero-8.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=750&amp;q=75 750w, bloh/about-hero-9.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=828&amp;q=75 828w, bloh/about-hero-10.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=1080&amp;q=75 1080w, bloh/about-hero-11.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=1200&amp;q=75 1200w, bloh/about-hero-12.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=1536&amp;q=75 1536w, bloh/about-hero-13.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=1920&amp;q=75 1920w, bloh/about-hero-14.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=2048&amp;q=75 2048w, bloh/about-hero.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=3840&amp;q=75 3840w"
+          src="bloh/about-hero.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=3840&amp;q=75"
+        /><svg
+          width="229"
+          height="40"
+          viewbox="0 0 229 40"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          class="dHctYWJzb2x1dGU dHctbGVmdC0w dHctdy1hdXRv dHctaC04 LXR3LXRyYW5zbGF0ZS14LTEvMg dHctYm90dG9tLTE2 dHctbXQtMTQ sm:dHctbXQtMjA sm:dHctaC0xMA"
+        >
+          <g clip-path="url(#clip0_204_150)">
+            <path
+              d="M1 19L29.4 39L57.7 19L86.1 39L114.5 19L142.8 39L171.2 19L199.6 39L228 19"
+              stroke="#0369A1"
+              stroke-width="2"
+              stroke-miterlimit="10"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            ></path>
+            <path
+              d="M1 19L29.4 39L57.7 19L86.1 39L114.5 19L142.8 39L171.2 19L199.6 39L228 19"
+              stroke="black"
+              stroke-opacity="0.2"
+              stroke-width="2"
+              stroke-miterlimit="10"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            ></path>
+            <path
+              d="M1 1L29.4 21L57.7 1L86.1 21L114.5 1L142.8 21L171.2 1L199.6 21L228 1"
+              stroke="#BAE6FD"
+              stroke-width="2"
+              stroke-miterlimit="10"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            ></path>
+          </g>
+          <defs>
+            <clippath id="clip0_204_150">
+              <rect width="229" height="40" fill="white"></rect>
+            </clippath>
+          </defs>
+        </svg>
+      </div>
+    </section>
+    <section
+      class="dHctcmVsYXRpdmU dHctb3ZlcmZsb3cteC1jbGlw dHctYmctd2hpdGU dHctcHktMTY sm:dHctcHktMjQ lg:dHctcHktMzI"
+    >
+      <div
+        class="dHctbXgtYXV0bw dHctbWF4LXctc2NyZWVuLXhs dHctcHgtNQ sm:dHctcHgtNg lg:dHctcHgtOA dHctcmVsYXRpdmU"
+      >
+        <div
+          class="dHctbXgtYXV0bw dHctZ3JpZA dHctbWF4LXctMnhs dHctZ3JpZC1jb2xzLTE dHctZ2FwLXgtOA dHctZ2FwLXktMTY sm:dHctZ2FwLXktMjA lg:dHctbXgtMA lg:dHctbWF4LXctbm9uZQ lg:dHctZ3JpZC1jb2xzLTM"
+        >
+          <div>
+            <h2
+              class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC00eGw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC01eGw"
+            >
+              My career<!-- -->
+              <span class="dHctcmVsYXRpdmU dHctd2hpdGVzcGFjZS1ub3dyYXA"
+                ><svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="167"
+                  height="24"
+                  viewbox="0 0 167 24"
+                  fill="currentColor"
+                  class="dHctYWJzb2x1dGU dHctbGVmdC0w dHctdG9wLTIvMw dHctaC0[0.6em] dHctdy1mdWxs dHctZmlsbC1za3ktMjAwLzc1"
+                >
+                  <g clip-path="url(#clip0_257_225)">
+                    <path
+                      d="M166.409 20.2699C162.515 14.571 156.265 13.9119 151.392 12.4829C145.948 10.8807 140.484 9.3494 135.006 8.13918C125.391 6.01418 115.729 4.4602 106.064 3.28974C84.7177 0.704517 63.2477 0.036903 41.9031 2.5852C28.3517 4.20452 14.7934 6.44599 1.5656 11.8324C-0.0104672 12.4744 0.139137 16.0057 1.8074 16.0454C14.8056 16.3522 27.8194 13.7897 40.8089 12.9346C53.7392 12.088 66.6991 11.642 79.6433 11.9517C95.8562 12.3409 112.066 14 128.2 16.9261C134.407 18.0511 140.617 19.2017 146.812 20.5369C153.167 21.9062 159.481 24 165.873 22.6278C166.506 22.4943 166.988 21.1164 166.409 20.2699Z"
+                    ></path>
+                  </g>
+                  <defs>
+                    <clippath id="clip0_257_225">
+                      <rect width="167" height="24" fill="white"></rect>
+                    </clippath>
+                  </defs></svg
+                ><span class="dHctcmVsYXRpdmU dHctdGV4dC1za3ktNzAw"
+                  >journey</span
+                ></span
+              >
+              <!-- -->so far
+            </h2>
+            <p
+              class="dHctbXQtNg dHctdGV4dC1sZw dHctbGVhZGluZy1yZWxheGVk dHctdGV4dC1zbGF0ZS03MDA"
+            >
+              Panna french americano macchiato breve roast cinnamon cortado
+              strong white pumpkin et single press aftertaste.
+            </p>
+            <a
+              class="dHctaW5saW5lLWZsZXg dHctaXRlbXMtY2VudGVy dHctcm91bmRlZC1mdWxs dHctZ2FwLTI.5 dHctanVzdGlmeS1jZW50ZXI dHctcHgtNw dHctcHktMw dHctdGV4dC1tZA dHctZm9udC1zZW1pYm9sZA dHctbGVhZGluZy1ub25l dHctb3V0bGluZS1vZmZzZXQtMg dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ active:dHctdHJhbnNpdGlvbi1ub25l dHctdGV4dC1zbGF0ZS05MDA dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDA hover:dHctYmctc2xhdGUtMjAwLzYw hover:dHctc2hhZG93LXNreS0xMDAvNTA dHctYmctc2xhdGUtMTAwLzgw dHctbXQtMTA"
+              href="#"
+              >Download CV<svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewbox="0 0 24 24"
+                class="dHctaC0[18px] dHctdy0[18px] dHctdGV4dC1zbGF0ZS02MDA"
+              >
+                <title>move-layer-down</title>
+                <g fill="currentColor">
+                  <path
+                    d="M12,1a1,1,0,0,0-1,1v8H7a1,1,0,0,0-.768,1.641l5,6a1,1,0,0,0,1.536,0l5-6A1,1,0,0,0,17,10H13V2A1,1,0,0,0,12,1Z"
+                    fill="currentColor"
+                  ></path>
+                  <path d="M22,21H2a1,1,0,0,0,0,2H22a1,1,0,0,0,0-2Z"></path>
+                </g></svg
+            ></a>
+          </div>
+          <ol
+            class="dHctY29sLXNwYW4tMg dHctZ3JpZA dHctZ3JpZC1jb2xzLTE dHctZ2FwLXgtOA dHctZ2FwLXktMTA dHctdGV4dC1iYXNl dHctbGVhZGluZy03 dHctdGV4dC1ncmF5LTYwMA [counter-reset:tw-section] sm:dHctZ3JpZC1jb2xzLTI lg:dHctZ2FwLXktMTY"
+          >
+            <li
+              class="dHctcmVsYXRpdmU [counter-increment:section] before:tw-absolute before:-tw-top-7 before:tw-right-0 before:tw-font-mono before:tw-text-9xl before:tw-font-black before:tw-leading-none before:tw-text-slate-50 before:tw-content-[counter(section,decimal-leading-zero)]"
+            >
+              <div>
+                <div
+                  class="dHctbWItNg dHctZmxleA dHctaC0xMQ dHctdy0xMQ dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctcm91bmRlZC1sZw dHctYmctZ3JhZGllbnQtdG8tYnI dHctZnJvbS1za3ktNTA dHctdmlhLXNsYXRlLTUw dHctdG8tc2t5LTUw dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ"
+                >
+                  <img
+                    alt="Adobe"
+                    loading="lazy"
+                    width="20"
+                    height="18"
+                    decoding="async"
+                    data-nimg="1"
+                    style="color: transparent"
+                    srcset="bloh/adobe-1.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Fadobe.56dd3d0c.png&amp;w=32&amp;q=75 1x, bloh/adobe.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Fadobe.56dd3d0c.png&amp;w=48&amp;q=75 2x"
+                    src="bloh/adobe.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fadobe.56dd3d0c.png&amp;w=48&amp;q=75"
+                  />
+                </div>
+                <p
+                  class="dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNzAw"
+                >
+                  Dec 2016 - Oct 2017
+                </p>
+                <p
+                  class="dHctbXQtMg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA"
+                >
+                  Adobe
+                </p>
+              </div>
+              <p
+                class="dHctbXQtMw dHctdGV4dC1iYXNl dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
+              >
+                Breve macchiato bar cortado dripper shot sweet robust qui. Et
+                café whipped go white that espresso fair origin pot cream est
+                cup.
+              </p>
+            </li>
+            <li
+              class="dHctcmVsYXRpdmU [counter-increment:section] before:tw-absolute before:-tw-top-7 before:tw-right-0 before:tw-font-mono before:tw-text-9xl before:tw-font-black before:tw-leading-none before:tw-text-slate-50 before:tw-content-[counter(section,decimal-leading-zero)]"
+            >
+              <div>
+                <div
+                  class="dHctbWItNg dHctZmxleA dHctaC0xMQ dHctdy0xMQ dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctcm91bmRlZC1sZw dHctYmctZ3JhZGllbnQtdG8tYnI dHctZnJvbS1za3ktNTA dHctdmlhLXNsYXRlLTUw dHctdG8tc2t5LTUw dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ"
+                >
+                  <img
+                    alt="Dropbox"
+                    loading="lazy"
+                    width="21"
+                    height="20"
+                    decoding="async"
+                    data-nimg="1"
+                    style="color: transparent"
+                    srcset="bloh/dropbox-1.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Fdropbox.a7d922f4.png&amp;w=32&amp;q=75 1x, bloh/dropbox.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Fdropbox.a7d922f4.png&amp;w=48&amp;q=75 2x"
+                    src="bloh/dropbox.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fdropbox.a7d922f4.png&amp;w=48&amp;q=75"
+                  />
+                </div>
+                <p
+                  class="dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNzAw"
+                >
+                  Nov 2017 - Apr 2018
+                </p>
+                <p
+                  class="dHctbXQtMg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA"
+                >
+                  Dropbox
+                </p>
+              </div>
+              <p
+                class="dHctbXQtMw dHctdGV4dC1iYXNl dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
+              >
+                Breve macchiato bar cortado dripper shot sweet robust qui. Et
+                café whipped go white that espresso fair origin pot cream est
+                cup.
+              </p>
+            </li>
+            <li
+              class="dHctcmVsYXRpdmU [counter-increment:section] before:tw-absolute before:-tw-top-7 before:tw-right-0 before:tw-font-mono before:tw-text-9xl before:tw-font-black before:tw-leading-none before:tw-text-slate-50 before:tw-content-[counter(section,decimal-leading-zero)]"
+            >
+              <div>
+                <div
+                  class="dHctbWItNg dHctZmxleA dHctaC0xMQ dHctdy0xMQ dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctcm91bmRlZC1sZw dHctYmctZ3JhZGllbnQtdG8tYnI dHctZnJvbS1za3ktNTA dHctdmlhLXNsYXRlLTUw dHctdG8tc2t5LTUw dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ"
+                >
+                  <img
+                    alt="Gumroad"
+                    loading="lazy"
+                    width="28"
+                    height="28"
+                    decoding="async"
+                    data-nimg="1"
+                    style="color: transparent"
+                    srcset="bloh/gumroad-1.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Fgumroad.b1ad6489.png&amp;w=32&amp;q=75 1x, bloh/gumroad.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Fgumroad.b1ad6489.png&amp;w=64&amp;q=75 2x"
+                    src="bloh/gumroad.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fgumroad.b1ad6489.png&amp;w=64&amp;q=75"
+                  />
+                </div>
+                <p
+                  class="dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNzAw"
+                >
+                  Apr 2018 - Jan 2019
+                </p>
+                <p
+                  class="dHctbXQtMg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA"
+                >
+                  Gumroad
+                </p>
+              </div>
+              <p
+                class="dHctbXQtMw dHctdGV4dC1iYXNl dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
+              >
+                Breve macchiato bar cortado dripper shot sweet robust qui. Et
+                café whipped go white that espresso fair origin pot cream est
+                cup.
+              </p>
+            </li>
+            <li
+              class="dHctcmVsYXRpdmU [counter-increment:section] before:tw-absolute before:-tw-top-7 before:tw-right-0 before:tw-font-mono before:tw-text-9xl before:tw-font-black before:tw-leading-none before:tw-text-slate-50 before:tw-content-[counter(section,decimal-leading-zero)]"
+            >
+              <div>
+                <div
+                  class="dHctbWItNg dHctZmxleA dHctaC0xMQ dHctdy0xMQ dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctcm91bmRlZC1sZw dHctYmctZ3JhZGllbnQtdG8tYnI dHctZnJvbS1za3ktNTA dHctdmlhLXNsYXRlLTUw dHctdG8tc2t5LTUw dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ"
+                >
+                  <img
+                    alt="Mailchimp"
+                    loading="lazy"
+                    width="20"
+                    height="21"
+                    decoding="async"
+                    data-nimg="1"
+                    style="color: transparent"
+                    srcset="bloh/mailchimp-1.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Fmailchimp.f70eaf92.png&amp;w=32&amp;q=75 1x, bloh/mailchimp.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Fmailchimp.f70eaf92.png&amp;w=48&amp;q=75 2x"
+                    src="bloh/mailchimp.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fmailchimp.f70eaf92.png&amp;w=48&amp;q=75"
+                  />
+                </div>
+                <p
+                  class="dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNzAw"
+                >
+                  Jan 2019 - Mar 2020
+                </p>
+                <p
+                  class="dHctbXQtMg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA"
+                >
+                  Mailchimp
+                </p>
+              </div>
+              <p
+                class="dHctbXQtMw dHctdGV4dC1iYXNl dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
+              >
+                Breve macchiato bar cortado dripper shot sweet robust qui. Et
+                café whipped go white that espresso fair origin pot cream est
+                cup.
+              </p>
+            </li>
+            <li
+              class="dHctcmVsYXRpdmU [counter-increment:section] before:tw-absolute before:-tw-top-7 before:tw-right-0 before:tw-font-mono before:tw-text-9xl before:tw-font-black before:tw-leading-none before:tw-text-slate-50 before:tw-content-[counter(section,decimal-leading-zero)]"
+            >
+              <div>
+                <div
+                  class="dHctbWItNg dHctZmxleA dHctaC0xMQ dHctdy0xMQ dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctcm91bmRlZC1sZw dHctYmctZ3JhZGllbnQtdG8tYnI dHctZnJvbS1za3ktNTA dHctdmlhLXNsYXRlLTUw dHctdG8tc2t5LTUw dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ"
+                >
+                  <img
+                    alt="Shopify"
+                    loading="lazy"
+                    width="20"
+                    height="21"
+                    decoding="async"
+                    data-nimg="1"
+                    style="color: transparent"
+                    srcset="bloh/shopify-1.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Fshopify.de2f4c78.png&amp;w=32&amp;q=75 1x, bloh/shopify.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Fshopify.de2f4c78.png&amp;w=48&amp;q=75 2x"
+                    src="bloh/shopify.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fshopify.de2f4c78.png&amp;w=48&amp;q=75"
+                  />
+                </div>
+                <p
+                  class="dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNzAw"
+                >
+                  Mar 2020 - Present
+                </p>
+                <p
+                  class="dHctbXQtMg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA"
+                >
+                  Shopify
+                </p>
+              </div>
+              <p
+                class="dHctbXQtMw dHctdGV4dC1iYXNl dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
+              >
+                Breve macchiato bar cortado dripper shot sweet robust qui. Et
+                café whipped go white that espresso fair origin pot cream est
+                cup.
+              </p>
+            </li>
+            <li
+              class="dHctcmVsYXRpdmU dHctbXQtMw dHctZmxleA dHctaC1maXQ dHctaXRlbXMtY2VudGVy dHctZm9udC13cml0aW5n dHctdGV4dC0yeGw dHctdHJhY2tpbmctd2lkZQ dHctdGV4dC1zbGF0ZS02MDA sm:dHctbGVmdC0xNA sm:dHctdG9wLTY sm:dHctbXQtMA sm:dHctYmxvY2s sm:dHctdGV4dC0[27px] md:dHctbGVmdC0yMA"
+            >
+              <span
+                class="dHctaW5saW5lLWJsb2Nr dHctdy01Mg dHctbWF4LXct[240px] dHctdHJhbnNmb3Jt sm:dHctdy1hdXRv sm:LXR3LXJvdGF0ZS0xMg"
+                >I am currently here in my journey :D</span
+              ><svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="124"
+                height="121"
+                viewbox="0 0 124 121"
+                fill="none"
+                class="dHctcmVsYXRpdmU LXR3LWxlZnQtNA dHctaC1hdXRv dHctdy0yNA LXR3LXRyYW5zbGF0ZS15LTU dHctcm90YXRlLTkw LXR3LXNjYWxlLXktMTAw dHctdHJhbnNmb3Jt dHctdGV4dC1zbGF0ZS02MDA sm:LXR3LWxlZnQtOA sm:dHctdy0zMg sm:dHctdHJhbnNsYXRlLXktMg sm:LXR3LXJvdGF0ZS02 sm:dHctc2NhbGUtMTAw"
+              >
+                <g clip-path="url(#clip0_257_335)">
+                  <path
+                    d="M101.672 26.3321C96.8237 38.134 92.186 44.0573 79.0339 44.4141C70.6979 44.6403 60.8529 42.694 53.4527 38.7688C49.1632 36.4936 56.8633 35.9887 58.3238 36.046C75.2213 36.7084 91.469 47.7751 94.8076 64.9225C96.9834 76.0979 88.4245 81.9067 78.6041 84.1752C63.6278 87.6349 47.752 81.2525 36.0397 72.0991C32.1436 69.0541 19.8172 60.5149 22.0934 54.2698C23.9793 49.0954 31.7507 55.0061 34.018 56.9118C37.2506 59.6288 44.0244 65.7437 43.9149 70.3449C43.7576 76.9438 32.7995 78.0771 28.2217 77.7848C19.5283 77.2298 10.3327 73.6012 2.05876 71.0225C1.4496 70.8325 5.37871 69.9759 6.06477 69.8198C8.02976 69.3721 9.72632 68.1441 11.7325 67.8657C13.2208 67.6592 21.2769 68.287 16.2554 69.947C14.4855 70.532 2.71379 69.3189 2.58655 69.7453C2.06535 71.4868 10.2182 79.8642 11.7371 81.4008C15.3955 85.1003 14.5874 73.4626 14.2296 71.9325"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                  ></path>
+                </g>
+                <defs>
+                  <clippath id="clip0_257_335">
+                    <rect
+                      width="106"
+                      height="67"
+                      fill="white"
+                      transform="matrix(-0.748497 0.663138 0.663138 0.748497 79.3407 0)"
+                    ></rect>
+                  </clippath>
+                </defs>
+              </svg>
+            </li>
+          </ol>
+        </div>
+      </div>
+    </section>
+    <section
+      class="dHctcHktMTY dHctb3ZlcmZsb3ctaGlkZGVu dHctYmctc2xhdGUtNTA sm:dHctcHktMjQ lg:dHctcHktMzI"
+    >
+      <div
+        class="dHctbXgtYXV0bw dHctbWF4LXctc2NyZWVuLXhs dHctcHgtNQ sm:dHctcHgtNg lg:dHctcHgtOA"
+      >
+        <div
+          class="dHctZ3JpZA dHctZ3JpZC1jb2xzLTE dHctZ2FwLXktMTY dHctZ2FwLXgtOA sm:dHctZ2FwLXktMjA lg:dHctZ3JpZC1jb2xzLTI lg:dHctaXRlbXMtY2VudGVy"
+        >
+          <div>
+            <div class="dHctbWF4LXctMnhs dHctbXgtYXV0bw lg:dHctbXgtMA">
+              <h2
+                class="dHctdGV4dC00eGw dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC01eGw"
+              >
+                A tour of my gadgets and workstation
+              </h2>
+              <p
+                class="dHctbWF4LXctbGc dHctbXQtNg dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1zbGF0ZS03MDA"
+              >
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                Maiores impedit perferendis suscipit eaque, iste dolor
+                cupiditate blanditiis ratione. Instant extraction mazagran milk
+                instant milk foam café iced aftertaste iced brewed.
+              </p>
+              <a
+                class="dHctaW5saW5lLWZsZXg dHctaXRlbXMtY2VudGVy dHctcm91bmRlZC1mdWxs dHctZ2FwLTI.5 dHctanVzdGlmeS1jZW50ZXI dHctcHgtNw dHctcHktMw dHctdGV4dC1tZA dHctZm9udC1zZW1pYm9sZA dHctbGVhZGluZy1ub25l dHctb3V0bGluZS1vZmZzZXQtMg dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ active:dHctdHJhbnNpdGlvbi1ub25l dHctdGV4dC1zbGF0ZS05MDA dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDA hover:dHctYmctc2xhdGUtMjAwLzYw hover:dHctc2hhZG93LXNreS0xMDAvNTA dHctYmctc2xhdGUtMTAwLzgw dHctbXQtMTA dHctZ2FwLXgtMw.5 dHctYmctc2xhdGUtMjAwLzc1"
+                href="https://twitter.com/raguila8"
+                ><svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewbox="0 0 24 24"
+                  fill="currentColor"
+                  class="dHctdy00 dHctaC00 dHctdGV4dC1za3ktNTAw"
+                >
+                  <g>
+                    <path
+                      d="M24,4.6c-0.9,0.4-1.8,0.7-2.8,0.8c1-0.6,1.8-1.6,2.2-2.7c-1,0.6-2,1-3.1,1.2c-0.9-1-2.2-1.6-3.6-1.6 c-2.7,0-4.9,2.2-4.9,4.9c0,0.4,0,0.8,0.1,1.1C7.7,8.1,4.1,6.1,1.7,3.1C1.2,3.9,1,4.7,1,5.6c0,1.7,0.9,3.2,2.2,4.1 C2.4,9.7,1.6,9.5,1,9.1c0,0,0,0,0,0.1c0,2.4,1.7,4.4,3.9,4.8c-0.4,0.1-0.8,0.2-1.3,0.2c-0.3,0-0.6,0-0.9-0.1c0.6,2,2.4,3.4,4.6,3.4 c-1.7,1.3-3.8,2.1-6.1,2.1c-0.4,0-0.8,0-1.2-0.1c2.2,1.4,4.8,2.2,7.5,2.2c9.1,0,14-7.5,14-14c0-0.2,0-0.4,0-0.6 C22.5,6.4,23.3,5.5,24,4.6z"
+                    ></path>
+                  </g></svg
+                >Follow me on Twitter</a
+              >
+            </div>
+          </div>
+          <div
+            class="dHctcmVsYXRpdmU dHctdy1mdWxs dHctbWF4LXcteGw dHctcGItMjQ dHctbXgtYXV0bw lg:dHctbXgtMA lg:dHctbWF4LXctbm9uZQ"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="80"
+              height="79"
+              viewbox="0 0 80 79"
+              fill="none"
+              class="dHctYWJzb2x1dGU dHctbGVmdC0w dHctc2NhbGUtNzU dHctdG9wLTg sm:dHctdG9wLTEx sm:LXR3LWxlZnQtNA sm:dHctc2NhbGUtMTAw"
+            >
+              <g clip-path="url(#clip0_253_8)">
+                <path
+                  d="M80 18.6138H20.9109"
+                  stroke="#0369A1"
+                  stroke-opacity="0.2"
+                  stroke-miterlimit="10"
+                ></path>
+                <path
+                  d="M80 23.9209H20.9109"
+                  stroke="#0369A1"
+                  stroke-opacity="0.2"
+                  stroke-miterlimit="10"
+                ></path>
+                <path
+                  d="M80 29.3069H20.9109"
+                  stroke="#0369A1"
+                  stroke-opacity="0.2"
+                  stroke-miterlimit="10"
+                ></path>
+                <path
+                  d="M80 34.6929H20.9109"
+                  stroke="#0369A1"
+                  stroke-opacity="0.2"
+                  stroke-miterlimit="10"
+                ></path>
+                <path
+                  d="M80 40.0792H20.9109"
+                  stroke="#0369A1"
+                  stroke-opacity="0.2"
+                  stroke-miterlimit="10"
+                ></path>
+                <path
+                  d="M80 45.3859H20.9109"
+                  stroke="#0369A1"
+                  stroke-opacity="0.2"
+                  stroke-miterlimit="10"
+                ></path>
+                <path
+                  d="M80 50.7723H20.9109"
+                  stroke="#0369A1"
+                  stroke-opacity="0.2"
+                  stroke-miterlimit="10"
+                ></path>
+                <path
+                  d="M80 56.1583H20.9109"
+                  stroke="#0369A1"
+                  stroke-opacity="0.2"
+                  stroke-miterlimit="10"
+                ></path>
+                <path
+                  d="M80 61.5447H20.9109"
+                  stroke="#0369A1"
+                  stroke-opacity="0.2"
+                  stroke-miterlimit="10"
+                ></path>
+                <path
+                  d="M80 66.8513H20.9109"
+                  stroke="#0369A1"
+                  stroke-opacity="0.2"
+                  stroke-miterlimit="10"
+                ></path>
+                <path
+                  d="M80 72.2377H20.9109"
+                  stroke="#0369A1"
+                  stroke-opacity="0.2"
+                  stroke-miterlimit="10"
+                ></path>
+                <path
+                  d="M80 77.6237H20.9109"
+                  stroke="#0369A1"
+                  stroke-opacity="0.2"
+                  stroke-miterlimit="10"
+                ></path>
+                <path
+                  d="M61.9059 61.507V0.6752H1.07428V61.507H61.9059Z"
+                  stroke="#BAE6FD"
+                  stroke-miterlimit="10"
+                ></path>
+                <path
+                  d="M61.9059 61.507V0.6752H1.07428V61.507H61.9059Z"
+                  stroke="#0369A1"
+                  stroke-opacity="0.2"
+                  stroke-miterlimit="10"
+                ></path>
+              </g>
+              <defs>
+                <clippath id="clip0_253_8">
+                  <rect
+                    width="80"
+                    height="78.4158"
+                    fill="white"
+                    transform="matrix(-1 0 0 -1 80 78.4158)"
+                  ></rect>
+                </clippath>
+              </defs>
+            </svg>
+            <div class="dHctcmVsYXRpdmU dHctdy00LzU dHctbWwtYXV0bw">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="190"
+                height="180"
+                viewbox="0 0 190 180"
+                fill="none"
+                class="dHctYWJzb2x1dGU LXR3LXJpZ2h0LTIw LXR3LWJvdHRvbS0yMA dHctaC00NA dHctdy00NA"
+              >
+                <g clip-path="url(#clip0_253_45)">
+                  <path
+                    d="M150.567 128.664L157.691 121.466"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M126.488 153.583L139.547 140.243"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M127.834 131.469L176.327 81.1082"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M103.079 157.091L112.911 146.74"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M142.062 95.6753L184.792 51.4535"
+                    stroke="#BAE6FD"
+                    stroke-opacity="0.95"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M142.062 95.6753L184.792 51.4535"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M77.6277 162.359L123.068 115.157"
+                    stroke="#BAE6FD"
+                    stroke-opacity="0.95"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M77.6277 162.359L123.068 115.157"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M92.7031 125.688L167.989 47.7732"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M61.5034 157.976L77.4424 141.48"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M134.23 61.6403L152.377 43.036"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M22.8296 177.105L115.242 81.4667"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M76.2266 100.774L166.604 7.24091"
+                    stroke="#BAE6FD"
+                    stroke-opacity="0.95"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M76.2266 100.774L166.604 7.24091"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M36.3792 142.012L57.4051 120.252"
+                    stroke="#BAE6FD"
+                    stroke-opacity="0.95"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M36.3792 142.012L57.4051 120.252"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M73.1582 82.8795L131.488 22.5132"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M13.6411 144.474L56.7103 99.9007"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M100.614 33.5686L131.136 1.98228"
+                    stroke="#BAE6FD"
+                    stroke-opacity="0.95"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M100.614 33.5686L131.136 1.98228"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M19.3926 117.626L78.3978 56.3851"
+                    stroke="#BAE6FD"
+                    stroke-opacity="0.95"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M19.3926 117.626L78.3978 56.3851"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M50.4067 64.4586L91.6108 21.8161"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M3.60767 112.891L34.2987 81.1289"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M66.3306 26.91L82.4421 10.4116"
+                    stroke="#BAE6FD"
+                    stroke-opacity="0.95"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M66.3306 26.91L82.4421 10.4116"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M7.4917 87.8014L48.19 45.8579"
+                    stroke="#BAE6FD"
+                    stroke-opacity="0.95"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M7.4917 87.8014L48.19 45.8579"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M37.4919 35.8599L47.3266 25.6818"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M20.1963 53.7595L26.9788 46.7402"
+                    stroke="#0369A1"
+                    stroke-opacity="0.2"
+                    stroke-width="1.1533"
+                    stroke-miterlimit="10"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                </g>
+                <defs>
+                  <clippath id="clip0_253_45">
+                    <rect
+                      width="176"
+                      height="186.353"
+                      fill="white"
+                      transform="translate(3.01904 179.171) rotate(-90.9829)"
+                    ></rect>
+                  </clippath>
+                </defs>
+              </svg>
+              <div class="dHctYXNwZWN0LXctNg dHctYXNwZWN0LWgtNQ">
+                <img
+                  alt=""
+                  loading="lazy"
+                  width="1920"
+                  height="1280"
+                  decoding="async"
+                  data-nimg="1"
+                  class="dHctb2JqZWN0LWNvdmVy dHctb2JqZWN0LWNlbnRlcg dHctdy1mdWxs dHctaC1mdWxs dHctcm91bmRlZC0yeGw"
+                  style="color: transparent"
+                  sizes="(min-width: 1280px) 30rem, (min-width: 1024px) 40vw, (min-width: 640px) 29rem, 80vw"
+                  srcset="bloh/workstation-01-1.jpg 256w?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=256&amp;q=75 256w, bloh/workstation-01-2.jpg 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=360&amp;q=75 360w, bloh/workstation-01-3.jpg 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=384&amp;q=75 384w, bloh/workstation-01-4.jpg 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=414&amp;q=75 414w, bloh/workstation-01-5.jpg 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=512&amp;q=75 512w, bloh/workstation-01-6.jpg 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=640&amp;q=75 640w, bloh/workstation-01-7.jpg 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=750&amp;q=75 750w, bloh/workstation-01-8.jpg 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=828&amp;q=75 828w, bloh/workstation-01-9.jpg 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=1080&amp;q=75 1080w, bloh/workstation-01-10.jpg 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=1200&amp;q=75 1200w, bloh/workstation-01-11.jpg 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=1536&amp;q=75 1536w, bloh/workstation-01-12.jpg 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=1920&amp;q=75 1920w, bloh/workstation-01-13.jpg 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=2048&amp;q=75 2048w, bloh/workstation-01.jpg 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=3840&amp;q=75 3840w"
+                  src="bloh/workstation-01.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=3840&amp;q=75"
+                />
+              </div>
+            </div>
+            <div
+              class="dHctYWJzb2x1dGU dHctYm90dG9tLTA dHctbGVmdC0w dHctdy0xLzI"
+            >
+              <div class="dHctYXNwZWN0LXctMQ dHctYXNwZWN0LWgtMQ">
+                <img
+                  alt=""
+                  loading="lazy"
+                  width="640"
+                  height="427"
+                  decoding="async"
+                  data-nimg="1"
+                  class="dHctb2JqZWN0LWNvdmVy dHctb2JqZWN0LWNlbnRlcg dHctdy1mdWxs dHctaC1mdWxs dHctcm91bmRlZC0yeGw"
+                  style="color: transparent"
+                  sizes="(min-width: 1280px) 18.5rem, (min-width: 1024px) 25vw, (min-width: 640px) 18rem, 50vw"
+                  srcset="bloh/workstation-02-1.jpg 96w?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=96&amp;q=75 96w, bloh/workstation-02-2.jpg 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=128&amp;q=75 128w, bloh/workstation-02-3.jpg 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=256&amp;q=75 256w, bloh/workstation-02-4.jpg 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=360&amp;q=75 360w, bloh/workstation-02-5.jpg 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=384&amp;q=75 384w, bloh/workstation-02-6.jpg 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=414&amp;q=75 414w, bloh/workstation-02-7.jpg 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=512&amp;q=75 512w, bloh/workstation-02-8.jpg 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=640&amp;q=75 640w, bloh/workstation-02-9.jpg 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=750&amp;q=75 750w, bloh/workstation-02-10.jpg 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=828&amp;q=75 828w, bloh/workstation-02-11.jpg 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=1080&amp;q=75 1080w, bloh/workstation-02-12.jpg 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=1200&amp;q=75 1200w, bloh/workstation-02-13.jpg 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=1536&amp;q=75 1536w, bloh/workstation-02-14.jpg 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=1920&amp;q=75 1920w, bloh/workstation-02-15.jpg 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=2048&amp;q=75 2048w, bloh/workstation-02.jpg 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=3840&amp;q=75 3840w"
+                  src="bloh/workstation-02.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=3840&amp;q=75"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="dHctcHktMTY dHctb3ZlcmZsb3ctaGlkZGVu dHctYmctd2hpdGU sm:dHctcHktMjQ lg:dHctcHktMzI"
+    >
+      <div
+        class="dHctbXgtYXV0bw dHctbWF4LXctc2NyZWVuLXhs dHctcHgtNQ sm:dHctcHgtNg lg:dHctcHgtOA"
+      >
+        <div
+          class="dHctZ3JpZA dHctZ3JpZC1jb2xzLTE dHctZ2FwLXktMTY dHctZ2FwLXgtOA sm:dHctZ2FwLXktMjA lg:dHctZ3JpZC1jb2xzLTI"
+        >
+          <div class="lg:dHctb3JkZXItMg">
+            <div class="dHctbWF4LXctMnhs dHctbXgtYXV0bw lg:dHctbXgtMA">
+              <h2
+                class="dHctdGV4dC00eGw dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC01eGw"
+              >
+                A simple stack that you can<!-- -->
+                <span class="dHctcmVsYXRpdmU dHctd2hpdGVzcGFjZS1ub3dyYXA"
+                  ><svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="339"
+                    height="31"
+                    viewbox="0 0 339 31"
+                    fill="none"
+                    class="dHctYWJzb2x1dGU top-[70%] dHctbGVmdC0xLzI dHctaC0[0.62em] dHctdy1hdXRv LXR3LXRyYW5zbGF0ZS14LTEvMg dHctZmlsbC1za3ktMjAwLzkw"
+                  >
+                    <mask
+                      id="mask0_239_1184"
+                      style="mask-type: luminance"
+                      maskunits="userSpaceOnUse"
+                      x="10"
+                      y="0"
+                      width="329"
+                      height="31"
+                    >
+                      <path
+                        d="M10.1475 0.918457H338.121V30.1173H10.1475V0.918457Z"
+                        fill="white"
+                      ></path>
+                    </mask>
+                    <g mask="url(#mask0_239_1184)">
+                      <path
+                        d="M280.105 20.3507C263.379 18.442 246.624 16.7484 229.848 15.2738C239.174 15.8156 248.495 16.3968 257.81 17.0606C257.836 17.0606 257.86 17.0642 257.883 17.0642C265.302 18.0796 272.713 19.1667 280.105 20.3507ZM166.373 6.05272C168.594 6.05272 170.812 6.04913 173.033 6.06348C179.547 6.10295 186.056 6.19982 192.566 6.34334C189.715 6.32181 186.867 6.29311 184.02 6.26799C179.368 6.22853 174.72 6.21059 170.068 6.19623C168.835 6.14242 167.604 6.09577 166.373 6.05272ZM94.3602 5.72621C110.973 4.66059 127.611 4.05063 144.252 3.89635C127.603 4.20491 110.975 4.84357 94.3602 5.72621ZM173.46 10.3583C164.324 10.0533 155.184 9.83802 146.042 9.6658C138.219 9.30341 130.391 8.97691 122.563 8.69704C129.414 8.59658 136.263 8.52482 143.112 8.47818C166.739 8.73651 190.358 9.9636 213.899 12.0769C200.42 11.3737 186.935 10.8068 173.46 10.3583ZM337.139 22.9484C315.186 20.096 293.134 17.8105 271.033 15.9555C250.91 12.9416 230.683 10.5377 210.396 8.79392C226.731 9.01996 243.09 9.41105 259.412 10.1968C270.803 11.5531 282.171 13.1102 293.502 14.9042C295.249 15.1805 295.777 13.2968 293.989 13.0134C291.621 12.6402 289.245 12.3101 286.874 11.9549C300.335 13.2466 313.779 14.7392 327.193 16.4506C329.3 16.7197 329.603 14.4844 327.512 14.1795C314.748 12.2994 301.913 10.9036 289.037 9.83802C271.243 8.09068 253.41 6.72366 235.554 5.71903C174.598 0.0608174 113.074 0.505725 52.18 7.15422C41.7917 7.49508 31.5097 8.49971 21.6034 10.8426C19.9864 11.2266 19.9631 12.2527 20.7275 12.877C20.2792 12.938 19.8335 13.0026 19.3879 13.0672C17.0013 13.3793 14.62 13.713 12.2412 14.079C9.20687 14.549 9.84432 17.8069 12.8735 17.3476C54.6805 10.9754 97.848 10.8355 140.458 11.8365C152.142 12.3532 163.821 12.9667 175.492 13.7058C227.335 16.9852 278.968 22.3851 330.337 29.6507C332.697 29.988 334.089 27.4226 331.345 26.8414C320.086 24.4661 308.772 22.2811 297.425 20.2718C297.71 20.2969 297.995 20.322 298.283 20.3472C305.025 20.9607 311.76 21.6173 318.497 22.299C321.936 22.647 325.377 22.9735 328.818 23.3036C330.298 23.4436 331.78 23.5907 333.259 23.7342C333.384 23.8347 333.542 23.9064 333.718 23.9172C334.944 23.9925 336.164 24.0679 337.385 24.1396C338.47 24.2042 337.921 23.0489 337.139 22.9484Z"
+                      ></path>
+                    </g></svg
+                  ><span class="dHctcmVsYXRpdmU dHctdGV4dC1za3ktNzAw"
+                    >always trust</span
+                  ></span
+                >
+              </h2>
+              <p
+                class="dHctbXQtNg dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1zbGF0ZS03MDA"
+              >
+                I&#x27;ve been a software developer for over 13 years, and while
+                my stack has shifted over the years, I kept coming back to the
+                same technologies. The following is the stack that I&#x27;ve
+                developed &amp; honed over the years as a software developer.
+              </p>
+              <div
+                class="dHctZ3JpZA dHctZ3JpZC1jb2xzLTI dHctZ2FwLTI dHctbXQtMTI sm:dHctZ2FwLTM"
+              >
+                <div
+                  class="dHctcHgtNA dHctcHktNg dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC1sZw dHctYmctc2xhdGUtNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ sm:dHctcHgtNg"
+                >
+                  <div class="dHctZmxleA dHctZ2FwLTQ sm:dHctZ2FwLTY">
+                    <div
+                      class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYmctd2hpdGU dHctcm91bmRlZC1sZw dHctc2hhZG93LXNt dHctaC05 dHctdy05 dHctc2hyaW5rLTA dHctc2hhZG93LXNreS0xMDAvNzU dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDAvOTU sm:dHctaC0xMQ sm:dHctdy0xMQ"
+                    >
+                      <img
+                        alt="Rails"
+                        loading="lazy"
+                        width="64"
+                        height="64"
+                        decoding="async"
+                        data-nimg="1"
+                        class="dHctaC1hdXRv dHctdy01 dHctc2hyaW5rLTA sm:dHctdy0[22px]"
+                        style="color: transparent"
+                        sizes="(min-width: 640px) 22px, 1.25rem"
+                        srcset="bloh/rails-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=16&amp;q=75 16w, bloh/rails-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=32&amp;q=75 32w, bloh/rails-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=48&amp;q=75 48w, bloh/rails-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=64&amp;q=75 64w, bloh/rails-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=96&amp;q=75 96w, bloh/rails-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=128&amp;q=75 128w, bloh/rails-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=256&amp;q=75 256w, bloh/rails-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=360&amp;q=75 360w, bloh/rails-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=384&amp;q=75 384w, bloh/rails-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=414&amp;q=75 414w, bloh/rails-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=512&amp;q=75 512w, bloh/rails-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=640&amp;q=75 640w, bloh/rails-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=750&amp;q=75 750w, bloh/rails-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=828&amp;q=75 828w, bloh/rails-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=1080&amp;q=75 1080w, bloh/rails-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=1200&amp;q=75 1200w, bloh/rails-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=1536&amp;q=75 1536w, bloh/rails-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=1920&amp;q=75 1920w, bloh/rails-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=2048&amp;q=75 2048w, bloh/rails.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=3840&amp;q=75 3840w"
+                        src="bloh/rails.png?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=3840&amp;q=75"
+                      />
+                    </div>
+                    <div class="dHctb3ZlcmZsb3ctaGlkZGVu">
+                      <p
+                        class="dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC1sZw"
+                      >
+                        Rails
+                      </p>
+                      <p
+                        class="dHctbXQtMQ dHctdHJ1bmNhdGU dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA sm:dHctdGV4dC1iYXNl"
+                      >
+                        7+ years of experience
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="dHctcHgtNA dHctcHktNg dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC1sZw dHctYmctc2xhdGUtNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ sm:dHctcHgtNg"
+                >
+                  <div class="dHctZmxleA dHctZ2FwLTQ sm:dHctZ2FwLTY">
+                    <div
+                      class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYmctd2hpdGU dHctcm91bmRlZC1sZw dHctc2hhZG93LXNt dHctaC05 dHctdy05 dHctc2hyaW5rLTA dHctc2hhZG93LXNreS0xMDAvNzU dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDAvOTU sm:dHctaC0xMQ sm:dHctdy0xMQ"
+                    >
+                      <img
+                        alt="Javascript"
+                        loading="lazy"
+                        width="64"
+                        height="64"
+                        decoding="async"
+                        data-nimg="1"
+                        class="dHctaC1hdXRv dHctdy01 dHctc2hyaW5rLTA sm:dHctdy0[22px]"
+                        style="color: transparent"
+                        sizes="(min-width: 640px) 22px, 1.25rem"
+                        srcset="bloh/javascript-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=16&amp;q=75 16w, bloh/javascript-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=32&amp;q=75 32w, bloh/javascript-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=48&amp;q=75 48w, bloh/javascript-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=64&amp;q=75 64w, bloh/javascript-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=96&amp;q=75 96w, bloh/javascript-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=128&amp;q=75 128w, bloh/javascript-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=256&amp;q=75 256w, bloh/javascript-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=360&amp;q=75 360w, bloh/javascript-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=384&amp;q=75 384w, bloh/javascript-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=414&amp;q=75 414w, bloh/javascript-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=512&amp;q=75 512w, bloh/javascript-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=640&amp;q=75 640w, bloh/javascript-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=750&amp;q=75 750w, bloh/javascript-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=828&amp;q=75 828w, bloh/javascript-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=1080&amp;q=75 1080w, bloh/javascript-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=1200&amp;q=75 1200w, bloh/javascript-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=1536&amp;q=75 1536w, bloh/javascript-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=1920&amp;q=75 1920w, bloh/javascript-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=2048&amp;q=75 2048w, bloh/javascript.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=3840&amp;q=75 3840w"
+                        src="bloh/javascript.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=3840&amp;q=75"
+                      />
+                    </div>
+                    <div class="dHctb3ZlcmZsb3ctaGlkZGVu">
+                      <p
+                        class="dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC1sZw"
+                      >
+                        Javascript
+                      </p>
+                      <p
+                        class="dHctbXQtMQ dHctdHJ1bmNhdGU dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA sm:dHctdGV4dC1iYXNl"
+                      >
+                        8+ years of experience
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="dHctcHgtNA dHctcHktNg dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC1sZw dHctYmctc2xhdGUtNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ sm:dHctcHgtNg"
+                >
+                  <div class="dHctZmxleA dHctZ2FwLTQ sm:dHctZ2FwLTY">
+                    <div
+                      class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYmctd2hpdGU dHctcm91bmRlZC1sZw dHctc2hhZG93LXNt dHctaC05 dHctdy05 dHctc2hyaW5rLTA dHctc2hhZG93LXNreS0xMDAvNzU dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDAvOTU sm:dHctaC0xMQ sm:dHctdy0xMQ"
+                    >
+                      <img
+                        alt="Python"
+                        loading="lazy"
+                        width="64"
+                        height="64"
+                        decoding="async"
+                        data-nimg="1"
+                        class="dHctaC1hdXRv dHctdy01 dHctc2hyaW5rLTA sm:dHctdy0[22px]"
+                        style="color: transparent"
+                        sizes="(min-width: 640px) 22px, 1.25rem"
+                        srcset="bloh/python-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=16&amp;q=75 16w, bloh/python-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=32&amp;q=75 32w, bloh/python-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=48&amp;q=75 48w, bloh/python-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=64&amp;q=75 64w, bloh/python-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=96&amp;q=75 96w, bloh/python-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=128&amp;q=75 128w, bloh/python-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=256&amp;q=75 256w, bloh/python-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=360&amp;q=75 360w, bloh/python-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=384&amp;q=75 384w, bloh/python-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=414&amp;q=75 414w, bloh/python-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=512&amp;q=75 512w, bloh/python-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=640&amp;q=75 640w, bloh/python-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=750&amp;q=75 750w, bloh/python-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=828&amp;q=75 828w, bloh/python-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=1080&amp;q=75 1080w, bloh/python-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=1200&amp;q=75 1200w, bloh/python-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=1536&amp;q=75 1536w, bloh/python-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=1920&amp;q=75 1920w, bloh/python-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=2048&amp;q=75 2048w, bloh/python.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=3840&amp;q=75 3840w"
+                        src="bloh/python.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=3840&amp;q=75"
+                      />
+                    </div>
+                    <div class="dHctb3ZlcmZsb3ctaGlkZGVu">
+                      <p
+                        class="dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC1sZw"
+                      >
+                        Python
+                      </p>
+                      <p
+                        class="dHctbXQtMQ dHctdHJ1bmNhdGU dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA sm:dHctdGV4dC1iYXNl"
+                      >
+                        4 years of experience
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="dHctcHgtNA dHctcHktNg dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC1sZw dHctYmctc2xhdGUtNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ sm:dHctcHgtNg"
+                >
+                  <div class="dHctZmxleA dHctZ2FwLTQ sm:dHctZ2FwLTY">
+                    <div
+                      class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYmctd2hpdGU dHctcm91bmRlZC1sZw dHctc2hhZG93LXNt dHctaC05 dHctdy05 dHctc2hyaW5rLTA dHctc2hhZG93LXNreS0xMDAvNzU dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDAvOTU sm:dHctaC0xMQ sm:dHctdy0xMQ"
+                    >
+                      <img
+                        alt="Postgresql"
+                        loading="lazy"
+                        width="64"
+                        height="64"
+                        decoding="async"
+                        data-nimg="1"
+                        class="dHctaC1hdXRv dHctdy01 dHctc2hyaW5rLTA sm:dHctdy0[22px]"
+                        style="color: transparent"
+                        sizes="(min-width: 640px) 22px, 1.25rem"
+                        srcset="bloh/postgresql-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=16&amp;q=75 16w, bloh/postgresql-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=32&amp;q=75 32w, bloh/postgresql-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=48&amp;q=75 48w, bloh/postgresql-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=64&amp;q=75 64w, bloh/postgresql-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=96&amp;q=75 96w, bloh/postgresql-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=128&amp;q=75 128w, bloh/postgresql-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=256&amp;q=75 256w, bloh/postgresql-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=360&amp;q=75 360w, bloh/postgresql-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=384&amp;q=75 384w, bloh/postgresql-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=414&amp;q=75 414w, bloh/postgresql-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=512&amp;q=75 512w, bloh/postgresql-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=640&amp;q=75 640w, bloh/postgresql-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=750&amp;q=75 750w, bloh/postgresql-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=828&amp;q=75 828w, bloh/postgresql-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=1080&amp;q=75 1080w, bloh/postgresql-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=1200&amp;q=75 1200w, bloh/postgresql-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=1536&amp;q=75 1536w, bloh/postgresql-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=1920&amp;q=75 1920w, bloh/postgresql-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=2048&amp;q=75 2048w, bloh/postgresql.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=3840&amp;q=75 3840w"
+                        src="bloh/postgresql.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=3840&amp;q=75"
+                      />
+                    </div>
+                    <div class="dHctb3ZlcmZsb3ctaGlkZGVu">
+                      <p
+                        class="dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC1sZw"
+                      >
+                        Postgresql
+                      </p>
+                      <p
+                        class="dHctbXQtMQ dHctdHJ1bmNhdGU dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA sm:dHctdGV4dC1iYXNl"
+                      >
+                        6 years of experience
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="dHctcHgtNA dHctcHktNg dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC1sZw dHctYmctc2xhdGUtNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ sm:dHctcHgtNg"
+                >
+                  <div class="dHctZmxleA dHctZ2FwLTQ sm:dHctZ2FwLTY">
+                    <div
+                      class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYmctd2hpdGU dHctcm91bmRlZC1sZw dHctc2hhZG93LXNt dHctaC05 dHctdy05 dHctc2hyaW5rLTA dHctc2hhZG93LXNreS0xMDAvNzU dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDAvOTU sm:dHctaC0xMQ sm:dHctdy0xMQ"
+                    >
+                      <img
+                        alt="Tailwind"
+                        loading="lazy"
+                        width="33"
+                        height="20"
+                        decoding="async"
+                        data-nimg="1"
+                        class="dHctaC1hdXRv dHctdy01 dHctc2hyaW5rLTA sm:dHctdy0[22px]"
+                        style="color: transparent"
+                        sizes="(min-width: 640px) 22px, 1.25rem"
+                        srcset="bloh/tailwindcss-3.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=16&amp;q=75 16w, bloh/tailwindcss-4.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=32&amp;q=75 32w, bloh/tailwindcss-2.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=48&amp;q=75 48w, bloh/tailwindcss-5.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=64&amp;q=75 64w, bloh/tailwindcss.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=96&amp;q=75 96w, bloh/tailwindcss-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=128&amp;q=75 128w, bloh/tailwindcss-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=256&amp;q=75 256w, bloh/tailwindcss-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=360&amp;q=75 360w, bloh/tailwindcss-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=384&amp;q=75 384w, bloh/tailwindcss-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=414&amp;q=75 414w, bloh/tailwindcss-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=512&amp;q=75 512w, bloh/tailwindcss-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=640&amp;q=75 640w, bloh/tailwindcss-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=750&amp;q=75 750w, bloh/tailwindcss-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=828&amp;q=75 828w, bloh/tailwindcss-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=1080&amp;q=75 1080w, bloh/tailwindcss-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=1200&amp;q=75 1200w, bloh/tailwindcss-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=1536&amp;q=75 1536w, bloh/tailwindcss-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=1920&amp;q=75 1920w, bloh/tailwindcss-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=2048&amp;q=75 2048w, bloh/tailwindcss-1.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=3840&amp;q=75 3840w"
+                        src="bloh/tailwindcss-1.png?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=3840&amp;q=75"
+                      />
+                    </div>
+                    <div class="dHctb3ZlcmZsb3ctaGlkZGVu">
+                      <p
+                        class="dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC1sZw"
+                      >
+                        Tailwind
+                      </p>
+                      <p
+                        class="dHctbXQtMQ dHctdHJ1bmNhdGU dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA sm:dHctdGV4dC1iYXNl"
+                      >
+                        3 years of experience
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="dHctcHgtNA dHctcHktNg dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC1sZw dHctYmctc2xhdGUtNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ sm:dHctcHgtNg"
+                >
+                  <div class="dHctZmxleA dHctZ2FwLTQ sm:dHctZ2FwLTY">
+                    <div
+                      class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYmctd2hpdGU dHctcm91bmRlZC1sZw dHctc2hhZG93LXNt dHctaC05 dHctdy05 dHctc2hyaW5rLTA dHctc2hhZG93LXNreS0xMDAvNzU dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDAvOTU sm:dHctaC0xMQ sm:dHctdy0xMQ"
+                    >
+                      <img
+                        alt="Ruby"
+                        loading="lazy"
+                        width="64"
+                        height="64"
+                        decoding="async"
+                        data-nimg="1"
+                        class="dHctaC1hdXRv dHctdy01 dHctc2hyaW5rLTA sm:dHctdy0[22px]"
+                        style="color: transparent"
+                        sizes="(min-width: 640px) 22px, 1.25rem"
+                        srcset="bloh/ruby-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=16&amp;q=75 16w, bloh/ruby-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=32&amp;q=75 32w, bloh/ruby-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=48&amp;q=75 48w, bloh/ruby-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=64&amp;q=75 64w, bloh/ruby-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=96&amp;q=75 96w, bloh/ruby-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=128&amp;q=75 128w, bloh/ruby-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=256&amp;q=75 256w, bloh/ruby-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=360&amp;q=75 360w, bloh/ruby-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=384&amp;q=75 384w, bloh/ruby-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=414&amp;q=75 414w, bloh/ruby-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=512&amp;q=75 512w, bloh/ruby-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=640&amp;q=75 640w, bloh/ruby-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=750&amp;q=75 750w, bloh/ruby-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=828&amp;q=75 828w, bloh/ruby-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=1080&amp;q=75 1080w, bloh/ruby-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=1200&amp;q=75 1200w, bloh/ruby-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=1536&amp;q=75 1536w, bloh/ruby-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=1920&amp;q=75 1920w, bloh/ruby-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=2048&amp;q=75 2048w, bloh/ruby.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=3840&amp;q=75 3840w"
+                        src="bloh/ruby.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=3840&amp;q=75"
+                      />
+                    </div>
+                    <div class="dHctb3ZlcmZsb3ctaGlkZGVu">
+                      <p
+                        class="dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC1sZw"
+                      >
+                        Ruby
+                      </p>
+                      <p
+                        class="dHctbXQtMQ dHctdHJ1bmNhdGU dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA sm:dHctdGV4dC1iYXNl"
+                      >
+                        9 years of experience
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="dHctcmVsYXRpdmU dHctdy1mdWxs dHctbWF4LXcteGw dHctcGItMjQ dHctbXgtYXV0bw lg:dHctb3JkZXItMQ lg:dHctbXgtMA lg:dHctbWF4LXctbm9uZQ"
+          >
+            <div
+              class="dHctcmVsYXRpdmU dHctdy1mdWxs dHctbWF4LXctbGc dHctbXgtYXV0bw lg:dHctbXItYXV0bw lg:dHctbWwtMA"
+            >
+              <div class="dHctYXNwZWN0LXctNQ dHctYXNwZWN0LWgtNw">
+                <img
+                  alt=""
+                  loading="lazy"
+                  width="743"
+                  height="1048"
+                  decoding="async"
+                  data-nimg="1"
+                  class="dHctb2JqZWN0LWNvdmVy dHctb2JqZWN0LWxlZnQ dHctdy1mdWxs dHctaC1mdWxs dHctcm91bmRlZC0yeGw"
+                  style="color: transparent"
+                  sizes="(min-width: 640px) 32rem, calc(100vw - 2.5rem)"
+                  srcset="bloh/portrait-02-1.jpg 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=16&amp;q=75 16w, bloh/portrait-02-2.jpg 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=32&amp;q=75 32w, bloh/portrait-02-3.jpg 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=48&amp;q=75 48w, bloh/portrait-02-4.jpg 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=64&amp;q=75 64w, bloh/portrait-02-5.jpg 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=96&amp;q=75 96w, bloh/portrait-02-6.jpg 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=128&amp;q=75 128w, bloh/portrait-02-7.jpg 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=256&amp;q=75 256w, bloh/portrait-02-8.jpg 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=360&amp;q=75 360w, bloh/portrait-02-9.jpg 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=384&amp;q=75 384w, bloh/portrait-02-10.jpg 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=414&amp;q=75 414w, bloh/portrait-02-11.jpg 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=512&amp;q=75 512w, bloh/portrait-02-12.jpg 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=640&amp;q=75 640w, bloh/portrait-02-13.jpg 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=750&amp;q=75 750w, bloh/portrait-02-14.jpg 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=828&amp;q=75 828w, bloh/portrait-02-15.jpg 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=1080&amp;q=75 1080w, bloh/portrait-02-16.jpg 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=1200&amp;q=75 1200w, bloh/portrait-02-17.jpg 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=1536&amp;q=75 1536w, bloh/portrait-02-18.jpg 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=1920&amp;q=75 1920w, bloh/portrait-02-19.jpg 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=2048&amp;q=75 2048w, bloh/portrait-02.jpg 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=3840&amp;q=75 3840w"
+                  src="bloh/portrait-02.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=3840&amp;q=75"
+                />
+              </div>
+              <div
+                class="dHctYWJzb2x1dGU dHctbWF4LXcteHM dHctcC04 LXR3LWJvdHRvbS0xNg dHctcmlnaHQtNg dHctcm91bmRlZC0yeGw dHctYmctc2t5LTcwMC85NQ dHctYmFja2Ryb3AtYmx1ci1zbQ xl:dHctcmlnaHQtMA xl:dHctYm90dG9tLTEw xl:dHctdHJhbnNsYXRlLXgtMS80"
+              >
+                <p
+                  class="dHctdGV4dC0yeGw dHctZm9udC1tZWRpdW0 dHctZm9udC1kaXNwbGF5 dHctdGV4dC1za3ktNTA"
+                >
+                  <span
+                    class="dHctdGV4dC0[28px] dHctZm9udC1ib2xk dHctdGV4dC13aGl0ZQ"
+                    >55+</span
+                  >
+                  <!-- -->Clients have loved my work
+                </p>
+                <div
+                  class="dHctbXQtNg dHctZmxleA LXR3LXNwYWNlLXgtMQ.5 dHctb3ZlcmZsb3ctaGlkZGVu"
+                >
+                  <img
+                    alt=""
+                    loading="lazy"
+                    width="84"
+                    height="85"
+                    decoding="async"
+                    data-nimg="1"
+                    class="dHctaW5saW5lLWJsb2Nr dHctdy04 dHctaC04 dHctcm91bmRlZC1mdWxs dHctcmluZy0y dHctcmluZy1za3ktNzAwLzk1"
+                    style="color: transparent"
+                    sizes="2rem"
+                    srcset="bloh/avatar-1-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=16&amp;q=75 16w, bloh/avatar-1-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=32&amp;q=75 32w, bloh/avatar-1-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=48&amp;q=75 48w, bloh/avatar-1-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=64&amp;q=75 64w, bloh/avatar-1-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=96&amp;q=75 96w, bloh/avatar-1-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=128&amp;q=75 128w, bloh/avatar-1-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=256&amp;q=75 256w, bloh/avatar-1-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=360&amp;q=75 360w, bloh/avatar-1-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=384&amp;q=75 384w, bloh/avatar-1-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=414&amp;q=75 414w, bloh/avatar-1-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=512&amp;q=75 512w, bloh/avatar-1-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=640&amp;q=75 640w, bloh/avatar-1-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=750&amp;q=75 750w, bloh/avatar-1-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=828&amp;q=75 828w, bloh/avatar-1-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-1-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-1-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-1-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-1-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-1.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=3840&amp;q=75 3840w"
+                    src="bloh/avatar-1.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=3840&amp;q=75"
+                  /><img
+                    alt=""
+                    loading="lazy"
+                    width="84"
+                    height="85"
+                    decoding="async"
+                    data-nimg="1"
+                    class="dHctaW5saW5lLWJsb2Nr dHctdy04 dHctaC04 dHctcm91bmRlZC1mdWxs dHctcmluZy0y dHctcmluZy1za3ktNzAwLzk1"
+                    style="color: transparent"
+                    sizes="2rem"
+                    srcset="bloh/avatar-2-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=16&amp;q=75 16w, bloh/avatar-2-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=32&amp;q=75 32w, bloh/avatar-2-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=48&amp;q=75 48w, bloh/avatar-2-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=64&amp;q=75 64w, bloh/avatar-2-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=96&amp;q=75 96w, bloh/avatar-2-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=128&amp;q=75 128w, bloh/avatar-2-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=256&amp;q=75 256w, bloh/avatar-2-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=360&amp;q=75 360w, bloh/avatar-2-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=384&amp;q=75 384w, bloh/avatar-2-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=414&amp;q=75 414w, bloh/avatar-2-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=512&amp;q=75 512w, bloh/avatar-2-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=640&amp;q=75 640w, bloh/avatar-2-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=750&amp;q=75 750w, bloh/avatar-2-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=828&amp;q=75 828w, bloh/avatar-2-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-2-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-2-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-2-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-2-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-2.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=3840&amp;q=75 3840w"
+                    src="bloh/avatar-2.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=3840&amp;q=75"
+                  /><img
+                    alt=""
+                    loading="lazy"
+                    width="84"
+                    height="85"
+                    decoding="async"
+                    data-nimg="1"
+                    class="dHctaW5saW5lLWJsb2Nr dHctdy04 dHctaC04 dHctcm91bmRlZC1mdWxs dHctcmluZy0y dHctcmluZy1za3ktNzAwLzk1"
+                    style="color: transparent"
+                    sizes="2rem"
+                    srcset="bloh/avatar-3-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=16&amp;q=75 16w, bloh/avatar-3-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=32&amp;q=75 32w, bloh/avatar-3-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=48&amp;q=75 48w, bloh/avatar-3-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=64&amp;q=75 64w, bloh/avatar-3-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=96&amp;q=75 96w, bloh/avatar-3-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=128&amp;q=75 128w, bloh/avatar-3-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=256&amp;q=75 256w, bloh/avatar-3-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=360&amp;q=75 360w, bloh/avatar-3-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=384&amp;q=75 384w, bloh/avatar-3-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=414&amp;q=75 414w, bloh/avatar-3-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=512&amp;q=75 512w, bloh/avatar-3-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=640&amp;q=75 640w, bloh/avatar-3-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=750&amp;q=75 750w, bloh/avatar-3-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=828&amp;q=75 828w, bloh/avatar-3-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-3-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-3-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-3-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-3-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-3.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=3840&amp;q=75 3840w"
+                    src="bloh/avatar-3.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=3840&amp;q=75"
+                  /><img
+                    alt=""
+                    loading="lazy"
+                    width="84"
+                    height="85"
+                    decoding="async"
+                    data-nimg="1"
+                    class="dHctaW5saW5lLWJsb2Nr dHctdy04 dHctaC04 dHctcm91bmRlZC1mdWxs dHctcmluZy0y dHctcmluZy1za3ktNzAwLzk1"
+                    style="color: transparent"
+                    sizes="2rem"
+                    srcset="bloh/avatar-4-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=16&amp;q=75 16w, bloh/avatar-4-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=32&amp;q=75 32w, bloh/avatar-4-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=48&amp;q=75 48w, bloh/avatar-4-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=64&amp;q=75 64w, bloh/avatar-4-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=96&amp;q=75 96w, bloh/avatar-4-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=128&amp;q=75 128w, bloh/avatar-4-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=256&amp;q=75 256w, bloh/avatar-4-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=360&amp;q=75 360w, bloh/avatar-4-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=384&amp;q=75 384w, bloh/avatar-4-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=414&amp;q=75 414w, bloh/avatar-4-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=512&amp;q=75 512w, bloh/avatar-4-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=640&amp;q=75 640w, bloh/avatar-4-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=750&amp;q=75 750w, bloh/avatar-4-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=828&amp;q=75 828w, bloh/avatar-4-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-4-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-4-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-4-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-4-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-4.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=3840&amp;q=75 3840w"
+                    src="bloh/avatar-4.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=3840&amp;q=75"
+                  /><img
+                    alt=""
+                    loading="lazy"
+                    width="84"
+                    height="85"
+                    decoding="async"
+                    data-nimg="1"
+                    class="dHctaW5saW5lLWJsb2Nr dHctdy04 dHctaC04 dHctcm91bmRlZC1mdWxs dHctcmluZy0y dHctcmluZy1za3ktNzAwLzk1"
+                    style="color: transparent"
+                    sizes="2rem"
+                    srcset="bloh/avatar-5-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=16&amp;q=75 16w, bloh/avatar-5-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=32&amp;q=75 32w, bloh/avatar-5-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=48&amp;q=75 48w, bloh/avatar-5-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=64&amp;q=75 64w, bloh/avatar-5-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=96&amp;q=75 96w, bloh/avatar-5-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=128&amp;q=75 128w, bloh/avatar-5-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=256&amp;q=75 256w, bloh/avatar-5-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=360&amp;q=75 360w, bloh/avatar-5-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=384&amp;q=75 384w, bloh/avatar-5-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=414&amp;q=75 414w, bloh/avatar-5-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=512&amp;q=75 512w, bloh/avatar-5-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=640&amp;q=75 640w, bloh/avatar-5-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=750&amp;q=75 750w, bloh/avatar-5-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=828&amp;q=75 828w, bloh/avatar-5-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-5-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-5-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-5-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-5-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-5.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=3840&amp;q=75 3840w"
+                    src="bloh/avatar-5.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=3840&amp;q=75"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="dHctb3ZlcmZsb3ctaGlkZGVu dHctYmctc2xhdGUtOTAw dHctcHktMTY sm:dHctcHktMjQ lg:dHctcHktMzI"
+    >
+      <div
+        class="dHctbXgtYXV0bw dHctbWF4LXctc2NyZWVuLXhs dHctcHgtNQ sm:dHctcHgtNg lg:dHctcHgtOA"
+      >
+        <div class="dHctdGV4dC1jZW50ZXI">
+          <h2
+            class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC00eGw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC13aGl0ZQ sm:dHctdGV4dC01eGw"
+          >
+            My awards and acknowledgements
+          </h2>
+          <p
+            class="dHctbXgtYXV0bw dHctbXQtNg dHctbWF4LXctbWQ dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1zbGF0ZS01MA"
+          >
+            Recognitions are like tattoos, you only show them off to people you
+            want to impress.
+          </p>
+        </div>
+        <div class="dHctcmVsYXRpdmU dHctbXQtMTQ sm:dHctbXQtMTY md:dHctbXQtMjA">
+          <div
+            class="dHctZ3JpZA dHctZ3JpZC1jb2xzLTI sm:dHctZ3JpZC1jb2xzLTM lg:dHctZ3JpZC1jb2xzLTQ"
+          >
+            <div
+              class="dHctZmxleA dHctaC00MA dHctdy1mdWxs dHctc2hyaW5rLTA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYm9yZGVy dHctYm9yZGVyLXNreS0xMDA sm:dHctaC00OA lg:dHctaC01Mg"
+            >
+              <img
+                alt=""
+                loading="lazy"
+                width="178"
+                height="28"
+                decoding="async"
+                data-nimg="1"
+                class="dHctcmVsYXRpdmU dHctei0xMA dHctc2hyaW5rLTA dHctc2NhbGUt[.7] sm:dHctc2NhbGUtNzU md:dHctc2NhbGUtOTA lg:dHctc2NhbGUtNzU xl:dHctc2NhbGUtMTAw"
+                style="color: transparent"
+                src="bloh/static/media/awwwards.4b367121.svg"
+              />
+            </div>
+            <div
+              class="dHctZmxleA dHctaC00MA dHctdy1mdWxs dHctc2hyaW5rLTA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYm9yZGVy dHctYm9yZGVyLXNreS0xMDA sm:dHctaC00OA lg:dHctaC01Mg"
+            >
+              <img
+                alt=""
+                loading="lazy"
+                width="237"
+                height="36"
+                decoding="async"
+                data-nimg="1"
+                class="dHctcmVsYXRpdmU dHctei0xMA dHctc2hyaW5rLTA dHctc2NhbGUt[.7] sm:dHctc2NhbGUtNzU md:dHctc2NhbGUtOTA lg:dHctc2NhbGUtNzU xl:dHctc2NhbGUtMTAw"
+                style="color: transparent"
+                src="bloh/static/media/css-design-awards.a57f5d9b.svg"
+              />
+            </div>
+            <div
+              class="dHctZmxleA dHctaC00MA dHctdy1mdWxs dHctc2hyaW5rLTA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYm9yZGVy dHctYm9yZGVyLXNreS0xMDA sm:dHctaC00OA lg:dHctaC01Mg"
+            >
+              <img
+                alt=""
+                loading="lazy"
+                width="130"
+                height="34"
+                decoding="async"
+                data-nimg="1"
+                class="dHctcmVsYXRpdmU dHctei0xMA dHctc2hyaW5rLTA dHctc2NhbGUt[.7] sm:dHctc2NhbGUtNzU md:dHctc2NhbGUtOTA lg:dHctc2NhbGUtNzU xl:dHctc2NhbGUtMTAw"
+                style="color: transparent"
+                src="bloh/static/media/adobe.988d6f1c.svg"
+              />
+            </div>
+            <div
+              class="dHctZmxleA dHctaC00MA dHctdy1mdWxs dHctc2hyaW5rLTA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYm9yZGVy dHctYm9yZGVyLXNreS0xMDA sm:dHctaC00OA lg:dHctaC01Mg"
+            >
+              <img
+                alt=""
+                loading="lazy"
+                width="150"
+                height="28"
+                decoding="async"
+                data-nimg="1"
+                class="dHctcmVsYXRpdmU dHctei0xMA dHctc2hyaW5rLTA dHctc2NhbGUt[.7] sm:dHctc2NhbGUtNzU md:dHctc2NhbGUtOTA lg:dHctc2NhbGUtNzU xl:dHctc2NhbGUtMTAw"
+                style="color: transparent"
+                src="bloh/static/media/behance.5ac4283b.svg"
+              />
+            </div>
+            <div
+              class="dHctZmxleA dHctaC00MA dHctdy1mdWxs dHctc2hyaW5rLTA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYm9yZGVy dHctYm9yZGVyLXNreS0xMDA sm:dHctaC00OA lg:dHctaC01Mg"
+            >
+              <img
+                alt=""
+                loading="lazy"
+                width="131"
+                height="32"
+                decoding="async"
+                data-nimg="1"
+                class="dHctcmVsYXRpdmU dHctei0xMA dHctc2hyaW5rLTA dHctc2NhbGUt[.7] sm:dHctc2NhbGUtNzU md:dHctc2NhbGUtOTA lg:dHctc2NhbGUtNzU xl:dHctc2NhbGUtMTAw"
+                style="color: transparent"
+                src="bloh/static/media/dribbble.5f62a733.svg"
+              />
+            </div>
+            <div
+              class="dHctZmxleA dHctaC00MA dHctdy1mdWxs dHctc2hyaW5rLTA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYm9yZGVy dHctYm9yZGVyLXNreS0xMDA sm:dHctaC00OA lg:dHctaC01Mg"
+            >
+              <img
+                alt=""
+                loading="lazy"
+                width="186"
+                height="34"
+                decoding="async"
+                data-nimg="1"
+                class="dHctcmVsYXRpdmU dHctei0xMA dHctc2hyaW5rLTA dHctc2NhbGUt[.7] sm:dHctc2NhbGUtNzU md:dHctc2NhbGUtOTA lg:dHctc2NhbGUtNzU xl:dHctc2NhbGUtMTAw"
+                style="color: transparent"
+                src="bloh/static/media/logoipsum-1.9b85e2ab.svg"
+              />
+            </div>
+            <div
+              class="dHctZmxleA dHctaC00MA dHctdy1mdWxs dHctc2hyaW5rLTA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYm9yZGVy dHctYm9yZGVyLXNreS0xMDA sm:dHctaC00OA lg:dHctaC01Mg"
+            >
+              <img
+                alt=""
+                loading="lazy"
+                width="179"
+                height="36"
+                decoding="async"
+                data-nimg="1"
+                class="dHctcmVsYXRpdmU dHctei0xMA dHctc2hyaW5rLTA dHctc2NhbGUt[.7] sm:dHctc2NhbGUtNzU md:dHctc2NhbGUtOTA lg:dHctc2NhbGUtNzU xl:dHctc2NhbGUtMTAw"
+                style="color: transparent"
+                src="bloh/static/media/logoipsum-2.9785cf57.svg"
+              />
+            </div>
+            <div
+              class="dHctZmxleA dHctaC00MA dHctdy1mdWxs dHctc2hyaW5rLTA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYm9yZGVy dHctYm9yZGVyLXNreS0xMDA sm:dHctaC00OA lg:dHctaC01Mg"
+            >
+              <img
+                alt=""
+                loading="lazy"
+                width="187"
+                height="40"
+                decoding="async"
+                data-nimg="1"
+                class="dHctcmVsYXRpdmU dHctei0xMA dHctc2hyaW5rLTA dHctc2NhbGUt[.7] sm:dHctc2NhbGUtNzU md:dHctc2NhbGUtOTA lg:dHctc2NhbGUtNzU xl:dHctc2NhbGUtMTAw"
+                style="color: transparent"
+                src="bloh/static/media/logoipsum-3.5f28e55f.svg"
+              />
+            </div>
+            <div
+              class="dHctZmxleA dHctaC00MA dHctdy1mdWxs dHctc2hyaW5rLTA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYm9yZGVy dHctYm9yZGVyLXNreS0xMDA sm:dHctaC00OA lg:dHctaC01Mg"
+            >
+              <img
+                alt=""
+                loading="lazy"
+                width="158"
+                height="40"
+                decoding="async"
+                data-nimg="1"
+                class="dHctcmVsYXRpdmU dHctei0xMA dHctc2hyaW5rLTA dHctc2NhbGUt[.7] sm:dHctc2NhbGUtNzU md:dHctc2NhbGUtOTA lg:dHctc2NhbGUtNzU xl:dHctc2NhbGUtMTAw"
+                style="color: transparent"
+                src="bloh/static/media/logoipsum-4.acbccbeb.svg"
+              />
+            </div>
+            <div
+              class="dHctZmxleA dHctaC00MA dHctdy1mdWxs dHctc2hyaW5rLTA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYm9yZGVy dHctYm9yZGVyLXNreS0xMDA sm:dHctaC00OA lg:dHctaC01Mg"
+            >
+              <img
+                alt=""
+                loading="lazy"
+                width="130"
+                height="67"
+                decoding="async"
+                data-nimg="1"
+                class="dHctcmVsYXRpdmU dHctei0xMA dHctc2hyaW5rLTA dHctc2NhbGUt[.7] sm:dHctc2NhbGUtNzU md:dHctc2NhbGUtOTA lg:dHctc2NhbGUtNzU xl:dHctc2NhbGUtMTAw"
+                style="color: transparent"
+                src="bloh/static/media/logoipsum-5.fb5ef44e.svg"
+              />
+            </div>
+            <div
+              class="dHctZmxleA dHctaC00MA dHctdy1mdWxs dHctc2hyaW5rLTA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYm9yZGVy dHctYm9yZGVyLXNreS0xMDA sm:dHctaC00OA lg:dHctaC01Mg"
+            >
+              <img
+                alt=""
+                loading="lazy"
+                width="170"
+                height="41"
+                decoding="async"
+                data-nimg="1"
+                class="dHctcmVsYXRpdmU dHctei0xMA dHctc2hyaW5rLTA dHctc2NhbGUt[.7] sm:dHctc2NhbGUtNzU md:dHctc2NhbGUtOTA lg:dHctc2NhbGUtNzU xl:dHctc2NhbGUtMTAw"
+                style="color: transparent"
+                src="bloh/static/media/logoipsum-6.a754c67f.svg"
+              />
+            </div>
+            <div
+              class="dHctZmxleA dHctaC00MA dHctdy1mdWxs dHctc2hyaW5rLTA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYm9yZGVy dHctYm9yZGVyLXNreS0xMDA sm:dHctaC00OA lg:dHctaC01Mg"
+            >
+              <img
+                alt=""
+                loading="lazy"
+                width="159"
+                height="42"
+                decoding="async"
+                data-nimg="1"
+                class="dHctcmVsYXRpdmU dHctei0xMA dHctc2hyaW5rLTA dHctc2NhbGUt[.7] sm:dHctc2NhbGUtNzU md:dHctc2NhbGUtOTA lg:dHctc2NhbGUtNzU xl:dHctc2NhbGUtMTAw"
+                style="color: transparent"
+                src="bloh/static/media/logoipsum-7.38a4ad61.svg"
+              />
+            </div>
+          </div>
+          <div
+            class="dHctYWJzb2x1dGU dHctaW5zZXQtMA dHctb3ZlcmZsb3ctaGlkZGVu dHctYmctZ3JhZGllbnQtcmFkaWFs dHctZnJvbS1zbGF0ZS05MDAvMjU dHctdmlhLXNsYXRlLTkwMC85NQ dHctdG8tc2xhdGUtOTAw"
+          ></div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="dHctb3ZlcmZsb3ctaGlkZGVu dHctYmctd2hpdGU dHctcHktMTY sm:dHctcHktMjQ lg:dHctcHQtMzI"
+    >
+      <div
+        class="dHctbXgtYXV0bw dHctbWF4LXctc2NyZWVuLXhs dHctcHgtNQ sm:dHctcHgtNg lg:dHctcHgtOA"
+      >
+        <div class="dHctdGV4dC1jZW50ZXI">
+          <h2
+            class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC00eGw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC01eGw"
+          >
+            Press and Interviews
+          </h2>
+          <p
+            class="dHctbXgtYXV0bw dHctbXQtNg dHctbWF4LXctbWQ dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1zbGF0ZS03MDA"
+          >
+            Recognitions are like tattoos, you only show them off to people you
+            want to impress.
+          </p>
+        </div>
+        <div
+          class="dHctbXgtYXV0bw dHctbXQtMTQ dHctbWF4LXctbGc dHctY29sdW1ucy0x dHctZ2FwLTY dHctc3BhY2UteS02 sm:dHctbXQtMTY sm:dHctbWF4LXctMnhs sm:dHctY29sdW1ucy0y lg:dHctbXgtMA lg:dHctbWF4LXctbm9uZQ lg:dHctY29sdW1ucy0z xl:dHctZ2FwLTg xl:dHctc3BhY2UteS04"
+        >
+          <div class="dHctcHktcHg dHctYnJlYWstaW5zaWRlLWF2b2lkLWNvbHVtbg">
+            <div
+              class="dHctcm91bmRlZC14bA dHctYmctc2xhdGUtNTAvNzU dHctcC03 dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ lg:dHctcC0xMA"
+            >
+              <div
+                class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  viewbox="0 0 16 16"
+                  class="dHctaC00 dHctdy00 dHctdGV4dC1zbGF0ZS01MDA"
+                >
+                  <g
+                    stroke-width="1.25"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <rect x="5.5" y="0.5" width="5" height="11" rx="1"></rect>
+                    <line x1="5.5" y1="4.5" x2="6.5" y2="4.5"></line>
+                    <line x1="5.5" y1="7.5" x2="6.5" y2="7.5"></line>
+                    <line x1="9.5" y1="4.5" x2="10.5" y2="4.5"></line>
+                    <line x1="9.5" y1="7.5" x2="10.5" y2="7.5"></line>
+                    <line x1="7" y1="11.5" x2="7" y2="15.502"></line>
+                    <line x1="9" y1="11.5" x2="9" y2="15.502"></line>
+                    <path
+                      d="M2.964,2.964a5,5,0,0,0,0,7.072"
+                      stroke="currentColor"
+                    ></path>
+                    <path
+                      d="M13.036,2.967a5,5,0,0,1,0,7.071"
+                      stroke="currentColor"
+                    ></path>
+                  </g></svg
+                >Podcast
+              </div>
+              <h3
+                class="dHctbXQtNg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA lg:dHctdGV4dC14bA"
+              >
+                The Future of Software Engineering with Jane Doe
+              </h3>
+              <div class="dHctbXQtOQ dHctc3BhY2UteS0x">
+                <a
+                  class="dHctZ3JvdXA dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNjAw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctdGV4dC1za3ktNzAw"
+                  href="#"
+                  >Listen to podcast<svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewbox="0 0 20 20"
+                    fill="currentColor"
+                    class="dHctaC01 dHctdy01 dHctdGV4dC1za3ktNTAw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:LXR3LXRyYW5zbGF0ZS15LTA.5 group-hover:dHctdHJhbnNsYXRlLXgtMA.5 group-hover:dHctdGV4dC1za3ktNjAw"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
+                      clip-rule="evenodd"
+                    ></path></svg
+                ></a>
+                <p
+                  class="dHctdGV4dC14cw dHctdGV4dC1zbGF0ZS01MDA sm:dHctdGV4dC0[13px]"
+                >
+                  spotify.com
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="dHctcHktcHg dHctYnJlYWstaW5zaWRlLWF2b2lkLWNvbHVtbg">
+            <div
+              class="dHctcm91bmRlZC14bA dHctYmctc2xhdGUtNTAvNzU dHctcC03 dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ lg:dHctcC0xMA"
+            >
+              <div
+                class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  viewbox="0 0 16 16"
+                  class="dHctaC00 dHctdy00 dHctdGV4dC1zbGF0ZS01MDA"
+                >
+                  <g
+                    stroke-width="1.25"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <rect x="5.5" y="0.5" width="5" height="11" rx="1"></rect>
+                    <line x1="5.5" y1="4.5" x2="6.5" y2="4.5"></line>
+                    <line x1="5.5" y1="7.5" x2="6.5" y2="7.5"></line>
+                    <line x1="9.5" y1="4.5" x2="10.5" y2="4.5"></line>
+                    <line x1="9.5" y1="7.5" x2="10.5" y2="7.5"></line>
+                    <line x1="7" y1="11.5" x2="7" y2="15.502"></line>
+                    <line x1="9" y1="11.5" x2="9" y2="15.502"></line>
+                    <path
+                      d="M2.964,2.964a5,5,0,0,0,0,7.072"
+                      stroke="currentColor"
+                    ></path>
+                    <path
+                      d="M13.036,2.967a5,5,0,0,1,0,7.071"
+                      stroke="currentColor"
+                    ></path>
+                  </g></svg
+                >Podcast
+              </div>
+              <h3
+                class="dHctbXQtNg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA lg:dHctdGV4dC14bA"
+              >
+                Building a Sense of Community Around Your Business - with Duncan
+                Jones Junior
+              </h3>
+              <div class="dHctbXQtOQ dHctc3BhY2UteS0x">
+                <a
+                  class="dHctZ3JvdXA dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNjAw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctdGV4dC1za3ktNzAw"
+                  href="#"
+                  >Listen to podcast<svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewbox="0 0 20 20"
+                    fill="currentColor"
+                    class="dHctaC01 dHctdy01 dHctdGV4dC1za3ktNTAw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:LXR3LXRyYW5zbGF0ZS15LTA.5 group-hover:dHctdHJhbnNsYXRlLXgtMA.5 group-hover:dHctdGV4dC1za3ktNjAw"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
+                      clip-rule="evenodd"
+                    ></path></svg
+                ></a>
+                <p
+                  class="dHctdGV4dC14cw dHctdGV4dC1zbGF0ZS01MDA sm:dHctdGV4dC0[13px]"
+                >
+                  spotify.com
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="dHctcHktcHg dHctYnJlYWstaW5zaWRlLWF2b2lkLWNvbHVtbg">
+            <div
+              class="dHctcm91bmRlZC14bA dHctYmctc2xhdGUtNTAvNzU dHctcC03 dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ lg:dHctcC0xMA"
+            >
+              <div
+                class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  viewbox="0 0 16 16"
+                  class="dHctaC00 dHctdy00 dHctdGV4dC1zbGF0ZS01MDA"
+                >
+                  <g
+                    stroke-width="1.25"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <path
+                      d="M2.5,15.5L2.5,15.5 c-1.105,0-2-0.895-2-2v-5h4v5C4.5,14.605,3.605,15.5,2.5,15.5z"
+                    ></path>
+                    <path d="M4.5,8.5v-8h11v13 c0,1.105-0.895,2-2,2h-11"></path>
+                    <line
+                      x1="7.5"
+                      y1="3.5"
+                      x2="12.5"
+                      y2="3.5"
+                      stroke="currentColor"
+                    ></line>
+                    <line
+                      x1="7.5"
+                      y1="6.5"
+                      x2="12.5"
+                      y2="6.5"
+                      stroke="currentColor"
+                    ></line>
+                    <line
+                      x1="7.5"
+                      y1="9.5"
+                      x2="12.5"
+                      y2="9.5"
+                      stroke="currentColor"
+                    ></line>
+                    <line
+                      x1="7.5"
+                      y1="12.5"
+                      x2="9.5"
+                      y2="12.5"
+                      stroke="currentColor"
+                    ></line>
+                  </g></svg
+                >Article
+              </div>
+              <h3
+                class="dHctbXQtNg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA lg:dHctdGV4dC14bA"
+              >
+                14 Things You Should Know Before Starting With Ruby On Rails
+              </h3>
+              <div class="dHctbXQtOQ dHctc3BhY2UteS0x">
+                <a
+                  class="dHctZ3JvdXA dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNjAw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctdGV4dC1za3ktNzAw"
+                  href="#"
+                  >Read the article<svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewbox="0 0 20 20"
+                    fill="currentColor"
+                    class="dHctaC01 dHctdy01 dHctdGV4dC1za3ktNTAw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:LXR3LXRyYW5zbGF0ZS15LTA.5 group-hover:dHctdHJhbnNsYXRlLXgtMA.5 group-hover:dHctdGV4dC1za3ktNjAw"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
+                      clip-rule="evenodd"
+                    ></path></svg
+                ></a>
+                <p
+                  class="dHctdGV4dC14cw dHctdGV4dC1zbGF0ZS01MDA sm:dHctdGV4dC0[13px]"
+                >
+                  gorails.com
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="dHctcHktcHg dHctYnJlYWstaW5zaWRlLWF2b2lkLWNvbHVtbg">
+            <div
+              class="dHctcm91bmRlZC14bA dHctYmctc2xhdGUtNTAvNzU dHctcC03 dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ lg:dHctcC0xMA"
+            >
+              <div
+                class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  viewbox="0 0 16 16"
+                  class="dHctaC00 dHctdy00 dHctdGV4dC1zbGF0ZS01MDA"
+                >
+                  <title>show</title>
+                  <g
+                    stroke-width="1.25"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <rect x="1.5" y="0.5" width="13" height="7"></rect>
+                    <polyline
+                      points="6.5 11.5 6.5 9.5 3.5 9.5 3.5 11.5"
+                      stroke="currentColor"
+                    ></polyline>
+                    <polyline
+                      points="12.5 11.5 12.5 9.5 9.5 9.5 9.5 11.5"
+                      stroke="currentColor"
+                    ></polyline>
+                    <polyline
+                      points="3.5 15.5 3.5 13.5 0.5 13.5 0.5 15.5"
+                      stroke="currentColor"
+                    ></polyline>
+                    <polyline
+                      points="15.5 15.5 15.5 13.5 12.5 13.5 12.5 15.5"
+                      stroke="currentColor"
+                    ></polyline>
+                    <polyline
+                      points="9.5 15.5 9.5 13.5 6.5 13.5 6.5 15.5"
+                      stroke="currentColor"
+                    ></polyline>
+                  </g></svg
+                >RailsConf 2022
+              </div>
+              <h3
+                class="dHctbXQtNg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA lg:dHctdGV4dC14bA"
+              >
+                Why Service Objects Aren&#x27;t Evil (And Why You Should Start
+                Using Them)
+              </h3>
+              <div class="dHctbXQtOQ dHctc3BhY2UteS0x">
+                <a
+                  class="dHctZ3JvdXA dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNjAw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctdGV4dC1za3ktNzAw"
+                  href="#"
+                  >Watch the talk<svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewbox="0 0 20 20"
+                    fill="currentColor"
+                    class="dHctaC01 dHctdy01 dHctdGV4dC1za3ktNTAw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:LXR3LXRyYW5zbGF0ZS15LTA.5 group-hover:dHctdHJhbnNsYXRlLXgtMA.5 group-hover:dHctdGV4dC1za3ktNjAw"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
+                      clip-rule="evenodd"
+                    ></path></svg
+                ></a>
+                <p
+                  class="dHctdGV4dC14cw dHctdGV4dC1zbGF0ZS01MDA sm:dHctdGV4dC0[13px]"
+                >
+                  youtube.com
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="dHctcHktcHg dHctYnJlYWstaW5zaWRlLWF2b2lkLWNvbHVtbg">
+            <div
+              class="dHctcm91bmRlZC14bA dHctYmctc2xhdGUtNTAvNzU dHctcC03 dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ lg:dHctcC0xMA"
+            >
+              <div
+                class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  viewbox="0 0 16 16"
+                  class="dHctaC00 dHctdy00 dHctdGV4dC1zbGF0ZS01MDA"
+                >
+                  <g
+                    stroke-width="1.25"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <path
+                      d="M2.5,15.5L2.5,15.5 c-1.105,0-2-0.895-2-2v-5h4v5C4.5,14.605,3.605,15.5,2.5,15.5z"
+                    ></path>
+                    <path d="M4.5,8.5v-8h11v13 c0,1.105-0.895,2-2,2h-11"></path>
+                    <line
+                      x1="7.5"
+                      y1="3.5"
+                      x2="12.5"
+                      y2="3.5"
+                      stroke="currentColor"
+                    ></line>
+                    <line
+                      x1="7.5"
+                      y1="6.5"
+                      x2="12.5"
+                      y2="6.5"
+                      stroke="currentColor"
+                    ></line>
+                    <line
+                      x1="7.5"
+                      y1="9.5"
+                      x2="12.5"
+                      y2="9.5"
+                      stroke="currentColor"
+                    ></line>
+                    <line
+                      x1="7.5"
+                      y1="12.5"
+                      x2="9.5"
+                      y2="12.5"
+                      stroke="currentColor"
+                    ></line>
+                  </g></svg
+                >Article
+              </div>
+              <h3
+                class="dHctbXQtNg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA lg:dHctdGV4dC14bA"
+              >
+                Meet the top 10 developers to watch in 2021
+              </h3>
+              <div class="dHctbXQtOQ dHctc3BhY2UteS0x">
+                <a
+                  class="dHctZ3JvdXA dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNjAw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctdGV4dC1za3ktNzAw"
+                  href="#"
+                  >Read the article<svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewbox="0 0 20 20"
+                    fill="currentColor"
+                    class="dHctaC01 dHctdy01 dHctdGV4dC1za3ktNTAw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:LXR3LXRyYW5zbGF0ZS15LTA.5 group-hover:dHctdHJhbnNsYXRlLXgtMA.5 group-hover:dHctdGV4dC1za3ktNjAw"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
+                      clip-rule="evenodd"
+                    ></path></svg
+                ></a>
+                <p
+                  class="dHctdGV4dC14cw dHctdGV4dC1zbGF0ZS01MDA sm:dHctdGV4dC0[13px]"
+                >
+                  hackernews.com
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="dHctcHktcHg dHctYnJlYWstaW5zaWRlLWF2b2lkLWNvbHVtbg">
+            <div
+              class="dHctcm91bmRlZC14bA dHctYmctc2xhdGUtNTAvNzU dHctcC03 dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ lg:dHctcC0xMA"
+            >
+              <div
+                class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  viewbox="0 0 16 16"
+                  class="dHctaC00 dHctdy00 dHctdGV4dC1zbGF0ZS01MDA"
+                >
+                  <g
+                    stroke-width="1.25"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <rect x="5.5" y="0.5" width="5" height="11" rx="1"></rect>
+                    <line x1="5.5" y1="4.5" x2="6.5" y2="4.5"></line>
+                    <line x1="5.5" y1="7.5" x2="6.5" y2="7.5"></line>
+                    <line x1="9.5" y1="4.5" x2="10.5" y2="4.5"></line>
+                    <line x1="9.5" y1="7.5" x2="10.5" y2="7.5"></line>
+                    <line x1="7" y1="11.5" x2="7" y2="15.502"></line>
+                    <line x1="9" y1="11.5" x2="9" y2="15.502"></line>
+                    <path
+                      d="M2.964,2.964a5,5,0,0,0,0,7.072"
+                      stroke="currentColor"
+                    ></path>
+                    <path
+                      d="M13.036,2.967a5,5,0,0,1,0,7.071"
+                      stroke="currentColor"
+                    ></path>
+                  </g></svg
+                >Podcast
+              </div>
+              <h3
+                class="dHctbXQtNg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA lg:dHctdGV4dC14bA"
+              >
+                Flow State for Software Engineers – Cultivate flow with the
+                people who build software
+              </h3>
+              <div class="dHctbXQtOQ dHctc3BhY2UteS0x">
+                <a
+                  class="dHctZ3JvdXA dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNjAw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctdGV4dC1za3ktNzAw"
+                  href="#"
+                  >Listen to podcast<svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewbox="0 0 20 20"
+                    fill="currentColor"
+                    class="dHctaC01 dHctdy01 dHctdGV4dC1za3ktNTAw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:LXR3LXRyYW5zbGF0ZS15LTA.5 group-hover:dHctdHJhbnNsYXRlLXgtMA.5 group-hover:dHctdGV4dC1za3ktNjAw"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
+                      clip-rule="evenodd"
+                    ></path></svg
+                ></a>
+                <p
+                  class="dHctdGV4dC14cw dHctdGV4dC1zbGF0ZS01MDA sm:dHctdGV4dC0[13px]"
+                >
+                  youtube.com
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="dHctcHktcHg dHctYnJlYWstaW5zaWRlLWF2b2lkLWNvbHVtbg">
+            <div
+              class="dHctcm91bmRlZC14bA dHctYmctc2xhdGUtNTAvNzU dHctcC03 dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ lg:dHctcC0xMA"
+            >
+              <div
+                class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  viewbox="0 0 16 16"
+                  class="dHctaC00 dHctdy00 dHctdGV4dC1zbGF0ZS01MDA"
+                >
+                  <g
+                    stroke-width="1.25"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <rect x="5.5" y="0.5" width="5" height="11" rx="1"></rect>
+                    <line x1="5.5" y1="4.5" x2="6.5" y2="4.5"></line>
+                    <line x1="5.5" y1="7.5" x2="6.5" y2="7.5"></line>
+                    <line x1="9.5" y1="4.5" x2="10.5" y2="4.5"></line>
+                    <line x1="9.5" y1="7.5" x2="10.5" y2="7.5"></line>
+                    <line x1="7" y1="11.5" x2="7" y2="15.502"></line>
+                    <line x1="9" y1="11.5" x2="9" y2="15.502"></line>
+                    <path
+                      d="M2.964,2.964a5,5,0,0,0,0,7.072"
+                      stroke="currentColor"
+                    ></path>
+                    <path
+                      d="M13.036,2.967a5,5,0,0,1,0,7.071"
+                      stroke="currentColor"
+                    ></path>
+                  </g></svg
+                >Podcast
+              </div>
+              <h3
+                class="dHctbXQtNg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA lg:dHctdGV4dC14bA"
+              >
+                Building a Sense of Community Around Your Business - with Duncan
+                Jones Junior
+              </h3>
+              <div class="dHctbXQtOQ dHctc3BhY2UteS0x">
+                <a
+                  class="dHctZ3JvdXA dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNjAw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctdGV4dC1za3ktNzAw"
+                  href="#"
+                  >Listen to podcast<svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewbox="0 0 20 20"
+                    fill="currentColor"
+                    class="dHctaC01 dHctdy01 dHctdGV4dC1za3ktNTAw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:LXR3LXRyYW5zbGF0ZS15LTA.5 group-hover:dHctdHJhbnNsYXRlLXgtMA.5 group-hover:dHctdGV4dC1za3ktNjAw"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
+                      clip-rule="evenodd"
+                    ></path></svg
+                ></a>
+                <p
+                  class="dHctdGV4dC14cw dHctdGV4dC1zbGF0ZS01MDA sm:dHctdGV4dC0[13px]"
+                >
+                  spotify.com
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="dHctcHktcHg dHctYnJlYWstaW5zaWRlLWF2b2lkLWNvbHVtbg">
+            <div
+              class="dHctcm91bmRlZC14bA dHctYmctc2xhdGUtNTAvNzU dHctcC03 dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ lg:dHctcC0xMA"
+            >
+              <div
+                class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  viewbox="0 0 16 16"
+                  class="dHctaC00 dHctdy00 dHctdGV4dC1zbGF0ZS01MDA"
+                >
+                  <g
+                    stroke-width="1.25"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <path
+                      d="M2.5,15.5L2.5,15.5 c-1.105,0-2-0.895-2-2v-5h4v5C4.5,14.605,3.605,15.5,2.5,15.5z"
+                    ></path>
+                    <path d="M4.5,8.5v-8h11v13 c0,1.105-0.895,2-2,2h-11"></path>
+                    <line
+                      x1="7.5"
+                      y1="3.5"
+                      x2="12.5"
+                      y2="3.5"
+                      stroke="currentColor"
+                    ></line>
+                    <line
+                      x1="7.5"
+                      y1="6.5"
+                      x2="12.5"
+                      y2="6.5"
+                      stroke="currentColor"
+                    ></line>
+                    <line
+                      x1="7.5"
+                      y1="9.5"
+                      x2="12.5"
+                      y2="9.5"
+                      stroke="currentColor"
+                    ></line>
+                    <line
+                      x1="7.5"
+                      y1="12.5"
+                      x2="9.5"
+                      y2="12.5"
+                      stroke="currentColor"
+                    ></line>
+                  </g></svg
+                >Press
+              </div>
+              <h3
+                class="dHctbXQtNg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA lg:dHctdGV4dC14bA"
+              >
+                How much money can a web developer with 100k subscribers on
+                Youtube make with AdSense, affiliates and sponsors?
+              </h3>
+              <div class="dHctbXQtOQ dHctc3BhY2UteS0x">
+                <a
+                  class="dHctZ3JvdXA dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNjAw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctdGV4dC1za3ktNzAw"
+                  href="#"
+                  >Read the article<svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewbox="0 0 20 20"
+                    fill="currentColor"
+                    class="dHctaC01 dHctdy01 dHctdGV4dC1za3ktNTAw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:LXR3LXRyYW5zbGF0ZS15LTA.5 group-hover:dHctdHJhbnNsYXRlLXgtMA.5 group-hover:dHctdGV4dC1za3ktNjAw"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
+                      clip-rule="evenodd"
+                    ></path></svg
+                ></a>
+                <p
+                  class="dHctdGV4dC14cw dHctdGV4dC1zbGF0ZS01MDA sm:dHctdGV4dC0[13px]"
+                >
+                  businessinsider.com
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="dHctcHktcHg dHctYnJlYWstaW5zaWRlLWF2b2lkLWNvbHVtbg">
+            <div
+              class="dHctcm91bmRlZC14bA dHctYmctc2xhdGUtNTAvNzU dHctcC03 dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ lg:dHctcC0xMA"
+            >
+              <div
+                class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  viewbox="0 0 16 16"
+                  class="dHctaC00 dHctdy00 dHctdGV4dC1zbGF0ZS01MDA"
+                >
+                  <title>show</title>
+                  <g
+                    stroke-width="1.25"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <rect x="1.5" y="0.5" width="13" height="7"></rect>
+                    <polyline
+                      points="6.5 11.5 6.5 9.5 3.5 9.5 3.5 11.5"
+                      stroke="currentColor"
+                    ></polyline>
+                    <polyline
+                      points="12.5 11.5 12.5 9.5 9.5 9.5 9.5 11.5"
+                      stroke="currentColor"
+                    ></polyline>
+                    <polyline
+                      points="3.5 15.5 3.5 13.5 0.5 13.5 0.5 15.5"
+                      stroke="currentColor"
+                    ></polyline>
+                    <polyline
+                      points="15.5 15.5 15.5 13.5 12.5 13.5 12.5 15.5"
+                      stroke="currentColor"
+                    ></polyline>
+                    <polyline
+                      points="9.5 15.5 9.5 13.5 6.5 13.5 6.5 15.5"
+                      stroke="currentColor"
+                    ></polyline>
+                  </g></svg
+                >RailsConf 2021
+              </div>
+              <h3
+                class="dHctbXQtNg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA lg:dHctdGV4dC14bA"
+              >
+                Extending and Embedding Rich Media in the Rails Universe with
+                the Trix Editor
+              </h3>
+              <div class="dHctbXQtOQ dHctc3BhY2UteS0x">
+                <a
+                  class="dHctZ3JvdXA dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNjAw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctdGV4dC1za3ktNzAw"
+                  href="#"
+                  >Watch the talk<svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewbox="0 0 20 20"
+                    fill="currentColor"
+                    class="dHctaC01 dHctdy01 dHctdGV4dC1za3ktNTAw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:LXR3LXRyYW5zbGF0ZS15LTA.5 group-hover:dHctdHJhbnNsYXRlLXgtMA.5 group-hover:dHctdGV4dC1za3ktNjAw"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
+                      clip-rule="evenodd"
+                    ></path></svg
+                ></a>
+                <p
+                  class="dHctdGV4dC14cw dHctdGV4dC1zbGF0ZS01MDA sm:dHctdGV4dC0[13px]"
+                >
+                  youtube.com
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="dHctcHQtMTI sm:dHctcHQtMTY">
+      <div class="dHctcmVsYXRpdmU">
+        <div
+          class="dHctYWJzb2x1dGU dHctaW5zZXQteC0w dHctYm90dG9tLTA dHctaC0xLzI dHctYmctc2xhdGUtOTAw"
+        ></div>
+        <div
+          class="dHctcmVsYXRpdmU dHctbXgtYXV0bw dHctbWF4LXctc2NyZWVuLXhs dHctcHgtNA sm:dHctcHgtNg lg:dHctcHgtOA"
+        >
+          <div
+            class="dHctcmVsYXRpdmU dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC0yeGw dHctYmctc2t5LTcwMA dHctcHgtNQ dHctcHktMTI sm:dHctcHgtMTY lg:dHctcHktMTQ"
+          >
+            <img
+              alt=""
+              loading="lazy"
+              width="1920"
+              height="478"
+              decoding="async"
+              data-nimg="1"
+              class="dHctYWJzb2x1dGU dHctaW5zZXQtMA dHctaC1mdWxs dHctdy1mdWxs dHctb2JqZWN0LWNvdmVy dHctb2JqZWN0LXJpZ2h0"
+              style="color: transparent"
+              srcset="bloh/newsletter-bg-1.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Fnewsletter-bg.f4eb4d80.png&amp;w=1920&amp;q=75 1x, bloh/newsletter-bg.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Fnewsletter-bg.f4eb4d80.png&amp;w=3840&amp;q=75 2x"
+              src="bloh/newsletter-bg.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fnewsletter-bg.f4eb4d80.png&amp;w=3840&amp;q=75"
+            />
+            <div
+              class="dHctcmVsYXRpdmU dHctZmxleA dHctdy1mdWxs dHctZmxleC1jb2w dHctaXRlbXMtY2VudGVy lg:dHctZmxleC1yb3c"
+            >
+              <div
+                class="dHctbWF4LXctMnhs dHctdGV4dC1jZW50ZXI lg:dHctcHItNA lg:dHctdGV4dC1sZWZ0"
+              >
+                <h3
+                  class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC00eGw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC13aGl0ZQ sm:dHctdGV4dC01eGw"
+                >
+                  Subscribe to my newsletter
+                </h3>
+                <p
+                  class="dHctbXgtYXV0bw dHctbXQtNA dHctbWF4LXctbGc dHctdGV4dC1sZw dHctdGV4dC1za3ktNTA lg:dHctbXgtMA lg:dHctbXQtNg"
+                >
+                  Join 10,000+ designers and get creative site breakdowns,
+                  design musings and tips every Monday.
+                </p>
+              </div>
+              <form
+                class="dHctcmVsYXRpdmU dHctbXQtMTA dHctdy1mdWxs dHctbWF4LXctbGc lg:dHctbXQtMA"
+                action="#"
+                method="post"
+              >
+                <input
+                  type="email"
+                  class="dHctaC0xNA dHctdy1mdWxs dHctcm91bmRlZC1mdWxs dHctYm9yZGVyLTA dHctYmctd2hpdGUvMTA dHctcHktMw.5 dHctcGwtNQ dHctcHItMzI dHctdGV4dC1zbQ dHctbGVhZGluZy01 dHctdGV4dC1za3ktNTA dHctcGxhY2Vob2xkZXItc2t5LTEwMC85MA dHctb3V0bGluZS1ub25l dHctcmluZy0x dHctcmluZy13aGl0ZS8yNQ dHctYmFja2Ryb3AtYmx1cg dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy0y focus:dHctcmluZy13aGl0ZS8zMA sm:dHctcGwtNg"
+                  required=""
+                  placeholder="Enter your email"
+                  autocomplete="email"
+                /><button
+                  type="submit"
+                  class="dHctYWJzb2x1dGU dHctcmlnaHQtMQ.5 dHctdG9wLTE.5 dHctaW5saW5lLWZsZXg dHctaC0xMQ dHctaXRlbXMtY2VudGVy dHctcm91bmRlZC1mdWxs dHctYmctc2t5LTkwMA dHctcHgtNQ dHctcHktMw dHctdGV4dC1zbQ dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1za3ktNTA dHctb3V0bGluZS1ub25l dHctdHJhbnNpdGlvbg dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2t5LTgwMA focus:dHctb3V0bGluZS1ub25l sm:dHctcHgtNw sm:dHctdGV4dC1tZA"
+                >
+                  Subscribe
+                </button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer
+        class="dHctb3ZlcmZsb3ctaGlkZGVu dHctYmctc2xhdGUtOTAw dHctcGItOA dHctcHQtMjA sm:dHctcGItMTI sm:dHctcHQtMjQ lg:dHctcHQtMzI"
+      >
+        <div
+          class="dHctbXgtYXV0bw dHctbWF4LXctc2NyZWVuLXhs dHctcHgtNQ sm:dHctcHgtNg lg:dHctcHgtOA"
+        >
+          <div
+            class="dHctbXgtYXV0bw dHctZ3JpZA dHctbWF4LXcteGw dHctaXRlbXMtY2VudGVy dHctZ2FwLTU lg:dHctbXgtMA lg:dHctbWF4LXctbm9uZQ lg:dHctZ3JpZC1jb2xzLTEy lg:dHctZ2FwLTEy xl:dHctZ2FwLTIw"
+          >
+            <div class="lg:dHctY29sLXNwYW4tNw">
+              <h3
+                class="dHctdGV4dC1jZW50ZXI dHctZm9udC1kaXNwbGF5 dHctdGV4dC00eGw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC13aGl0ZQ sm:dHctdGV4dC01eGw lg:dHctbWF4LXcteGw lg:dHctdGV4dC1sZWZ0"
+              >
+                Lets make something great together
+              </h3>
+              <div class="dHctaGlkZGVu lg:dHctYmxvY2s">
+                <a
+                  class="dHctaW5saW5lLWZsZXg dHctaXRlbXMtY2VudGVy dHctcm91bmRlZC1mdWxs dHctZ2FwLTI.5 dHctanVzdGlmeS1jZW50ZXI dHctcHgtNw dHctcHktMw dHctdGV4dC1tZA dHctZm9udC1zZW1pYm9sZA dHctbGVhZGluZy1ub25l dHctb3V0bGluZS1vZmZzZXQtMg dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ active:dHctdHJhbnNpdGlvbi1ub25l dHctYmctd2hpdGU hover:dHctYmctc2t5LTUw dHctdGV4dC1zbGF0ZS03MDA dHctbXQtMTI"
+                  href="#"
+                  >Book a call<svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewbox="0 0 20 20"
+                    fill="currentColor"
+                    class="dHctaC01 dHctdy01"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
+                      clip-rule="evenodd"
+                    ></path></svg
+                ></a>
+              </div>
+            </div>
+            <div
+              class="dHctZmxleA dHctZmxleC1jb2w dHctaXRlbXMtY2VudGVy lg:dHctY29sLXNwYW4tNQ lg:dHctaXRlbXMtc3RhcnQ"
+            >
+              <p
+                class="dHctdGV4dC1jZW50ZXI dHctdGV4dC1sZw dHctdGV4dC1zbGF0ZS01MA lg:dHctbWF4LXctc20 lg:dHctdGV4dC1sZWZ0"
+              >
+                Iced pumpkin ristretto irish trifecta robusta trade froth
+                affogato barista con barista cappuccino filter roast.
+              </p>
+              <a
+                class="dHctbXQtMTA dHctaW5saW5lLWZsZXg dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZ2FwLXgtMg.5 dHctcm91bmRlZC1mdWxs dHctYmctd2hpdGU dHctcHgtNw dHctcHktMw dHctdGV4dC1tZA dHctZm9udC1zZW1pYm9sZA dHctbGVhZGluZy1ub25l dHctdGV4dC1zbGF0ZS03MDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2t5LTUw lg:dHctaGlkZGVu"
+                href="#"
+                >Book a call<svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewbox="0 0 20 20"
+                  fill="currentColor"
+                  class="dHctaC01 dHctdy01"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
+                    clip-rule="evenodd"
+                  ></path></svg
+              ></a>
+              <div
+                class="dHctbXQtMTY dHctZ3JpZA dHctdy1mdWxs dHctbWF4LXctc20 dHctZ3JpZC1jb2xzLTI dHctZ2FwLTM.5 sm:dHctbWF4LXctbm9uZQ sm:dHctZ3JpZC1jb2xzLTM lg:dHctbXQtOA lg:dHctZ2FwLTI.5 xl:dHctZ2FwLTM.5"
+              >
+                <a
+                  class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZ2FwLTI.5 dHctcm91bmRlZC1mdWxs dHctYm9yZGVy dHctYm9yZGVyLXNsYXRlLTYwMC85MA dHctcHktMg.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS01MA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2xhdGUtODAw hover:dHctdGV4dC13aGl0ZQ lg:dHctZ2FwLTI xl:dHctZ2FwLTI.5"
+                  href="#"
+                  ><svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="none"
+                    viewbox="0 0 24 24"
+                    stroke-width="2"
+                    stroke="currentColor"
+                    class="dHctaC00 dHctdy00 dHctc2hyaW5rLTA dHctdGV4dC1zbGF0ZS0yMDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ group-hover:dHctZmlsbC1zbGF0ZS0xMDA"
+                  >
+                    <path
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75"
+                    ></path></svg
+                  >Email me</a
+                ><a
+                  class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZ2FwLTI.5 dHctcm91bmRlZC1mdWxs dHctYm9yZGVy dHctYm9yZGVyLXNsYXRlLTYwMC85MA dHctcHktMg.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS01MA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2xhdGUtODAw hover:dHctdGV4dC13aGl0ZQ lg:dHctZ2FwLTI xl:dHctZ2FwLTI.5"
+                  href="#"
+                  ><svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewbox="0 0 24 24"
+                    fill="currentColor"
+                    class="dHctaC00 dHctdy00 dHctc2hyaW5rLTA dHctdGV4dC1zbGF0ZS0yMDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ group-hover:dHctZmlsbC1zbGF0ZS0xMDA"
+                  >
+                    <g>
+                      <path
+                        fill-rule="evenodd"
+                        clip-rule="evenodd"
+                        d="M12,24C5.4,24,0,18.6,0,12S5.4,0,12,0s12,5.4,12,12S18.6,24,12,24z M22.1,13.6c-0.4-0.1-3.2-1-6.4-0.4c1.3,3.7,1.9,6.7,2,7.3C20,19,21.7,16.5,22.1,13.6z M16,21.5c-0.2-0.9-0.7-4-2.2-7.8 c0,0,0,0-0.1,0c-5.8,2-7.9,6-8,6.4c1.7,1.4,3.9,2.2,6.3,2.2C13.4,22.3,14.8,22,16,21.5z M4.4,18.9c0.2-0.4,3-5.1,8.3-6.8 c0.1,0,0.3-0.1,0.4-0.1c-0.3-0.6-0.5-1.2-0.8-1.7c-5.1,1.5-10.1,1.5-10.5,1.5c0,0.1,0,0.2,0,0.3C1.8,14.6,2.7,17.1,4.4,18.9z M2,9.9 c0.5,0,4.7,0,9.5-1.2c-1.7-3-3.5-5.6-3.8-5.9C4.8,4.1,2.6,6.7,2,9.9z M9.6,2.1c0.3,0.4,2.1,2.9,3.8,6c3.6-1.4,5.2-3.4,5.4-3.7 C17,2.7,14.6,1.8,12,1.8C11.2,1.8,10.4,1.9,9.6,2.1z M19.9,5.5c-0.2,0.3-1.9,2.5-5.7,4c0.2,0.5,0.5,1,0.7,1.5 c0.1,0.2,0.1,0.4,0.2,0.5c3.4-0.4,6.8,0.3,7.1,0.3C22.2,9.5,21.4,7.3,19.9,5.5z"
+                      ></path>
+                    </g></svg
+                  >Dribbble</a
+                ><a
+                  class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZ2FwLTI.5 dHctcm91bmRlZC1mdWxs dHctYm9yZGVy dHctYm9yZGVyLXNsYXRlLTYwMC85MA dHctcHktMg.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS01MA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2xhdGUtODAw hover:dHctdGV4dC13aGl0ZQ lg:dHctZ2FwLTI xl:dHctZ2FwLTI.5"
+                  href="#"
+                  ><svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewbox="0 0 24 24"
+                    fill="currentColor"
+                    class="dHctaC00 dHctdy00 dHctc2hyaW5rLTA dHctdGV4dC1zbGF0ZS0yMDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ group-hover:dHctZmlsbC1zbGF0ZS0xMDA"
+                  >
+                    <g>
+                      <path
+                        d="M12,2.982c2.937,0,3.285.011,4.445.064a6.072,6.072,0,0,1,2.042.379,3.4,3.4,0,0,1,1.265.823,3.4,3.4,0,0,1,.823,1.265,6.072,6.072,0,0,1,.379,2.042c.053,1.16.064,1.508.064,4.445s-.011,3.285-.064,4.445a6.072,6.072,0,0,1-.379,2.042,3.644,3.644,0,0,1-2.088,2.088,6.072,6.072,0,0,1-2.042.379c-1.16.053-1.508.064-4.445.064s-3.285-.011-4.445-.064a6.072,6.072,0,0,1-2.042-.379,3.4,3.4,0,0,1-1.265-.823,3.4,3.4,0,0,1-.823-1.265,6.072,6.072,0,0,1-.379-2.042c-.053-1.16-.064-1.508-.064-4.445s.011-3.285.064-4.445a6.072,6.072,0,0,1,.379-2.042,3.4,3.4,0,0,1,.823-1.265,3.4,3.4,0,0,1,1.265-.823,6.072,6.072,0,0,1,2.042-.379c1.16-.053,1.508-.064,4.445-.064M12,1c-2.987,0-3.362.013-4.535.066a8.108,8.108,0,0,0-2.67.511A5.625,5.625,0,0,0,1.577,4.8a8.108,8.108,0,0,0-.511,2.67C1.013,8.638,1,9.013,1,12s.013,3.362.066,4.535a8.108,8.108,0,0,0,.511,2.67A5.625,5.625,0,0,0,4.8,22.423a8.108,8.108,0,0,0,2.67.511C8.638,22.987,9.013,23,12,23s3.362-.013,4.535-.066a8.108,8.108,0,0,0,2.67-.511A5.625,5.625,0,0,0,22.423,19.2a8.108,8.108,0,0,0,.511-2.67C22.987,15.362,23,14.987,23,12s-.013-3.362-.066-4.535a8.108,8.108,0,0,0-.511-2.67A5.625,5.625,0,0,0,19.2,1.577a8.108,8.108,0,0,0-2.67-.511C15.362,1.013,14.987,1,12,1Z"
+                      ></path>
+                      <path
+                        d="M12,6.351A5.649,5.649,0,1,0,17.649,12,5.649,5.649,0,0,0,12,6.351Zm0,9.316A3.667,3.667,0,1,1,15.667,12,3.667,3.667,0,0,1,12,15.667Z"
+                      ></path>
+                      <circle cx="17.872" cy="6.128" r="1.32"></circle>
+                    </g></svg
+                  >Instagram</a
+                ><a
+                  class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZ2FwLTI.5 dHctcm91bmRlZC1mdWxs dHctYm9yZGVy dHctYm9yZGVyLXNsYXRlLTYwMC85MA dHctcHktMg.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS01MA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2xhdGUtODAw hover:dHctdGV4dC13aGl0ZQ lg:dHctZ2FwLTI xl:dHctZ2FwLTI.5"
+                  href="#"
+                  ><svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewbox="0 0 24 24"
+                    fill="currentColor"
+                    class="dHctaC00 dHctdy00 dHctc2hyaW5rLTA dHctdGV4dC1zbGF0ZS0yMDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ group-hover:dHctZmlsbC1zbGF0ZS0xMDA"
+                  >
+                    <g>
+                      <path
+                        d="M24,4.6c-0.9,0.4-1.8,0.7-2.8,0.8c1-0.6,1.8-1.6,2.2-2.7c-1,0.6-2,1-3.1,1.2c-0.9-1-2.2-1.6-3.6-1.6 c-2.7,0-4.9,2.2-4.9,4.9c0,0.4,0,0.8,0.1,1.1C7.7,8.1,4.1,6.1,1.7,3.1C1.2,3.9,1,4.7,1,5.6c0,1.7,0.9,3.2,2.2,4.1 C2.4,9.7,1.6,9.5,1,9.1c0,0,0,0,0,0.1c0,2.4,1.7,4.4,3.9,4.8c-0.4,0.1-0.8,0.2-1.3,0.2c-0.3,0-0.6,0-0.9-0.1c0.6,2,2.4,3.4,4.6,3.4 c-1.7,1.3-3.8,2.1-6.1,2.1c-0.4,0-0.8,0-1.2-0.1c2.2,1.4,4.8,2.2,7.5,2.2c9.1,0,14-7.5,14-14c0-0.2,0-0.4,0-0.6 C22.5,6.4,23.3,5.5,24,4.6z"
+                      ></path>
+                    </g></svg
+                  >Twitter</a
+                ><a
+                  class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZ2FwLTI.5 dHctcm91bmRlZC1mdWxs dHctYm9yZGVy dHctYm9yZGVyLXNsYXRlLTYwMC85MA dHctcHktMg.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS01MA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2xhdGUtODAw hover:dHctdGV4dC13aGl0ZQ lg:dHctZ2FwLTI xl:dHctZ2FwLTI.5"
+                  href="#"
+                  ><svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="18"
+                    height="16"
+                    viewbox="0 0 18 16"
+                    fill="currentColor"
+                    class="dHctaC00 dHctdy00 dHctc2hyaW5rLTA dHctdGV4dC1zbGF0ZS0yMDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ group-hover:dHctZmlsbC1zbGF0ZS0xMDA"
+                  >
+                    <path
+                      d="M16.5128 0H0.717949C0.287179 0 0 0.266667 0 0.666667V15.3333C0 15.7333 0.287179 16 0.717949 16H16.5128C16.9436 16 17.2308 15.7333 17.2308 15.3333V0.666667C17.2308 0.266667 16.9436 0 16.5128 0ZM5.09744 13.6667H2.58462V6H5.16923V13.6667H5.09744ZM3.80513 4.93333C3.01538 4.93333 2.29744 4.33333 2.29744 3.53333C2.29744 2.8 2.94359 2.13333 3.80513 2.13333C4.59487 2.13333 5.31282 2.73333 5.31282 3.53333C5.31282 4.33333 4.66667 4.93333 3.80513 4.93333ZM14.7179 13.6667H12.1333V9.93333C12.1333 9.06667 12.1333 7.93333 10.841 7.93333C9.47692 7.93333 9.33333 8.86667 9.33333 9.86667V13.6667H6.74872V6H9.18974V7.06667C9.54872 6.46667 10.3385 5.86667 11.6308 5.86667C14.2154 5.86667 14.7179 7.46667 14.7179 9.53333V13.6667Z"
+                    ></path></svg
+                  >LinkedIn</a
+                ><a
+                  class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZ2FwLTI.5 dHctcm91bmRlZC1mdWxs dHctYm9yZGVy dHctYm9yZGVyLXNsYXRlLTYwMC85MA dHctcHktMg.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS01MA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2xhdGUtODAw hover:dHctdGV4dC13aGl0ZQ lg:dHctZ2FwLTI xl:dHctZ2FwLTI.5"
+                  href="#"
+                  ><svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="16"
+                    height="16"
+                    viewbox="0 0 16 16"
+                    fill="currentColor"
+                    class="dHctaC00 dHctdy00 dHctc2hyaW5rLTA dHctdGV4dC1zbGF0ZS0yMDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ group-hover:dHctZmlsbC1zbGF0ZS0xMDA"
+                  >
+                    <g clip-path="url(#clip0_315_596)">
+                      <path
+                        fill-rule="evenodd"
+                        clip-rule="evenodd"
+                        d="M8 0.200195C3.6 0.200195 0 3.8002 0 8.2002C0 11.7335 2.26667 14.7335 5.46667 15.8002C5.86667 15.8669 6 15.6002 6 15.4002C6 15.2002 6 14.7335 6 14.0669C3.8 14.5335 3.33333 13.0002 3.33333 13.0002C3 12.0669 2.46667 11.8002 2.46667 11.8002C1.66667 11.3335 2.46667 11.3335 2.46667 11.3335C3.26667 11.4002 3.66667 12.1335 3.66667 12.1335C4.4 13.3335 5.53333 13.0002 6 12.8002C6.06667 12.2669 6.26667 11.9335 6.53333 11.7335C4.73333 11.5335 2.86667 10.8669 2.86667 7.8002C2.86667 6.93353 3.2 6.2002 3.66667 5.66686C3.66667 5.4002 3.33333 4.6002 3.8 3.53353C3.8 3.53353 4.46667 3.33353 6 4.33353C6.66667 4.13353 7.33333 4.06686 8 4.06686C8.66667 4.06686 9.33333 4.13353 10 4.33353C11.5333 3.26686 12.2 3.53353 12.2 3.53353C12.6667 4.66686 12.3333 5.46686 12.2667 5.66686C12.8 6.2002 13.0667 6.93353 13.0667 7.8002C13.0667 10.8669 11.2 11.5335 9.4 11.7335C9.66667 12.0002 9.93333 12.4669 9.93333 13.2002C9.93333 14.2669 9.93333 15.1335 9.93333 15.4002C9.93333 15.6002 10.0667 15.8669 10.4667 15.8002C13.6667 14.7335 15.9333 11.7335 15.9333 8.2002C16 3.8002 12.4 0.200195 8 0.200195Z"
+                      ></path>
+                    </g>
+                    <defs>
+                      <clippath id="clip0_315_596">
+                        <rect width="16" height="16" fill="white"></rect>
+                      </clippath>
+                    </defs></svg
+                  >Github</a
+                >
+              </div>
+            </div>
+          </div>
+          <hr
+            class="dHctbWItNg dHctbXQtMTI dHctaC1weA dHctdy1mdWxs dHctYm9yZGVyLXNsYXRlLTYwMC85MA sm:dHctbWItMTA sm:dHctbXQtMTY"
+          />
+          <div
+            class="dHctZmxleA dHctZmxleC1jb2w dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1iZXR3ZWVu md:dHctZmxleC1yb3c"
+          >
+            <div class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTY">
+              <a
+                class="dHctdGV4dC1iYXNl dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS0xMDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctdGV4dC13aGl0ZQ"
+                href="index.htm"
+                >Home</a
+              ><a
+                class="dHctdGV4dC1iYXNl dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS0xMDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctdGV4dC13aGl0ZQ"
+                href="about.html"
+                >About</a
+              ><a
+                class="dHctdGV4dC1iYXNl dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS0xMDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctdGV4dC13aGl0ZQ"
+                href="work.html"
+                >Work</a
+              ><a
+                class="dHctdGV4dC1iYXNl dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS0xMDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctdGV4dC13aGl0ZQ"
+                href="blog.html"
+                >Blog</a
+              ><a
+                class="dHctdGV4dC1iYXNl dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS0xMDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctdGV4dC13aGl0ZQ"
+                href="contact.html"
+                >Contact</a
+              >
+            </div>
+            <p
+              class="dHctbXQtOA dHctdGV4dC1iYXNl dHctdGV4dC1zbGF0ZS00MDAvOTA md:dHctbXQtMA"
+            >
+              ©
+              <!-- -->2024<!-- -->
+              Tailwind Awesome. All rights reserved.
+            </p>
+          </div>
+        </div>
+      </footer>
+    </section>
+  </div>
+</template>
