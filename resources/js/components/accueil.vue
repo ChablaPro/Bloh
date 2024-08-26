@@ -2,7 +2,7 @@
   <div>
     
     <section
-      class="dHctcmVsYXRpdmU dHctcHktMjA dHctb3ZlcmZsb3ctaGlkZGVu lg:dHctcHktMjQ"
+      class="dHctcmVsYXRpdmU dHctcHktMjA dHctb3ZlcmZsb3ctaGlkZGVu lg:dHctcHktMjQ "
     >
       <img
         alt=""
@@ -16,10 +16,10 @@
         src="bloh/static/media/home-hero-gradient.ed3d81f3.svg"
       />
       <div
-        class="dHctbXgtYXV0bw dHctbWF4LXctc2NyZWVuLXhs dHctcHgtNQ sm:dHctcHgtNg lg:dHctcHgtOA dHctcmVsYXRpdmU dHctei0xMA dHctZ3JpZA dHctaXRlbXMtY2VudGVy dHctZ2FwLTE2 lg:dHctZ3JpZC1jb2xzLTI lg:dHctZ2FwLTg"
+        class="dHctbXgtYXV0bw dHctbWF4LXctc2NyZWVuLXhs dHctcHgtNQ sm:dHctcHgtNg lg:dHctcHgtOA dHctcmVsYXRpdmU dHctei0xMA dHctZ3JpZA dHctaXRlbXMtY2VudGVy dHctZ2FwLTE2 lg:dHctZ3JpZC1jb2xzLTI lg:dHctZ2FwLTg "
       >
         <div
-          class="dHctZmxleA dHctZmxleC1jb2w dHctaXRlbXMtY2VudGVy dHctbWF4LXctMnhs dHctbXgtYXV0bw lg:dHctaXRlbXMtc3RhcnQ"
+          class="dHctZmxleA dHctZmxleC1jb2w dHctaXRlbXMtY2VudGVy dHctbWF4LXctMnhs dHctbXgtYXV0bw lg:dHctaXRlbXMtc3RhcnQ  "
         >
           <h1
             class="dHctdGV4dC01eGw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1jZW50ZXI dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC02eGw lg:dHctdGV4dC1sZWZ0"
@@ -36,17 +36,14 @@
                 <path
                   d="M247.564 18.5807C241.772 13.3568 232.473 12.7526 225.225 11.4427C217.124 9.97395 208.996 8.57031 200.846 7.46093C186.542 5.51302 172.169 4.08854 157.79 3.01562C126.033 0.645827 94.0929 0.0338481 62.3387 2.36979C42.1785 3.85416 22.008 5.90885 2.32917 10.8463C-0.0155171 11.4349 0.207047 14.6719 2.6889 14.7083C22.0261 14.9896 41.3866 12.6406 60.7109 11.8568C79.9471 11.0807 99.2274 10.6719 118.484 10.9557C142.604 11.3125 166.719 12.8333 190.722 15.5156C199.956 16.5469 209.195 17.6016 218.411 18.8255C227.864 20.0807 237.259 22 246.767 20.7422C247.709 20.6198 248.426 19.3568 247.564 18.5807Z"
                 ></path></svg
-              ><span class="dHctcmVsYXRpdmU">Helping</span></span
+              ><span class="dHctcmVsYXRpdmU">Propulser</span></span
             >
-            <!-- -->businesses turn their ideas into reality
+            <!-- -->vos idées vers le succès
           </h1>
           <p
             class="dHctbXQtNg dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1jZW50ZXI dHctdGV4dC1zbGF0ZS03MDA lg:dHctdGV4dC1sZWZ0"
           >
-            I&#x27;m a passionate developer, entrepreneur, and general
-            technology enthusiast living in San Francisco. I&#x27;ve worked with
-            hundreds of startups to help them develop their ideas into
-            profitable businesses.
+          Développez des stratégies créatives pour transformer vos idées en réussites concrètes.
           </p>
           <div
             class="dHctZmxleA dHctZmxleC13cmFw dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctbXQtMTA dHctZ2FwLXgtMTA dHctZ2FwLXktNg lg:dHctanVzdGlmeS1zdGFydA"
@@ -148,7 +145,7 @@
               >
                 <span
                   class="dHctaW5saW5lLWJsb2Nr dHctdHJhbnNmb3Jt dHctZm9udC13cml0aW5n dHctdGV4dC0yeGw dHctdHJhY2tpbmctd2lkZQ dHctdGV4dC1zbGF0ZS02MDA md:dHctcm90YXRlLQ[16deg] lg:dHctdHJhbnNsYXRlLXgtNg lg:dHctcm90YXRlLQ[-18deg] 2xl:tw-rotate-12"
-                  >Hi, I&#x27;m Jane!</span
+                  >Salut, Je suis Chimène!</span
                 ><svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="103"
@@ -170,50 +167,17 @@
               <div
                 class="dHctYWJzb2x1dGU LXR3LXRvcC02 dHctcmlnaHQtMTI dHctaW5saW5lLWZsZXg dHctaC0xMg dHctdy1tYXg dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZ2FwLTM.5 dHctcm91bmRlZC0yeGw dHctYmctd2hpdGUvOTA dHctcHgtOA dHctdGV4dC1zbQ dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS03MDA dHctc2hhZG93LWxn dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ dHctYmFja2Ryb3AtYmx1ci1tZA md:LXR3LWxlZnQtMjg md:dHctdG9wLTE0 lg:LXR3LXRvcC02 lg:dHctbGVmdC00NA lg:dHctcHgtMTA 2xl:-tw-left-48 2xl:tw-top-14"
               >
-                <img
-                  alt=""
-                  fetchpriority="high"
-                  width="64"
-                  height="64"
-                  decoding="async"
-                  data-nimg="1"
-                  class="dHctdy00 dHctaC1hdXRv"
-                  style="color: transparent"
-                  srcset="bloh/figma-2.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Ffigma.8944909e.png&amp;w=64&amp;q=75 1x, bloh/figma.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Ffigma.8944909e.png&amp;w=128&amp;q=75 2x"
-                  src="bloh/figma.png?url=%2Fbloh%2Fstatic%2Fmedia%2Ffigma.8944909e.png&amp;w=128&amp;q=75"
-                />4 years of experience
+                Consultante en stratégie créative
               </div>
               <div
                 class="dHctYWJzb2x1dGU dHctbGVmdC0xMg dHctdG9wLWZ1bGw dHctaW5saW5lLWZsZXg dHctaC0xMg dHctdy1tYXg LXR3LXRyYW5zbGF0ZS15LTY dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZ2FwLTM.5 dHctcm91bmRlZC0yeGw dHctYmctd2hpdGUvOTA dHctcHgtOA dHctdGV4dC1zbQ dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS03MDA dHctc2hhZG93LWxn dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ dHctYmFja2Ryb3AtYmx1ci1tZA md:dHctbGVmdC0w md:LXR3LXRyYW5zbGF0ZS14LTIw md:LXR3LXRyYW5zbGF0ZS15LTI0 lg:LXR3LWxlZnQtMw lg:LXR3LXRyYW5zbGF0ZS15LTI0 lg:dHctcHgtMTA xl:LXR3LWxlZnQtNg xl:LXR3LXRyYW5zbGF0ZS14LTI4 xl:LXR3LXRyYW5zbGF0ZS15LTMy"
               >
-                <img
-                  alt=""
-                  fetchpriority="high"
-                  width="64"
-                  height="64"
-                  decoding="async"
-                  data-nimg="1"
-                  class="dHctdy1hdXRv dHctaC02"
-                  style="color: transparent"
-                  srcset="bloh/sketch-2.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Fsketch.406f2e62.png&amp;w=64&amp;q=75 1x, bloh/sketch.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Fsketch.406f2e62.png&amp;w=128&amp;q=75 2x"
-                  src="bloh/sketch.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fsketch.406f2e62.png&amp;w=128&amp;q=75"
-                />5 years of experience
+                Autrice
               </div>
               <div
                 class="dHctYWJzb2x1dGU dHctdG9wLQ[350px] dHctaGlkZGVu dHctaC0xMg dHctdy1tYXg dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZ2FwLTM.5 dHctcm91bmRlZC0yeGw dHctYmctd2hpdGUvOTA dHctcHgtOA dHctdGV4dC1zbQ dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS03MDA dHctc2hhZG93LWxn dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ dHctYmFja2Ryb3AtYmx1ci1tZA md:dHctbGVmdC1mdWxs md:dHctaW5saW5lLWZsZXg md:LXR3LXRyYW5zbGF0ZS14LTMy lg:dHctbGVmdC00OA lg:dHctaGlkZGVu lg:dHctcHgtMTA 2xl:tw-left-full 2xl:tw-inline-flex 2xl:-tw-translate-x-28"
               >
-                <img
-                  alt=""
-                  fetchpriority="high"
-                  width="33"
-                  height="20"
-                  decoding="async"
-                  data-nimg="1"
-                  class="dHctaC1hdXRv dHctdy03"
-                  style="color: transparent"
-                  srcset="bloh/tailwindcss-2.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=48&amp;q=75 1x, bloh/tailwindcss.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=96&amp;q=75 2x"
-                  src="bloh/tailwindcss.png?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=96&amp;q=75"
-                /><span class="">3 years of experience</span>
+              Entrepreneure Multipotentielle
               </div>
             </div>
           </div>

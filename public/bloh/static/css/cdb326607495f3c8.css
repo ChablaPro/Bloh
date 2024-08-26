@@ -5920,6 +5920,12 @@ select {
     }
 }
 
+@media  (max-width:768px){
+    .dHctdGV4dC01eGw{
+        font-size: 2rem;
+    }
+}
+
 @media (min-width:1536px) {
     .\32xl\:-tw-left-24 {
         left: -6rem
