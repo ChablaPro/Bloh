@@ -1,7 +1,7 @@
 <template>
-    <div>
-        <header
-      class="dHctaC0yNA dHctYm9yZGVyLWI dHctYm9yZGVyLXNsYXRlLTIwMC84MA dHctYmctd2hpdGU"
+  <div>
+    <header
+      class="dHctaC0yNA dHctYm9yZGVyLWI dHctYm9yZGVyLXNsYXRlLTIwMC84MA dHctYmctd2hpdGU fixed w-full z-50"
     >
       <div
         class="dHctbXgtYXV0bw dHctbWF4LXctc2NyZWVuLXhs dHctcHgtNQ sm:dHctcHgtNg lg:dHctcHgtOA dHctZmxleA dHctaC1mdWxs dHctdy1mdWxs dHctaXRlbXMtY2VudGVy"
@@ -41,25 +41,45 @@
             class="dHctaGlkZGVu dHctaXRlbXMtY2VudGVy md:dHctZmxleA md:dHctc3BhY2UteC02 lg:dHctc3BhY2UteC04"
           >
             <router-link
-              :class=" $route.path == '/' ? 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA after:tw-opacity-100' : 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA hover:dHctdGV4dC1zbGF0ZS05MDA hover:after:tw-opacity-25'"
+              :class="
+                $route.path == '/'
+                  ? 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA after:tw-opacity-100'
+                  : 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA hover:dHctdGV4dC1zbGF0ZS05MDA hover:after:tw-opacity-25'
+              "
               to="/"
               >Accueil</router-link
             ><router-link
-            :class=" $route.path == '/about' ? 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA after:tw-opacity-100' : 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA hover:dHctdGV4dC1zbGF0ZS05MDA hover:after:tw-opacity-25'"
+              :class="
+                $route.path == '/about'
+                  ? 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA after:tw-opacity-100'
+                  : 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA hover:dHctdGV4dC1zbGF0ZS05MDA hover:after:tw-opacity-25'
+              "
               to="/about"
               >À Propos</router-link
             ><router-link
-            :class=" $route.path == '/work' ? 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA after:tw-opacity-100' : 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA hover:dHctdGV4dC1zbGF0ZS05MDA hover:after:tw-opacity-25'"
+              :class="
+                $route.path == '/work'
+                  ? 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA after:tw-opacity-100'
+                  : 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA hover:dHctdGV4dC1zbGF0ZS05MDA hover:after:tw-opacity-25'
+              "
               to="/work"
               >Réalisations</router-link
             ><router-link
-            :class=" $route.path == '/blog' ? 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA after:tw-opacity-100' : 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA hover:dHctdGV4dC1zbGF0ZS05MDA hover:after:tw-opacity-25'"
+              :class="
+                $route.path == '/blog'
+                  ? 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA after:tw-opacity-100'
+                  : 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA hover:dHctdGV4dC1zbGF0ZS05MDA hover:after:tw-opacity-25'
+              "
               to="/blog"
               >Blog</router-link
             ><router-link
-            :class=" $route.path == '/contact' ? 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA after:tw-opacity-100' : 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA hover:dHctdGV4dC1zbGF0ZS05MDA hover:after:tw-opacity-25'"
+              :class="
+                $route.path == '/contact'
+                  ? 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA after:tw-opacity-100'
+                  : 'dHctcmVsYXRpdmU dHctZHVyYXRpb24tMjAw after:tw-absolute after:-tw-bottom-2.5 after:tw-left-1/2 after:tw-h-0.5 after:tw-w-4 after:-tw-translate-x-1/2 after:tw-rounded-full after:tw-bg-slate-900 after:tw-opacity-0 after:tw-content-[&quot;&quot;] dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA hover:dHctdGV4dC1zbGF0ZS05MDA hover:after:tw-opacity-25'
+              "
               to="/contact"
-              >Contacts</router-link
+              >Contact</router-link
             >
             <!--div class="dHctcmVsYXRpdmU" data-headlessui-state="">
               <button
@@ -99,9 +119,13 @@
                   aria-label="Toggle Navigation"
                   type="button"
                   aria-expanded="false"
-                  data-headlessui-state="" @click="changeMenu"
+                  data-headlessui-state=""
+                  @click="changeMenu"
                 >
-                  <span class="dHctcmVsYXRpdmU dHctaC0z.5 dHctdy00" v-if="!defaultMenu">
+                  <span
+                    class="dHctcmVsYXRpdmU dHctaC0z.5 dHctdy00"
+                    v-if="!defaultMenu"
+                  >
                     <span
                       class="dHctYWJzb2x1dGU dHctYmxvY2s dHctaC0w.5 dHctcm90YXRlLTA dHctdHJhbnNmb3Jt dHctcm91bmRlZC1mdWxs dHctYmctc2xhdGUtNzAw dHctb3BhY2l0eS0xMDA dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:dHctYmctc2xhdGUtOTAw dHctbGVmdC0w dHctdG9wLTA dHctdy1mdWxs"
                     ></span
@@ -116,57 +140,103 @@
                     ></span
                   ></span>
 
-                  <span class="dHctcmVsYXRpdmU dHctaC0z.5 dHctdy00" v-if="defaultMenu">
-                    <span class="dHctYWJzb2x1dGU dHctYmxvY2s dHctaC0w.5 dHctcm90YXRlLTA dHctdHJhbnNmb3Jt dHctcm91bmRlZC1mdWxs dHctYmctc2xhdGUtNzAw dHctb3BhY2l0eS0xMDA dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:dHctYmctc2xhdGUtOTAw dHctbGVmdC0x/2 dHctdG9wLTE.5 dHctdy0w"></span>
-                    <span class="dHctYWJzb2x1dGU dHctbGVmdC0w dHctdG9wLTE.5 dHctYmxvY2s dHctaC0w.5 dHctdy1mdWxs dHctdHJhbnNmb3Jt dHctcm91bmRlZC1mdWxs dHctYmctc2xhdGUtNzAw dHctb3BhY2l0eS0xMDA dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:dHctYmctc2xhdGUtOTAw dHctcm90YXRlLTQ1"></span>
-                    <span class="dHctYWJzb2x1dGU dHctbGVmdC0w dHctdG9wLTE.5 dHctYmxvY2s dHctaC0w.5 dHctdy1mdWxs dHctdHJhbnNmb3Jt dHctcm91bmRlZC1mdWxs dHctYmctc2xhdGUtNzAw dHctb3BhY2l0eS0xMDA dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:dHctYmctc2xhdGUtOTAw LXR3LXJvdGF0ZS00NQ"></span>
-                    <span class="dHctYWJzb2x1dGU dHctYmxvY2s dHctaC0w.5 dHctcm90YXRlLTA dHctdHJhbnNmb3Jt dHctcm91bmRlZC1mdWxs dHctYmctc2xhdGUtNzAw dHctb3BhY2l0eS0xMDA dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:dHctYmctc2xhdGUtOTAw dHctbGVmdC0x/2 dHctdG9wLTE.5 dHctdy0w"></span>
+                  <span
+                    class="dHctcmVsYXRpdmU dHctaC0z.5 dHctdy00"
+                    v-if="defaultMenu"
+                  >
+                    <span
+                      class="dHctYWJzb2x1dGU dHctYmxvY2s dHctaC0w.5 dHctcm90YXRlLTA dHctdHJhbnNmb3Jt dHctcm91bmRlZC1mdWxs dHctYmctc2xhdGUtNzAw dHctb3BhY2l0eS0xMDA dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:dHctYmctc2xhdGUtOTAw dHctbGVmdC0x/2 dHctdG9wLTE.5 dHctdy0w"
+                    ></span>
+                    <span
+                      class="dHctYWJzb2x1dGU dHctbGVmdC0w dHctdG9wLTE.5 dHctYmxvY2s dHctaC0w.5 dHctdy1mdWxs dHctdHJhbnNmb3Jt dHctcm91bmRlZC1mdWxs dHctYmctc2xhdGUtNzAw dHctb3BhY2l0eS0xMDA dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:dHctYmctc2xhdGUtOTAw dHctcm90YXRlLTQ1"
+                    ></span>
+                    <span
+                      class="dHctYWJzb2x1dGU dHctbGVmdC0w dHctdG9wLTE.5 dHctYmxvY2s dHctaC0w.5 dHctdy1mdWxs dHctdHJhbnNmb3Jt dHctcm91bmRlZC1mdWxs dHctYmctc2xhdGUtNzAw dHctb3BhY2l0eS0xMDA dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:dHctYmctc2xhdGUtOTAw LXR3LXJvdGF0ZS00NQ"
+                    ></span>
+                    <span
+                      class="dHctYWJzb2x1dGU dHctYmxvY2s dHctaC0w.5 dHctcm90YXRlLTA dHctdHJhbnNmb3Jt dHctcm91bmRlZC1mdWxs dHctYmctc2xhdGUtNzAw dHctb3BhY2l0eS0xMDA dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMzAw dHctZWFzZS1pbi1vdXQ group-hover:dHctYmctc2xhdGUtOTAw dHctbGVmdC0x/2 dHctdG9wLTE.5 dHctdy0w"
+                    ></span>
                   </span>
                 </button>
 
                 <!--Menu sur le mobile-->
                 <div v-if="defaultMenu">
-
                   <div
                     class="dHctZml4ZWQ dHctaW5zZXQtMA dHctei0yMA dHctYmctc2xhdGUtOTAw dHctYmctb3BhY2l0eS01MA dHctb3BhY2l0eS0xMDA"
                     id="headlessui-popover-overlay-:ro:"
                     aria-hidden="true"
-                    data-headlessui-state="open" @click="defaultMenu = false">
-                  </div>
+                    data-headlessui-state="open"
+                    @click="defaultMenu = false"
+                  ></div>
 
                   <div
                     class="dHctYWJzb2x1dGU dHctaW5zZXQteC0w dHctdG9wLWZ1bGw dHctei0zMA dHctbXQtNA dHctb3JpZ2luLXRvcA dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC0yeGw dHctYmctc2xhdGUtNTA dHctcHgtNg dHctcHktNw dHctc2hhZG93LXhs dHctc2hhZG93LXNreS0xMDAvNDA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ dHctb3BhY2l0eS0xMDA dHctc2NhbGUtMTAw"
                     id="headlessui-popover-panel-:rp:"
                     tabindex="-1"
-                    data-headlessui-state="open">
-                    
+                    data-headlessui-state="open"
+                  >
                     <div>
                       <div class="dHctZmxleA dHctZmxleC1jb2w dHctc3BhY2UteS00">
                         <router-link
-                          class="dHctYmxvY2s dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS03MDA dHctZHVyYXRpb24tMjAw hover:dHctdGV4dC1zbGF0ZS05MDA "
-                          to="/" @click="defaultMenu = false" :style="($route.path == '/') ? { color: 'black', fontWeight: 900 } : {}">
+                          class="dHctYmxvY2s dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS03MDA dHctZHVyYXRpb24tMjAw hover:dHctdGV4dC1zbGF0ZS05MDA"
+                          to="/"
+                          @click="defaultMenu = false"
+                          :style="
+                            $route.path == '/'
+                              ? { color: 'black', fontWeight: 900 }
+                              : {}
+                          "
+                        >
                           Accueil
                         </router-link>
                         <router-link
                           class="dHctYmxvY2s dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS03MDA dHctZHVyYXRpb24tMjAw hover:dHctdGV4dC1zbGF0ZS05MDA"
-                          to="/about" @click="defaultMenu = false" :style="($route.path == '/about') ? { color: 'black', fontWeight: 900 } : {}">
+                          to="/about"
+                          @click="defaultMenu = false"
+                          :style="
+                            $route.path == '/about'
+                              ? { color: 'black', fontWeight: 900 }
+                              : {}
+                          "
+                        >
                           À Propos
                         </router-link>
                         <router-link
                           class="dHctYmxvY2s dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS03MDA dHctZHVyYXRpb24tMjAw hover:dHctdGV4dC1zbGF0ZS05MDA"
-                          to="/work" @click="defaultMenu = false" :style="($route.path == '/work') ? { color: 'black', fontWeight: 900 } : {}">
+                          to="/work"
+                          @click="defaultMenu = false"
+                          :style="
+                            $route.path == '/work'
+                              ? { color: 'black', fontWeight: 900 }
+                              : {}
+                          "
+                        >
                           Réalisations
                         </router-link>
                         <router-link
                           class="dHctYmxvY2s dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS03MDA dHctZHVyYXRpb24tMjAw hover:dHctdGV4dC1zbGF0ZS05MDA"
-                          to="/blog" @click="defaultMenu = false" :style="($route.path == '/blog') ? { color: 'black', fontWeight: 900 } : {}">
+                          to="/blog"
+                          @click="defaultMenu = false"
+                          :style="
+                            $route.path == '/blog'
+                              ? { color: 'black', fontWeight: 900 }
+                              : {}
+                          "
+                        >
                           Blog
                         </router-link>
                         <router-link
                           class="dHctYmxvY2s dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS03MDA dHctZHVyYXRpb24tMjAw hover:dHctdGV4dC1zbGF0ZS05MDA"
-                          to="/contact" @click="defaultMenu = false" :style="($route.path == '/contact') ? { color: 'black', fontWeight: 900 } : {}">
+                          to="/contact"
+                          @click="defaultMenu = false"
+                          :style="
+                            $route.path == '/contact'
+                              ? { color: 'black', fontWeight: 900 }
+                              : {}
+                          "
+                        >
                           Contacts
-                        </router-link >
+                        </router-link>
 
                         <!--div class="dHctcmVsYXRpdmU" data-headlessui-state="">
                           <button
@@ -195,7 +265,6 @@
                   </div>
                 </div>
                 <!--Menu sur le mobile-->
-
               </div>
               <div
                 style="
@@ -218,21 +287,20 @@
         </nav>
       </div>
     </header>
-    </div>
+  </div>
 </template>
 
 <script>
-export default{
-    data(){
-        return {
-          defaultMenu: false,
-        }
+export default {
+  data() {
+    return {
+      defaultMenu: false,
+    };
+  },
+  methods: {
+    changeMenu() {
+      this.defaultMenu = !this.defaultMenu;
     },
-    methods: {
-      changeMenu(){
-        this.defaultMenu = !this.defaultMenu;
-      }
-    }
-   
-}
+  },
+};
 </script>
