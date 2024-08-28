@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="pt-20">
     
     <section class="dHctcmVsYXRpdmU dHctb3ZlcmZsb3ctaGlkZGVu">
       <div class="dHctbXgtYXV0bw dHctbWF4LXctc2NyZWVuLXhs">
@@ -16,7 +16,7 @@
               <h2
                 class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC00eGw dHctZm9udC1zZW1pYm9sZA dHctbGVhZGluZy10aWdodA dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC01eGw sm:dHctbGVhZGluZy10aWdodA lg:dHctdGV4dC0[40px] lg:dHctbGVhZGluZy10aWdodA xl:dHctdGV4dC01eGw xl:dHctbGVhZGluZy10aWdodA"
               >
-                How can I help you? Let’s get in touch<span
+              Prenez contact avec nous.<span
                   class="dHctbWwtNA sm:dHctbWwtNg"
                   >👋</span
                 >
@@ -35,7 +35,7 @@
                   style="color: transparent"
                   sizes="(min-width: 1280px) 35rem, (min-width: 1024px) calc(50vw - 5rem), (min-width: 768px) 42rem, calc(100vw - 2.5rem)"
                   srcset="bloh/contact-1.jpg 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=16&amp;q=75 16w, bloh/contact-2.jpg 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=32&amp;q=75 32w, bloh/contact-3.jpg 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=48&amp;q=75 48w, bloh/contact-4.jpg 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=64&amp;q=75 64w, bloh/contact-5.jpg 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=96&amp;q=75 96w, bloh/contact-6.jpg 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=128&amp;q=75 128w, bloh/contact-7.jpg 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=256&amp;q=75 256w, bloh/contact-8.jpg 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=360&amp;q=75 360w, bloh/contact-9.jpg 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=384&amp;q=75 384w, bloh/contact-10.jpg 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=414&amp;q=75 414w, bloh/contact-11.jpg 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=512&amp;q=75 512w, bloh/contact-12.jpg 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=640&amp;q=75 640w, bloh/contact-13.jpg 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=750&amp;q=75 750w, bloh/contact-14.jpg 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=828&amp;q=75 828w, bloh/contact-15.jpg 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=1080&amp;q=75 1080w, bloh/contact-16.jpg 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=1200&amp;q=75 1200w, bloh/contact-17.jpg 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=1536&amp;q=75 1536w, bloh/contact-18.jpg 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=1920&amp;q=75 1920w, bloh/contact-19.jpg 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=2048&amp;q=75 2048w, bloh/contact.jpg 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=3840&amp;q=75 3840w"
-                  src="bloh/contact.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=3840&amp;q=75"
+                  src="bloh/contactPro.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Fcontact.b33f4d23.jpg&amp;w=3840&amp;q=75"
                 />
               </div>
               <div
@@ -43,8 +43,7 @@
               >
                 <span
                   class="dHctaW5saW5lLWJsb2Nr dHctdy01Mg dHctbWF4LXct[220px] dHctdHJhbnNmb3Jt sm:dHctdy1hdXRv sm:LXR3LXJvdGF0ZS02"
-                  >You can <span class="dHctdGV4dC1za3ktNzAw">reach me</span> at
-                  the following</span
+                  >Vous pouvez <span class="dHctdGV4dC1za3ktNzAw">nous joindre</span> à l'adresse suivante</span
                 ><svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="124"
@@ -95,17 +94,17 @@
                     <p
                       class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctdGV4dC1zbGF0ZS05MDA"
                     >
-                      Email me
+                      Email
                     </p>
                     <p
                       class="dHctbXQtMQ.5 dHctdGV4dC1iYXNl dHctdGV4dC1zbGF0ZS02MDA sm:dHctbXQtMg"
                     >
-                      I will usually email you back within an hour
+                     Nous vous répondrons généralement par e-mail dans un délai de moins de 30 minutes.
                     </p>
                     <a
                       class="dHctbXQtNQ dHctaW5saW5lLWJsb2Nr dHctdGV4dC1za3ktNzAw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctdGV4dC1za3ktNjAw sm:dHctbXQtNg"
-                      href="mailto:hey@janedoe.com"
-                      >hey@janedoe.com</a
+                      href="mailto:ainahinbloh@gmail.com"
+                      >ainahinbloh@gmail.com</a
                     >
                   </div>
                 </div>
@@ -128,17 +127,17 @@
                     <p
                       class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctdGV4dC1zbGF0ZS05MDA"
                     >
-                      Call me
+                      Appel
                     </p>
                     <p
                       class="dHctbXQtMg dHctdGV4dC1iYXNl dHctdGV4dC1zbGF0ZS02MDA"
                     >
-                      I’m available weekdays from 9AM to 5PM
+                    Nous sommes disponibles par téléphone 24H/24H.
                     </p>
                     <a
                       class="dHctbXQtNg dHctaW5saW5lLWJsb2Nr dHctdGV4dC1za3ktNzAw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctdGV4dC1za3ktNjAw"
-                      href="tel:+13234567891"
-                      >+1 (323) 456-7891</a
+                      href="tel:+22996031886"
+                      >+229 96 03 18 86 / +229 40 16 26 96</a
                     >
                   </div>
                 </div>
@@ -152,14 +151,63 @@
               <h3
                 class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC0zeGw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA"
               >
-                Fill our the form below to get started
+              Remplissez le formulaire ci-dessous.
               </h3>
               <p class="dHctbXQtNA dHctdGV4dC1sZw dHctdGV4dC1zbGF0ZS02MDA">
-                Turkish cortado mazagran skinny macchiato espresso trade medium
-                aromatic.
+                Laissez-nous un message ou passez une commande pour le livre.
               </p>
               <form class="dHctbXQtMTA" action="#" method="POST">
+
+                <div style="margin-bottom: 20px;">
+                  <fieldset>
+                    <legend
+                      class="dHctYmxvY2s dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctbGVhZGluZy02 dHctdGV4dC1zbGF0ZS05MDA"
+                    >
+                     Service souhaité
+                    </legend>
+                    <div class="dHctbXQtNA dHctc3BhY2UteS0z">
+                      <div class="dHctZmxleA dHctaXRlbXMtc3RhcnQ">
+                        <div class="dHctZmxleA dHctaC02 dHctaXRlbXMtY2VudGVy">
+                          <input
+                            id="Message"
+                            type="checkbox"
+                            class="dHctaC00 dHctdy00 dHctcm91bmRlZA dHctYm9yZGVyLXNsYXRlLTMwMC84MA dHctYmctc2xhdGUtNTA dHctdGV4dC1za3ktNjAw dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy10cmFuc3BhcmVudA"
+                            name="web-development"
+                          />
+                        </div>
+                        <div class="dHctbWwtMw dHctdGV4dC1zbQ dHctbGVhZGluZy02">
+                          <label
+                            for="Message"
+                            class="dHctdGV4dC1zbGF0ZS03MDA"
+                            >Message</label
+                          >
+                        </div>
+                      </div>
+                      <div class="dHctZmxleA dHctaXRlbXMtc3RhcnQ">
+                        <div class="dHctZmxleA dHctaC02 dHctaXRlbXMtY2VudGVy">
+                          <input
+                            id="Commande"
+                            type="checkbox"
+                            class="dHctaC00 dHctdy00 dHctcm91bmRlZA dHctYm9yZGVyLXNsYXRlLTMwMC84MA dHctYmctc2xhdGUtNTA dHctdGV4dC1za3ktNjAw dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy10cmFuc3BhcmVudA"
+                            name="web-design"
+                          />
+                        </div>
+                        <div class="dHctbWwtMw dHctdGV4dC1zbQ dHctbGVhZGluZy02">
+                          <label
+                            for="Commande"
+                            class="dHctdGV4dC1zbGF0ZS03MDA"
+                            >Commande</label
+                          >
+                        </div>
+                      </div>
+                      
+                    </div>
+                  </fieldset>
+                </div>
+
                 <div class="dHctc3BhY2UteS03">
+                  
+                  
                   <div>
                     <div
                       class="dHctZmxleA dHctanVzdGlmeS1iZXR3ZWVu dHctdGV4dC1tZA dHctbGVhZGluZy02"
@@ -167,7 +215,7 @@
                       <label
                         for="name"
                         class="dHctYmxvY2s dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
-                        >Name</label
+                        >Nom complet</label
                       >
                     </div>
                     <div class="dHctbXQtMg">
@@ -196,7 +244,7 @@
                         id="email"
                         type="email"
                         autocomplete="email"
-                        placeholder="foobar@email.com"
+                        placeholder="john@email.com"
                         class="dHctYmxvY2s dHctdy1mdWxs dHctcHgtNA dHctcHktNA dHctbGVhZGluZy00 dHctdHJhbnNpdGlvbi1jb2xvcnM dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ dHctYm9yZGVyLTA dHctc2hhZG93LXNt dHctcm91bmRlZC14bA dHctYmctc2xhdGUtNTA dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS05MDA dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1pbnNldA dHctcmluZy1zbGF0ZS0yMDA placeholder:tw-text-slate-400 hover:dHctYmctd2hpdGU focus:dHctYm9yZGVyLTA focus:dHctYmctd2hpdGU focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy0y focus:dHctcmluZy1pbnNldA focus:dHctcmluZy1za3ktNjAwLzYw"
                         name="email"
                       />
@@ -209,7 +257,7 @@
                       <label
                         for="phone"
                         class="dHctYmxvY2s dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
-                        >Phone</label
+                        >Numéro Téléphone</label
                       >
                     </div>
                     <div class="dHctbXQtMg">
@@ -240,87 +288,94 @@
                         name="message"
                         rows="5"
                         aria-describedby="message-description"
-                        placeholder="Tell me a little bit about your project..."
+                        placeholder="Laissez un message ici."
                         class="dHctYmxvY2s dHctdy1mdWxs dHctcHgtNA dHctcHktNA dHctbGVhZGluZy00 dHctdHJhbnNpdGlvbi1jb2xvcnM dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ dHctYm9yZGVyLTA dHctc2hhZG93LXNt dHctcm91bmRlZC14bA dHctYmctc2xhdGUtNTA dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS05MDA dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1pbnNldA dHctcmluZy1zbGF0ZS0yMDA placeholder:tw-text-slate-400 hover:dHctYmctd2hpdGU focus:dHctYm9yZGVyLTA focus:dHctYmctd2hpdGU focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy0y focus:dHctcmluZy1pbnNldA focus:dHctcmluZy1za3ktNjAwLzYw"
                       ></textarea>
                     </div>
                   </div>
-                  <fieldset>
-                    <legend
-                      class="dHctYmxvY2s dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctbGVhZGluZy02 dHctdGV4dC1zbGF0ZS05MDA"
+
+                  <div class="flex flex-col md:flex-row gap-4">
+                      <div class="md:w-3/4">
+                          <div class="bg-white rounded-lg shadow-md p-6 mb-4">
+                              <table class="w-full">
+                                  <thead>
+                                      <tr>
+                                          <th class="text-left font-semibold">Produit</th>
+                                          <th class="text-left font-semibold">Quantité</th>
+                                      </tr>
+                                  </thead>
+                                  <tbody>
+                                      <tr>
+                                          <td class="py-4">
+                                              <div class="flex items-center">
+                                                  <img class="h-16 w-16 mr-4" src="bloh/experience-image.jpg" alt="Product image">
+                                                  <span class="font-semibold">ENCHANTÉE ! ICI LA CONNE</span>
+                                              </div>
+                                          </td>
+                                          <td class="py-4">
+                                              <div class="flex items-center">
+                                                  <button class="border rounded-md py-2 px-4 mr-2">-</button>
+                                                  <span class="text-center w-8">1</span>
+                                                  <button class="border rounded-md py-2 px-4 ml-2">+</button>
+                                              </div>
+                                          </td>
+                                      </tr>
+                                      <!-- More product rows -->
+                                  </tbody>
+                              </table>
+                          </div>
+                      </div>
+                      <div class="md:w-1/4">
+                          <div class="bg-white rounded-lg shadow-md p-6">
+                              <h2 class="text-lg font-semibold mb-4">Total</h2>
+                              
+                              <hr class="my-2">
+                              <div class="flex justify-between mb-2">
+                                  $21.98
+                              </div>
+
+                          </div>
+                      </div>
+                  </div>
+
+
+                  <div class="relative border border-gray-200 rounded-lg shadow-lg">
+                    <button 
+                      class="absolute p-1 bg-gray-100 border border-gray-300 rounded-full -top-1 -right-1"
                     >
-                      Expected services
-                    </legend>
-                    <div class="dHctbXQtNA dHctc3BhY2UteS0z">
-                      <div class="dHctZmxleA dHctaXRlbXMtc3RhcnQ">
-                        <div class="dHctZmxleA dHctaC02 dHctaXRlbXMtY2VudGVy">
-                          <input
-                            id="web-development"
-                            type="checkbox"
-                            class="dHctaC00 dHctdy00 dHctcm91bmRlZA dHctYm9yZGVyLXNsYXRlLTMwMC84MA dHctYmctc2xhdGUtNTA dHctdGV4dC1za3ktNjAw dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy10cmFuc3BhcmVudA"
-                            name="web-development"
-                          />
-                        </div>
-                        <div class="dHctbWwtMw dHctdGV4dC1zbQ dHctbGVhZGluZy02">
-                          <label
-                            for="web-development"
-                            class="dHctdGV4dC1zbGF0ZS03MDA"
-                            >Web development</label
-                          >
-                        </div>
-                      </div>
-                      <div class="dHctZmxleA dHctaXRlbXMtc3RhcnQ">
-                        <div class="dHctZmxleA dHctaC02 dHctaXRlbXMtY2VudGVy">
-                          <input
-                            id="web-design"
-                            type="checkbox"
-                            class="dHctaC00 dHctdy00 dHctcm91bmRlZA dHctYm9yZGVyLXNsYXRlLTMwMC84MA dHctYmctc2xhdGUtNTA dHctdGV4dC1za3ktNjAw dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy10cmFuc3BhcmVudA"
-                            name="web-design"
-                          />
-                        </div>
-                        <div class="dHctbWwtMw dHctdGV4dC1zbQ dHctbGVhZGluZy02">
-                          <label
-                            for="web-design"
-                            class="dHctdGV4dC1zbGF0ZS03MDA"
-                            >Web design</label
-                          >
-                        </div>
-                      </div>
-                      <div class="dHctZmxleA dHctaXRlbXMtc3RhcnQ">
-                        <div class="dHctZmxleA dHctaC02 dHctaXRlbXMtY2VudGVy">
-                          <input
-                            id="consulting"
-                            type="checkbox"
-                            class="dHctaC00 dHctdy00 dHctcm91bmRlZA dHctYm9yZGVyLXNsYXRlLTMwMC84MA dHctYmctc2xhdGUtNTA dHctdGV4dC1za3ktNjAw dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy10cmFuc3BhcmVudA"
-                            name="consulting"
-                          />
-                        </div>
-                        <div class="dHctbWwtMw dHctdGV4dC1zbQ dHctbGVhZGluZy02">
-                          <label
-                            for="consulting"
-                            class="dHctdGV4dC1zbGF0ZS03MDA"
-                            >Consulting</label
-                          >
-                        </div>
-                      </div>
-                      <div class="dHctZmxleA dHctaXRlbXMtc3RhcnQ">
-                        <div class="dHctZmxleA dHctaC02 dHctaXRlbXMtY2VudGVy">
-                          <input
-                            id="other"
-                            type="checkbox"
-                            class="dHctaC00 dHctdy00 dHctcm91bmRlZA dHctYm9yZGVyLXNsYXRlLTMwMC84MA dHctYmctc2xhdGUtNTA dHctdGV4dC1za3ktNjAw dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy10cmFuc3BhcmVudA"
-                            name="other"
-                          />
-                        </div>
-                        <div class="dHctbWwtMw dHctdGV4dC1zbQ dHctbGVhZGluZy02">
-                          <label for="other" class="dHctdGV4dC1zbGF0ZS03MDA"
-                            >Other</label
-                          >
-                        </div>
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        class="w-3 h-3"
+                        viewBox="0 0 20 20"
+                        fill="currentColor"
+                      >
+                        <path
+                          fill-rule="evenodd"
+                          d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
+                          clip-rule="evenodd"
+                        />
+                      </svg>
+                    </button>
+                  
+                    <div class="flex items-center p-4">
+                      <img
+                        class="object-cover w-12 h-12 rounded-lg"
+                        src="bloh/contactPro.jpg"
+                        alt=""
+                      />
+                  
+                      <div class="ml-3 overflow-hidden">
+                        <p class="font-medium text-gray-900">Ainahin Béringère BLOH</p>
+                        <p class="max-w-xs text-sm text-gray-500 truncate">
+                          Votre commande ou message a été pris en compte.
+                        </p>
                       </div>
                     </div>
-                  </fieldset>
+                  </div>
+
+                 
                 </div>
+                
                 <div
                   class="dHctbXQtMTA dHctYm9yZGVyLXQ dHctYm9yZGVyLXNsYXRlLTIwMA dHctcHQtOA"
                 >
@@ -328,7 +383,7 @@
                     class="dHctaW5saW5lLWZsZXg dHctaXRlbXMtY2VudGVy dHctcm91bmRlZC1mdWxs dHctZ2FwLTI.5 dHctanVzdGlmeS1jZW50ZXI dHctcHgtNw dHctcHktMw dHctdGV4dC1tZA dHctZm9udC1zZW1pYm9sZA dHctbGVhZGluZy1ub25l dHctb3V0bGluZS1vZmZzZXQtMg dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ active:dHctdHJhbnNpdGlvbi1ub25l dHctYmctc2xhdGUtOTAw dHctdGV4dC13aGl0ZQ hover:dHctYmctc2t5LTgwMA dHctdy1mdWxs !tw-text-base sm:!tw-text-lg"
                     type="submit"
                   >
-                    Get started
+                    Envoyer
                   </button>
                 </div>
               </form>

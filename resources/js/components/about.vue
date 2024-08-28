@@ -166,7 +166,7 @@
             <h2
               class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC00eGw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC01eGw"
             >
-              My career<!-- -->
+              Parcours
               <span class="dHctcmVsYXRpdmU dHctd2hpdGVzcGFjZS1ub3dyYXA"
                 ><svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -187,21 +187,20 @@
                     </clippath>
                   </defs></svg
                 ><span class="dHctcmVsYXRpdmU dHctdGV4dC1za3ktNzAw"
-                  >journey</span
+                  >professionnel</span
                 ></span
               >
-              <!-- -->so far
+              
             </h2>
             <p
               class="dHctbXQtNg dHctdGV4dC1sZw dHctbGVhZGluZy1yZWxheGVk dHctdGV4dC1zbGF0ZS03MDA"
             >
-              Panna french americano macchiato breve roast cinnamon cortado
-              strong white pumpkin et single press aftertaste.
+              Découvrez ici le parcours professionnel de Ainahin Béringère BLOH à ce jour.
             </p>
-            <a
+            <!--a
               class="dHctaW5saW5lLWZsZXg dHctaXRlbXMtY2VudGVy dHctcm91bmRlZC1mdWxs dHctZ2FwLTI.5 dHctanVzdGlmeS1jZW50ZXI dHctcHgtNw dHctcHktMw dHctdGV4dC1tZA dHctZm9udC1zZW1pYm9sZA dHctbGVhZGluZy1ub25l dHctb3V0bGluZS1vZmZzZXQtMg dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ active:dHctdHJhbnNpdGlvbi1ub25l dHctdGV4dC1zbGF0ZS05MDA dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDA hover:dHctYmctc2xhdGUtMjAwLzYw hover:dHctc2hhZG93LXNreS0xMDAvNTA dHctYmctc2xhdGUtMTAwLzgw dHctbXQtMTA"
               href="#"
-              >Download CV<svg
+              >Télécharger le CV<svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="24"
                 height="24"
@@ -216,7 +215,7 @@
                   ></path>
                   <path d="M22,21H2a1,1,0,0,0,0,2H22a1,1,0,0,0,0-2Z"></path>
                 </g></svg
-            ></a>
+            ></a-->
           </div>
           <ol
             class="dHctY29sLXNwYW4tMg dHctZ3JpZA dHctZ3JpZC1jb2xzLTE dHctZ2FwLXgtOA dHctZ2FwLXktMTA dHctdGV4dC1iYXNl dHctbGVhZGluZy03 dHctdGV4dC1ncmF5LTYwMA [counter-reset:tw-section] sm:dHctZ3JpZC1jb2xzLTI lg:dHctZ2FwLXktMTY"
@@ -228,37 +227,45 @@
                 <div
                   class="dHctbWItNg dHctZmxleA dHctaC0xMQ dHctdy0xMQ dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctcm91bmRlZC1sZw dHctYmctZ3JhZGllbnQtdG8tYnI dHctZnJvbS1za3ktNTA dHctdmlhLXNsYXRlLTUw dHctdG8tc2t5LTUw dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ"
                 >
-                  <img
-                    alt="Adobe"
-                    loading="lazy"
-                    width="20"
-                    height="18"
-                    decoding="async"
-                    data-nimg="1"
-                    style="color: transparent"
-                    srcset="bloh/adobe-1.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Fadobe.56dd3d0c.png&amp;w=32&amp;q=75 1x, bloh/adobe.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Fadobe.56dd3d0c.png&amp;w=48&amp;q=75 2x"
-                    src="bloh/adobe.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fadobe.56dd3d0c.png&amp;w=48&amp;q=75"
-                  />
+                  CliQue
                 </div>
                 <p
                   class="dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNzAw"
                 >
-                  Dec 2016 - Oct 2017
+                  Aug 2023 - Present
                 </p>
                 <p
                   class="dHctbXQtMg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA"
                 >
-                  Adobe
+                  Gérant principal
                 </p>
               </div>
-              <p
-                class="dHctbXQtMw dHctdGV4dC1iYXNl dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
-              >
-                Breve macchiato bar cortado dripper shot sweet robust qui. Et
-                café whipped go white that espresso fair origin pot cream est
-                cup.
-              </p>
+             
             </li>
+            
+            <li
+              class="dHctcmVsYXRpdmU [counter-increment:section] before:tw-absolute before:-tw-top-7 before:tw-right-0 before:tw-font-mono before:tw-text-9xl before:tw-font-black before:tw-leading-none before:tw-text-slate-50 before:tw-content-[counter(section,decimal-leading-zero)]"
+            >
+              <div>
+                <div
+                  class="dHctbWItNg dHctZmxleA dHctaC0xMQ dHctdy0xMQ dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctcm91bmRlZC1sZw dHctYmctZ3JhZGllbnQtdG8tYnI dHctZnJvbS1za3ktNTA dHctdmlhLXNsYXRlLTUw dHctdG8tc2t5LTUw dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ"
+                >
+                  VALEURS
+                </div>
+                <p
+                  class="dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNzAw"
+                >
+                  Jan 2021 - Present
+                </p>
+                <p
+                  class="dHctbXQtMg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA"
+                >
+                  Conseils en Idéation et stratégies de performances
+                </p>
+              </div>
+             
+            </li>
+
             <li
               class="dHctcmVsYXRpdmU [counter-increment:section] before:tw-absolute before:-tw-top-7 before:tw-right-0 before:tw-font-mono before:tw-text-9xl before:tw-font-black before:tw-leading-none before:tw-text-slate-50 before:tw-content-[counter(section,decimal-leading-zero)]"
             >
@@ -267,36 +274,32 @@
                   class="dHctbWItNg dHctZmxleA dHctaC0xMQ dHctdy0xMQ dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctcm91bmRlZC1sZw dHctYmctZ3JhZGllbnQtdG8tYnI dHctZnJvbS1za3ktNTA dHctdmlhLXNsYXRlLTUw dHctdG8tc2t5LTUw dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ"
                 >
                   <img
-                    alt="Dropbox"
+                    alt="Shopify"
                     loading="lazy"
-                    width="21"
-                    height="20"
+                    width="50"
+                    height="51"
                     decoding="async"
                     data-nimg="1"
                     style="color: transparent"
-                    srcset="bloh/dropbox-1.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Fdropbox.a7d922f4.png&amp;w=32&amp;q=75 1x, bloh/dropbox.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Fdropbox.a7d922f4.png&amp;w=48&amp;q=75 2x"
-                    src="bloh/dropbox.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fdropbox.a7d922f4.png&amp;w=48&amp;q=75"
+                    srcset="bloh/shopify-1.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Fshopify.de2f4c78.png&amp;w=32&amp;q=75 1x, bloh/shopify.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Fshopify.de2f4c78.png&amp;w=48&amp;q=75 2x"
+                    src="bloh/logo2.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Fshopify.de2f4c78.png&amp;w=48&amp;q=75"
                   />
                 </div>
                 <p
                   class="dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNzAw"
                 >
-                  Nov 2017 - Apr 2018
+                Feb 2023 - Jul 2023
                 </p>
                 <p
                   class="dHctbXQtMg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA"
                 >
-                  Dropbox
+                 
+               Conseils en Idéation et stratégies de performances
                 </p>
               </div>
-              <p
-                class="dHctbXQtMw dHctdGV4dC1iYXNl dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
-              >
-                Breve macchiato bar cortado dripper shot sweet robust qui. Et
-                café whipped go white that espresso fair origin pot cream est
-                cup.
-              </p>
+             
             </li>
+
             <li
               class="dHctcmVsYXRpdmU [counter-increment:section] before:tw-absolute before:-tw-top-7 before:tw-right-0 before:tw-font-mono before:tw-text-9xl before:tw-font-black before:tw-leading-none before:tw-text-slate-50 before:tw-content-[counter(section,decimal-leading-zero)]"
             >
@@ -313,105 +316,23 @@
                     data-nimg="1"
                     style="color: transparent"
                     srcset="bloh/gumroad-1.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Fgumroad.b1ad6489.png&amp;w=32&amp;q=75 1x, bloh/gumroad.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Fgumroad.b1ad6489.png&amp;w=64&amp;q=75 2x"
-                    src="bloh/gumroad.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fgumroad.b1ad6489.png&amp;w=64&amp;q=75"
+                    src="bloh/logo1.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Fgumroad.b1ad6489.png&amp;w=64&amp;q=75"
                   />
                 </div>
                 <p
                   class="dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNzAw"
                 >
-                  Apr 2018 - Jan 2019
+                Jul 2017 - Dec 2019 
                 </p>
                 <p
                   class="dHctbXQtMg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA"
                 >
-                  Gumroad
+                  Visiteur médical
                 </p>
               </div>
-              <p
-                class="dHctbXQtMw dHctdGV4dC1iYXNl dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
-              >
-                Breve macchiato bar cortado dripper shot sweet robust qui. Et
-                café whipped go white that espresso fair origin pot cream est
-                cup.
-              </p>
             </li>
-            <li
-              class="dHctcmVsYXRpdmU [counter-increment:section] before:tw-absolute before:-tw-top-7 before:tw-right-0 before:tw-font-mono before:tw-text-9xl before:tw-font-black before:tw-leading-none before:tw-text-slate-50 before:tw-content-[counter(section,decimal-leading-zero)]"
-            >
-              <div>
-                <div
-                  class="dHctbWItNg dHctZmxleA dHctaC0xMQ dHctdy0xMQ dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctcm91bmRlZC1sZw dHctYmctZ3JhZGllbnQtdG8tYnI dHctZnJvbS1za3ktNTA dHctdmlhLXNsYXRlLTUw dHctdG8tc2t5LTUw dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ"
-                >
-                  <img
-                    alt="Mailchimp"
-                    loading="lazy"
-                    width="20"
-                    height="21"
-                    decoding="async"
-                    data-nimg="1"
-                    style="color: transparent"
-                    srcset="bloh/mailchimp-1.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Fmailchimp.f70eaf92.png&amp;w=32&amp;q=75 1x, bloh/mailchimp.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Fmailchimp.f70eaf92.png&amp;w=48&amp;q=75 2x"
-                    src="bloh/mailchimp.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fmailchimp.f70eaf92.png&amp;w=48&amp;q=75"
-                  />
-                </div>
-                <p
-                  class="dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNzAw"
-                >
-                  Jan 2019 - Mar 2020
-                </p>
-                <p
-                  class="dHctbXQtMg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA"
-                >
-                  Mailchimp
-                </p>
-              </div>
-              <p
-                class="dHctbXQtMw dHctdGV4dC1iYXNl dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
-              >
-                Breve macchiato bar cortado dripper shot sweet robust qui. Et
-                café whipped go white that espresso fair origin pot cream est
-                cup.
-              </p>
-            </li>
-            <li
-              class="dHctcmVsYXRpdmU [counter-increment:section] before:tw-absolute before:-tw-top-7 before:tw-right-0 before:tw-font-mono before:tw-text-9xl before:tw-font-black before:tw-leading-none before:tw-text-slate-50 before:tw-content-[counter(section,decimal-leading-zero)]"
-            >
-              <div>
-                <div
-                  class="dHctbWItNg dHctZmxleA dHctaC0xMQ dHctdy0xMQ dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctcm91bmRlZC1sZw dHctYmctZ3JhZGllbnQtdG8tYnI dHctZnJvbS1za3ktNTA dHctdmlhLXNsYXRlLTUw dHctdG8tc2t5LTUw dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ"
-                >
-                  <img
-                    alt="Shopify"
-                    loading="lazy"
-                    width="20"
-                    height="21"
-                    decoding="async"
-                    data-nimg="1"
-                    style="color: transparent"
-                    srcset="bloh/shopify-1.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Fshopify.de2f4c78.png&amp;w=32&amp;q=75 1x, bloh/shopify.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Fshopify.de2f4c78.png&amp;w=48&amp;q=75 2x"
-                    src="bloh/shopify.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fshopify.de2f4c78.png&amp;w=48&amp;q=75"
-                  />
-                </div>
-                <p
-                  class="dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctdGV4dC1za3ktNzAw"
-                >
-                  Mar 2020 - Present
-                </p>
-                <p
-                  class="dHctbXQtMg dHctZm9udC1kaXNwbGF5 dHctdGV4dC1sZw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA"
-                >
-                  Shopify
-                </p>
-              </div>
-              <p
-                class="dHctbXQtMw dHctdGV4dC1iYXNl dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
-              >
-                Breve macchiato bar cortado dripper shot sweet robust qui. Et
-                café whipped go white that espresso fair origin pot cream est
-                cup.
-              </p>
-            </li>
-            <li
+          
+            <!--li
               class="dHctcmVsYXRpdmU dHctbXQtMw dHctZmxleA dHctaC1maXQ dHctaXRlbXMtY2VudGVy dHctZm9udC13cml0aW5n dHctdGV4dC0yeGw dHctdHJhY2tpbmctd2lkZQ dHctdGV4dC1zbGF0ZS02MDA sm:dHctbGVmdC0xNA sm:dHctdG9wLTY sm:dHctbXQtMA sm:dHctYmxvY2s sm:dHctdGV4dC0[27px] md:dHctbGVmdC0yMA"
             >
               <span
@@ -444,7 +365,7 @@
                   </clippath>
                 </defs>
               </svg>
-            </li>
+            </li-->
           </ol>
         </div>
       </div>
@@ -463,33 +384,20 @@
               <h2
                 class="dHctdGV4dC00eGw dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC01eGw"
               >
-                A tour of my gadgets and workstation
+              Connectez-vous avec Ainahin Béringère BLOH sur LinkedIn.
               </h2>
               <p
                 class="dHctbWF4LXctbGc dHctbXQtNg dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1zbGF0ZS03MDA"
               >
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Maiores impedit perferendis suscipit eaque, iste dolor
-                cupiditate blanditiis ratione. Instant extraction mazagran milk
-                instant milk foam café iced aftertaste iced brewed.
+              Connectez-vous avec Ainahin Béringère BLOH pour découvrir sa vie sur les réseaux sociaux, ses activités et ses partages qui vous intéresseront certainement.
               </p>
               <a
                 class="dHctaW5saW5lLWZsZXg dHctaXRlbXMtY2VudGVy dHctcm91bmRlZC1mdWxs dHctZ2FwLTI.5 dHctanVzdGlmeS1jZW50ZXI dHctcHgtNw dHctcHktMw dHctdGV4dC1tZA dHctZm9udC1zZW1pYm9sZA dHctbGVhZGluZy1ub25l dHctb3V0bGluZS1vZmZzZXQtMg dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ active:dHctdHJhbnNpdGlvbi1ub25l dHctdGV4dC1zbGF0ZS05MDA dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDA hover:dHctYmctc2xhdGUtMjAwLzYw hover:dHctc2hhZG93LXNreS0xMDAvNTA dHctYmctc2xhdGUtMTAwLzgw dHctbXQtMTA dHctZ2FwLXgtMw.5 dHctYmctc2xhdGUtMjAwLzc1"
                 href="https://twitter.com/raguila8"
-                ><svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="24"
-                  height="24"
-                  viewbox="0 0 24 24"
-                  fill="currentColor"
-                  class="dHctdy00 dHctaC00 dHctdGV4dC1za3ktNTAw"
                 >
-                  <g>
-                    <path
-                      d="M24,4.6c-0.9,0.4-1.8,0.7-2.8,0.8c1-0.6,1.8-1.6,2.2-2.7c-1,0.6-2,1-3.1,1.2c-0.9-1-2.2-1.6-3.6-1.6 c-2.7,0-4.9,2.2-4.9,4.9c0,0.4,0,0.8,0.1,1.1C7.7,8.1,4.1,6.1,1.7,3.1C1.2,3.9,1,4.7,1,5.6c0,1.7,0.9,3.2,2.2,4.1 C2.4,9.7,1.6,9.5,1,9.1c0,0,0,0,0,0.1c0,2.4,1.7,4.4,3.9,4.8c-0.4,0.1-0.8,0.2-1.3,0.2c-0.3,0-0.6,0-0.9-0.1c0.6,2,2.4,3.4,4.6,3.4 c-1.7,1.3-3.8,2.1-6.1,2.1c-0.4,0-0.8,0-1.2-0.1c2.2,1.4,4.8,2.2,7.5,2.2c9.1,0,14-7.5,14-14c0-0.2,0-0.4,0-0.6 C22.5,6.4,23.3,5.5,24,4.6z"
-                    ></path>
-                  </g></svg
-                >Follow me on Twitter</a
+                <i class="fa-brands fa-linkedin dHctdy00 dHctaC00 dHctdGV4dC1za3ktNTAw"></i>
+                
+                Suivre sur LinkedIn</a
               >
             </div>
           </div>
@@ -904,7 +812,7 @@
                   style="color: transparent"
                   sizes="(min-width: 1280px) 30rem, (min-width: 1024px) 40vw, (min-width: 640px) 29rem, 80vw"
                   srcset="bloh/workstation-01-1.jpg 256w?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=256&amp;q=75 256w, bloh/workstation-01-2.jpg 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=360&amp;q=75 360w, bloh/workstation-01-3.jpg 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=384&amp;q=75 384w, bloh/workstation-01-4.jpg 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=414&amp;q=75 414w, bloh/workstation-01-5.jpg 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=512&amp;q=75 512w, bloh/workstation-01-6.jpg 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=640&amp;q=75 640w, bloh/workstation-01-7.jpg 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=750&amp;q=75 750w, bloh/workstation-01-8.jpg 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=828&amp;q=75 828w, bloh/workstation-01-9.jpg 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=1080&amp;q=75 1080w, bloh/workstation-01-10.jpg 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=1200&amp;q=75 1200w, bloh/workstation-01-11.jpg 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=1536&amp;q=75 1536w, bloh/workstation-01-12.jpg 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=1920&amp;q=75 1920w, bloh/workstation-01-13.jpg 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=2048&amp;q=75 2048w, bloh/workstation-01.jpg 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=3840&amp;q=75 3840w"
-                  src="bloh/workstation-01.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=3840&amp;q=75"
+                  src="bloh/link1.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-01.2d462f88.jpg&amp;w=3840&amp;q=75"
                 />
               </div>
             </div>
@@ -923,7 +831,7 @@
                   style="color: transparent"
                   sizes="(min-width: 1280px) 18.5rem, (min-width: 1024px) 25vw, (min-width: 640px) 18rem, 50vw"
                   srcset="bloh/workstation-02-1.jpg 96w?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=96&amp;q=75 96w, bloh/workstation-02-2.jpg 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=128&amp;q=75 128w, bloh/workstation-02-3.jpg 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=256&amp;q=75 256w, bloh/workstation-02-4.jpg 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=360&amp;q=75 360w, bloh/workstation-02-5.jpg 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=384&amp;q=75 384w, bloh/workstation-02-6.jpg 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=414&amp;q=75 414w, bloh/workstation-02-7.jpg 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=512&amp;q=75 512w, bloh/workstation-02-8.jpg 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=640&amp;q=75 640w, bloh/workstation-02-9.jpg 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=750&amp;q=75 750w, bloh/workstation-02-10.jpg 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=828&amp;q=75 828w, bloh/workstation-02-11.jpg 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=1080&amp;q=75 1080w, bloh/workstation-02-12.jpg 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=1200&amp;q=75 1200w, bloh/workstation-02-13.jpg 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=1536&amp;q=75 1536w, bloh/workstation-02-14.jpg 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=1920&amp;q=75 1920w, bloh/workstation-02-15.jpg 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=2048&amp;q=75 2048w, bloh/workstation-02.jpg 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=3840&amp;q=75 3840w"
-                  src="bloh/workstation-02.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=3840&amp;q=75"
+                  src="bloh/link2.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Fworkstation-02.e3088aa5.jpg&amp;w=3840&amp;q=75"
                 />
               </div>
             </div>
@@ -945,7 +853,7 @@
               <h2
                 class="dHctdGV4dC00eGw dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC01eGw"
               >
-                A simple stack that you can<!-- -->
+                Les expertises de <!-- -->
                 <span class="dHctcmVsYXRpdmU dHctd2hpdGVzcGFjZS1ub3dyYXA"
                   ><svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -975,17 +883,14 @@
                       ></path>
                     </g></svg
                   ><span class="dHctcmVsYXRpdmU dHctdGV4dC1za3ktNzAw"
-                    >always trust</span
+                     style="font-size: 25px;">Ainahin Béringère BLOH</span
                   ></span
                 >
               </h2>
               <p
                 class="dHctbXQtNg dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1zbGF0ZS03MDA"
               >
-                I&#x27;ve been a software developer for over 13 years, and while
-                my stack has shifted over the years, I kept coming back to the
-                same technologies. The following is the stack that I&#x27;ve
-                developed &amp; honed over the years as a software developer.
+               Nous pouvons citer de nombreuses expertises.
               </p>
               <div
                 class="dHctZ3JpZA dHctZ3JpZC1jb2xzLTI dHctZ2FwLTI dHctbXQtMTI sm:dHctZ2FwLTM"
@@ -994,7 +899,7 @@
                   class="dHctcHgtNA dHctcHktNg dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC1sZw dHctYmctc2xhdGUtNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ sm:dHctcHgtNg"
                 >
                   <div class="dHctZmxleA dHctZ2FwLTQ sm:dHctZ2FwLTY">
-                    <div
+                    <!--div
                       class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYmctd2hpdGU dHctcm91bmRlZC1sZw dHctc2hhZG93LXNt dHctaC05 dHctdy05 dHctc2hyaW5rLTA dHctc2hhZG93LXNreS0xMDAvNzU dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDAvOTU sm:dHctaC0xMQ sm:dHctdy0xMQ"
                     >
                       <img
@@ -1010,18 +915,18 @@
                         srcset="bloh/rails-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=16&amp;q=75 16w, bloh/rails-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=32&amp;q=75 32w, bloh/rails-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=48&amp;q=75 48w, bloh/rails-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=64&amp;q=75 64w, bloh/rails-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=96&amp;q=75 96w, bloh/rails-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=128&amp;q=75 128w, bloh/rails-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=256&amp;q=75 256w, bloh/rails-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=360&amp;q=75 360w, bloh/rails-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=384&amp;q=75 384w, bloh/rails-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=414&amp;q=75 414w, bloh/rails-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=512&amp;q=75 512w, bloh/rails-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=640&amp;q=75 640w, bloh/rails-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=750&amp;q=75 750w, bloh/rails-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=828&amp;q=75 828w, bloh/rails-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=1080&amp;q=75 1080w, bloh/rails-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=1200&amp;q=75 1200w, bloh/rails-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=1536&amp;q=75 1536w, bloh/rails-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=1920&amp;q=75 1920w, bloh/rails-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=2048&amp;q=75 2048w, bloh/rails.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=3840&amp;q=75 3840w"
                         src="bloh/rails.png?url=%2Fbloh%2Fstatic%2Fmedia%2Frails.ede25bbc.png&amp;w=3840&amp;q=75"
                       />
-                    </div>
+                    </div-->
                     <div class="dHctb3ZlcmZsb3ctaGlkZGVu">
                       <p
                         class="dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC1sZw"
                       >
-                        Rails
+                        Travaux créatifs
                       </p>
-                      <p
+                      <!--p
                         class="dHctbXQtMQ dHctdHJ1bmNhdGU dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA sm:dHctdGV4dC1iYXNl"
                       >
                         7+ years of experience
-                      </p>
+                      </p-->
                     </div>
                   </div>
                 </div>
@@ -1029,34 +934,15 @@
                   class="dHctcHgtNA dHctcHktNg dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC1sZw dHctYmctc2xhdGUtNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ sm:dHctcHgtNg"
                 >
                   <div class="dHctZmxleA dHctZ2FwLTQ sm:dHctZ2FwLTY">
-                    <div
-                      class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYmctd2hpdGU dHctcm91bmRlZC1sZw dHctc2hhZG93LXNt dHctaC05 dHctdy05 dHctc2hyaW5rLTA dHctc2hhZG93LXNreS0xMDAvNzU dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDAvOTU sm:dHctaC0xMQ sm:dHctdy0xMQ"
-                    >
-                      <img
-                        alt="Javascript"
-                        loading="lazy"
-                        width="64"
-                        height="64"
-                        decoding="async"
-                        data-nimg="1"
-                        class="dHctaC1hdXRv dHctdy01 dHctc2hyaW5rLTA sm:dHctdy0[22px]"
-                        style="color: transparent"
-                        sizes="(min-width: 640px) 22px, 1.25rem"
-                        srcset="bloh/javascript-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=16&amp;q=75 16w, bloh/javascript-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=32&amp;q=75 32w, bloh/javascript-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=48&amp;q=75 48w, bloh/javascript-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=64&amp;q=75 64w, bloh/javascript-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=96&amp;q=75 96w, bloh/javascript-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=128&amp;q=75 128w, bloh/javascript-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=256&amp;q=75 256w, bloh/javascript-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=360&amp;q=75 360w, bloh/javascript-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=384&amp;q=75 384w, bloh/javascript-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=414&amp;q=75 414w, bloh/javascript-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=512&amp;q=75 512w, bloh/javascript-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=640&amp;q=75 640w, bloh/javascript-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=750&amp;q=75 750w, bloh/javascript-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=828&amp;q=75 828w, bloh/javascript-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=1080&amp;q=75 1080w, bloh/javascript-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=1200&amp;q=75 1200w, bloh/javascript-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=1536&amp;q=75 1536w, bloh/javascript-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=1920&amp;q=75 1920w, bloh/javascript-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=2048&amp;q=75 2048w, bloh/javascript.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=3840&amp;q=75 3840w"
-                        src="bloh/javascript.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fjavascript.093ea2a0.png&amp;w=3840&amp;q=75"
-                      />
-                    </div>
+                    
                     <div class="dHctb3ZlcmZsb3ctaGlkZGVu">
+
                       <p
                         class="dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC1sZw"
                       >
-                        Javascript
+                        Rédaction de contenu web
                       </p>
-                      <p
-                        class="dHctbXQtMQ dHctdHJ1bmNhdGU dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA sm:dHctdGV4dC1iYXNl"
-                      >
-                        8+ years of experience
-                      </p>
+                      
                     </div>
                   </div>
                 </div>
@@ -1064,34 +950,14 @@
                   class="dHctcHgtNA dHctcHktNg dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC1sZw dHctYmctc2xhdGUtNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ sm:dHctcHgtNg"
                 >
                   <div class="dHctZmxleA dHctZ2FwLTQ sm:dHctZ2FwLTY">
-                    <div
-                      class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYmctd2hpdGU dHctcm91bmRlZC1sZw dHctc2hhZG93LXNt dHctaC05 dHctdy05 dHctc2hyaW5rLTA dHctc2hhZG93LXNreS0xMDAvNzU dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDAvOTU sm:dHctaC0xMQ sm:dHctdy0xMQ"
-                    >
-                      <img
-                        alt="Python"
-                        loading="lazy"
-                        width="64"
-                        height="64"
-                        decoding="async"
-                        data-nimg="1"
-                        class="dHctaC1hdXRv dHctdy01 dHctc2hyaW5rLTA sm:dHctdy0[22px]"
-                        style="color: transparent"
-                        sizes="(min-width: 640px) 22px, 1.25rem"
-                        srcset="bloh/python-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=16&amp;q=75 16w, bloh/python-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=32&amp;q=75 32w, bloh/python-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=48&amp;q=75 48w, bloh/python-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=64&amp;q=75 64w, bloh/python-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=96&amp;q=75 96w, bloh/python-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=128&amp;q=75 128w, bloh/python-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=256&amp;q=75 256w, bloh/python-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=360&amp;q=75 360w, bloh/python-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=384&amp;q=75 384w, bloh/python-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=414&amp;q=75 414w, bloh/python-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=512&amp;q=75 512w, bloh/python-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=640&amp;q=75 640w, bloh/python-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=750&amp;q=75 750w, bloh/python-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=828&amp;q=75 828w, bloh/python-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=1080&amp;q=75 1080w, bloh/python-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=1200&amp;q=75 1200w, bloh/python-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=1536&amp;q=75 1536w, bloh/python-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=1920&amp;q=75 1920w, bloh/python-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=2048&amp;q=75 2048w, bloh/python.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=3840&amp;q=75 3840w"
-                        src="bloh/python.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fpython.b93e5a92.png&amp;w=3840&amp;q=75"
-                      />
-                    </div>
+                    
                     <div class="dHctb3ZlcmZsb3ctaGlkZGVu">
                       <p
                         class="dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC1sZw"
                       >
-                        Python
+                        Amélioration des performances
                       </p>
-                      <p
-                        class="dHctbXQtMQ dHctdHJ1bmNhdGU dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA sm:dHctdGV4dC1iYXNl"
-                      >
-                        4 years of experience
-                      </p>
+                     
                     </div>
                   </div>
                 </div>
@@ -1099,34 +965,14 @@
                   class="dHctcHgtNA dHctcHktNg dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC1sZw dHctYmctc2xhdGUtNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ sm:dHctcHgtNg"
                 >
                   <div class="dHctZmxleA dHctZ2FwLTQ sm:dHctZ2FwLTY">
-                    <div
-                      class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYmctd2hpdGU dHctcm91bmRlZC1sZw dHctc2hhZG93LXNt dHctaC05 dHctdy05 dHctc2hyaW5rLTA dHctc2hhZG93LXNreS0xMDAvNzU dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDAvOTU sm:dHctaC0xMQ sm:dHctdy0xMQ"
-                    >
-                      <img
-                        alt="Postgresql"
-                        loading="lazy"
-                        width="64"
-                        height="64"
-                        decoding="async"
-                        data-nimg="1"
-                        class="dHctaC1hdXRv dHctdy01 dHctc2hyaW5rLTA sm:dHctdy0[22px]"
-                        style="color: transparent"
-                        sizes="(min-width: 640px) 22px, 1.25rem"
-                        srcset="bloh/postgresql-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=16&amp;q=75 16w, bloh/postgresql-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=32&amp;q=75 32w, bloh/postgresql-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=48&amp;q=75 48w, bloh/postgresql-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=64&amp;q=75 64w, bloh/postgresql-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=96&amp;q=75 96w, bloh/postgresql-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=128&amp;q=75 128w, bloh/postgresql-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=256&amp;q=75 256w, bloh/postgresql-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=360&amp;q=75 360w, bloh/postgresql-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=384&amp;q=75 384w, bloh/postgresql-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=414&amp;q=75 414w, bloh/postgresql-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=512&amp;q=75 512w, bloh/postgresql-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=640&amp;q=75 640w, bloh/postgresql-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=750&amp;q=75 750w, bloh/postgresql-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=828&amp;q=75 828w, bloh/postgresql-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=1080&amp;q=75 1080w, bloh/postgresql-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=1200&amp;q=75 1200w, bloh/postgresql-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=1536&amp;q=75 1536w, bloh/postgresql-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=1920&amp;q=75 1920w, bloh/postgresql-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=2048&amp;q=75 2048w, bloh/postgresql.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=3840&amp;q=75 3840w"
-                        src="bloh/postgresql.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fpostgresql.ae92d15d.png&amp;w=3840&amp;q=75"
-                      />
-                    </div>
+                    
                     <div class="dHctb3ZlcmZsb3ctaGlkZGVu">
                       <p
                         class="dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC1sZw"
                       >
-                        Postgresql
+                        Conseil en innovation
                       </p>
-                      <p
-                        class="dHctbXQtMQ dHctdHJ1bmNhdGU dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA sm:dHctdGV4dC1iYXNl"
-                      >
-                        6 years of experience
-                      </p>
+                      
                     </div>
                   </div>
                 </div>
@@ -1134,34 +980,14 @@
                   class="dHctcHgtNA dHctcHktNg dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC1sZw dHctYmctc2xhdGUtNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ sm:dHctcHgtNg"
                 >
                   <div class="dHctZmxleA dHctZ2FwLTQ sm:dHctZ2FwLTY">
-                    <div
-                      class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYmctd2hpdGU dHctcm91bmRlZC1sZw dHctc2hhZG93LXNt dHctaC05 dHctdy05 dHctc2hyaW5rLTA dHctc2hhZG93LXNreS0xMDAvNzU dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDAvOTU sm:dHctaC0xMQ sm:dHctdy0xMQ"
-                    >
-                      <img
-                        alt="Tailwind"
-                        loading="lazy"
-                        width="33"
-                        height="20"
-                        decoding="async"
-                        data-nimg="1"
-                        class="dHctaC1hdXRv dHctdy01 dHctc2hyaW5rLTA sm:dHctdy0[22px]"
-                        style="color: transparent"
-                        sizes="(min-width: 640px) 22px, 1.25rem"
-                        srcset="bloh/tailwindcss-3.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=16&amp;q=75 16w, bloh/tailwindcss-4.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=32&amp;q=75 32w, bloh/tailwindcss-2.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=48&amp;q=75 48w, bloh/tailwindcss-5.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=64&amp;q=75 64w, bloh/tailwindcss.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=96&amp;q=75 96w, bloh/tailwindcss-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=128&amp;q=75 128w, bloh/tailwindcss-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=256&amp;q=75 256w, bloh/tailwindcss-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=360&amp;q=75 360w, bloh/tailwindcss-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=384&amp;q=75 384w, bloh/tailwindcss-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=414&amp;q=75 414w, bloh/tailwindcss-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=512&amp;q=75 512w, bloh/tailwindcss-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=640&amp;q=75 640w, bloh/tailwindcss-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=750&amp;q=75 750w, bloh/tailwindcss-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=828&amp;q=75 828w, bloh/tailwindcss-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=1080&amp;q=75 1080w, bloh/tailwindcss-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=1200&amp;q=75 1200w, bloh/tailwindcss-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=1536&amp;q=75 1536w, bloh/tailwindcss-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=1920&amp;q=75 1920w, bloh/tailwindcss-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=2048&amp;q=75 2048w, bloh/tailwindcss-1.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=3840&amp;q=75 3840w"
-                        src="bloh/tailwindcss-1.png?url=%2Fbloh%2Fstatic%2Fmedia%2Ftailwindcss.b1392828.png&amp;w=3840&amp;q=75"
-                      />
-                    </div>
+                    
                     <div class="dHctb3ZlcmZsb3ctaGlkZGVu">
                       <p
                         class="dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC1sZw"
                       >
-                        Tailwind
+                        Communication stratégique
                       </p>
-                      <p
-                        class="dHctbXQtMQ dHctdHJ1bmNhdGU dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA sm:dHctdGV4dC1iYXNl"
-                      >
-                        3 years of experience
-                      </p>
+                      
                     </div>
                   </div>
                 </div>
@@ -1169,34 +995,29 @@
                   class="dHctcHgtNA dHctcHktNg dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC1sZw dHctYmctc2xhdGUtNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ sm:dHctcHgtNg"
                 >
                   <div class="dHctZmxleA dHctZ2FwLTQ sm:dHctZ2FwLTY">
-                    <div
-                      class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctYmctd2hpdGU dHctcm91bmRlZC1sZw dHctc2hhZG93LXNt dHctaC05 dHctdy05 dHctc2hyaW5rLTA dHctc2hhZG93LXNreS0xMDAvNzU dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDAvOTU sm:dHctaC0xMQ sm:dHctdy0xMQ"
-                    >
-                      <img
-                        alt="Ruby"
-                        loading="lazy"
-                        width="64"
-                        height="64"
-                        decoding="async"
-                        data-nimg="1"
-                        class="dHctaC1hdXRv dHctdy01 dHctc2hyaW5rLTA sm:dHctdy0[22px]"
-                        style="color: transparent"
-                        sizes="(min-width: 640px) 22px, 1.25rem"
-                        srcset="bloh/ruby-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=16&amp;q=75 16w, bloh/ruby-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=32&amp;q=75 32w, bloh/ruby-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=48&amp;q=75 48w, bloh/ruby-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=64&amp;q=75 64w, bloh/ruby-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=96&amp;q=75 96w, bloh/ruby-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=128&amp;q=75 128w, bloh/ruby-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=256&amp;q=75 256w, bloh/ruby-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=360&amp;q=75 360w, bloh/ruby-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=384&amp;q=75 384w, bloh/ruby-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=414&amp;q=75 414w, bloh/ruby-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=512&amp;q=75 512w, bloh/ruby-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=640&amp;q=75 640w, bloh/ruby-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=750&amp;q=75 750w, bloh/ruby-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=828&amp;q=75 828w, bloh/ruby-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=1080&amp;q=75 1080w, bloh/ruby-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=1200&amp;q=75 1200w, bloh/ruby-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=1536&amp;q=75 1536w, bloh/ruby-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=1920&amp;q=75 1920w, bloh/ruby-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=2048&amp;q=75 2048w, bloh/ruby.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=3840&amp;q=75 3840w"
-                        src="bloh/ruby.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fruby.2a1215a1.png&amp;w=3840&amp;q=75"
-                      />
-                    </div>
+                    
                     <div class="dHctb3ZlcmZsb3ctaGlkZGVu">
                       <p
                         class="dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC1sZw"
                       >
-                        Ruby
+                        Management en entreprise
                       </p>
+                     
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="dHctcHgtNA dHctcHktNg dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC1sZw dHctYmctc2xhdGUtNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ sm:dHctcHgtNg"
+                >
+                  <div class="dHctZmxleA dHctZ2FwLTQ sm:dHctZ2FwLTY">
+                    
+                    <div class="dHctb3ZlcmZsb3ctaGlkZGVu">
                       <p
-                        class="dHctbXQtMQ dHctdHJ1bmNhdGU dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS02MDA sm:dHctdGV4dC1iYXNl"
+                        class="dHctdGV4dC1iYXNl dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC1sZw"
                       >
-                        9 years of experience
+                        communication digitale
                       </p>
+                     
                     </div>
                   </div>
                 </div>
@@ -1221,7 +1042,7 @@
                   style="color: transparent"
                   sizes="(min-width: 640px) 32rem, calc(100vw - 2.5rem)"
                   srcset="bloh/portrait-02-1.jpg 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=16&amp;q=75 16w, bloh/portrait-02-2.jpg 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=32&amp;q=75 32w, bloh/portrait-02-3.jpg 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=48&amp;q=75 48w, bloh/portrait-02-4.jpg 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=64&amp;q=75 64w, bloh/portrait-02-5.jpg 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=96&amp;q=75 96w, bloh/portrait-02-6.jpg 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=128&amp;q=75 128w, bloh/portrait-02-7.jpg 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=256&amp;q=75 256w, bloh/portrait-02-8.jpg 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=360&amp;q=75 360w, bloh/portrait-02-9.jpg 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=384&amp;q=75 384w, bloh/portrait-02-10.jpg 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=414&amp;q=75 414w, bloh/portrait-02-11.jpg 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=512&amp;q=75 512w, bloh/portrait-02-12.jpg 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=640&amp;q=75 640w, bloh/portrait-02-13.jpg 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=750&amp;q=75 750w, bloh/portrait-02-14.jpg 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=828&amp;q=75 828w, bloh/portrait-02-15.jpg 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=1080&amp;q=75 1080w, bloh/portrait-02-16.jpg 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=1200&amp;q=75 1200w, bloh/portrait-02-17.jpg 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=1536&amp;q=75 1536w, bloh/portrait-02-18.jpg 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=1920&amp;q=75 1920w, bloh/portrait-02-19.jpg 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=2048&amp;q=75 2048w, bloh/portrait-02.jpg 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=3840&amp;q=75 3840w"
-                  src="bloh/portrait-02.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=3840&amp;q=75"
+                  src="bloh/expertise.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Fportrait-02.822e3163.jpg&amp;w=3840&amp;q=75"
                 />
               </div>
               <div
@@ -1232,9 +1053,9 @@
                 >
                   <span
                     class="dHctdGV4dC0[28px] dHctZm9udC1ib2xk dHctdGV4dC13aGl0ZQ"
-                    >55+</span
+                    >+155</span
                   >
-                  <!-- -->Clients have loved my work
+                  clients satisfaits
                 </p>
                 <div
                   class="dHctbXQtNg dHctZmxleA LXR3LXNwYWNlLXgtMQ.5 dHctb3ZlcmZsb3ctaGlkZGVu"
@@ -1250,7 +1071,7 @@
                     style="color: transparent"
                     sizes="2rem"
                     srcset="bloh/avatar-1-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=16&amp;q=75 16w, bloh/avatar-1-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=32&amp;q=75 32w, bloh/avatar-1-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=48&amp;q=75 48w, bloh/avatar-1-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=64&amp;q=75 64w, bloh/avatar-1-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=96&amp;q=75 96w, bloh/avatar-1-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=128&amp;q=75 128w, bloh/avatar-1-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=256&amp;q=75 256w, bloh/avatar-1-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=360&amp;q=75 360w, bloh/avatar-1-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=384&amp;q=75 384w, bloh/avatar-1-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=414&amp;q=75 414w, bloh/avatar-1-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=512&amp;q=75 512w, bloh/avatar-1-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=640&amp;q=75 640w, bloh/avatar-1-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=750&amp;q=75 750w, bloh/avatar-1-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=828&amp;q=75 828w, bloh/avatar-1-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-1-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-1-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-1-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-1-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-1.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=3840&amp;q=75 3840w"
-                    src="bloh/avatar-1.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=3840&amp;q=75"
+                    src="bloh/T1.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=3840&amp;q=75"
                   /><img
                     alt=""
                     loading="lazy"
@@ -1262,7 +1083,7 @@
                     style="color: transparent"
                     sizes="2rem"
                     srcset="bloh/avatar-2-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=16&amp;q=75 16w, bloh/avatar-2-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=32&amp;q=75 32w, bloh/avatar-2-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=48&amp;q=75 48w, bloh/avatar-2-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=64&amp;q=75 64w, bloh/avatar-2-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=96&amp;q=75 96w, bloh/avatar-2-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=128&amp;q=75 128w, bloh/avatar-2-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=256&amp;q=75 256w, bloh/avatar-2-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=360&amp;q=75 360w, bloh/avatar-2-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=384&amp;q=75 384w, bloh/avatar-2-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=414&amp;q=75 414w, bloh/avatar-2-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=512&amp;q=75 512w, bloh/avatar-2-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=640&amp;q=75 640w, bloh/avatar-2-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=750&amp;q=75 750w, bloh/avatar-2-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=828&amp;q=75 828w, bloh/avatar-2-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-2-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-2-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-2-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-2-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-2.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=3840&amp;q=75 3840w"
-                    src="bloh/avatar-2.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=3840&amp;q=75"
+                    src="bloh/T2.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=3840&amp;q=75"
                   /><img
                     alt=""
                     loading="lazy"
@@ -1274,7 +1095,7 @@
                     style="color: transparent"
                     sizes="2rem"
                     srcset="bloh/avatar-3-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=16&amp;q=75 16w, bloh/avatar-3-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=32&amp;q=75 32w, bloh/avatar-3-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=48&amp;q=75 48w, bloh/avatar-3-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=64&amp;q=75 64w, bloh/avatar-3-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=96&amp;q=75 96w, bloh/avatar-3-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=128&amp;q=75 128w, bloh/avatar-3-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=256&amp;q=75 256w, bloh/avatar-3-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=360&amp;q=75 360w, bloh/avatar-3-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=384&amp;q=75 384w, bloh/avatar-3-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=414&amp;q=75 414w, bloh/avatar-3-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=512&amp;q=75 512w, bloh/avatar-3-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=640&amp;q=75 640w, bloh/avatar-3-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=750&amp;q=75 750w, bloh/avatar-3-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=828&amp;q=75 828w, bloh/avatar-3-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-3-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-3-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-3-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-3-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-3.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=3840&amp;q=75 3840w"
-                    src="bloh/avatar-3.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=3840&amp;q=75"
+                    src="bloh/T3.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=3840&amp;q=75"
                   /><img
                     alt=""
                     loading="lazy"
@@ -1286,7 +1107,7 @@
                     style="color: transparent"
                     sizes="2rem"
                     srcset="bloh/avatar-4-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=16&amp;q=75 16w, bloh/avatar-4-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=32&amp;q=75 32w, bloh/avatar-4-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=48&amp;q=75 48w, bloh/avatar-4-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=64&amp;q=75 64w, bloh/avatar-4-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=96&amp;q=75 96w, bloh/avatar-4-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=128&amp;q=75 128w, bloh/avatar-4-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=256&amp;q=75 256w, bloh/avatar-4-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=360&amp;q=75 360w, bloh/avatar-4-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=384&amp;q=75 384w, bloh/avatar-4-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=414&amp;q=75 414w, bloh/avatar-4-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=512&amp;q=75 512w, bloh/avatar-4-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=640&amp;q=75 640w, bloh/avatar-4-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=750&amp;q=75 750w, bloh/avatar-4-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=828&amp;q=75 828w, bloh/avatar-4-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-4-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-4-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-4-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-4-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-4.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=3840&amp;q=75 3840w"
-                    src="bloh/avatar-4.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=3840&amp;q=75"
+                    src="bloh/T4.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=3840&amp;q=75"
                   /><img
                     alt=""
                     loading="lazy"
@@ -1298,7 +1119,7 @@
                     style="color: transparent"
                     sizes="2rem"
                     srcset="bloh/avatar-5-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=16&amp;q=75 16w, bloh/avatar-5-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=32&amp;q=75 32w, bloh/avatar-5-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=48&amp;q=75 48w, bloh/avatar-5-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=64&amp;q=75 64w, bloh/avatar-5-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=96&amp;q=75 96w, bloh/avatar-5-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=128&amp;q=75 128w, bloh/avatar-5-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=256&amp;q=75 256w, bloh/avatar-5-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=360&amp;q=75 360w, bloh/avatar-5-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=384&amp;q=75 384w, bloh/avatar-5-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=414&amp;q=75 414w, bloh/avatar-5-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=512&amp;q=75 512w, bloh/avatar-5-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=640&amp;q=75 640w, bloh/avatar-5-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=750&amp;q=75 750w, bloh/avatar-5-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=828&amp;q=75 828w, bloh/avatar-5-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-5-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-5-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-5-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-5-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-5.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=3840&amp;q=75 3840w"
-                    src="bloh/avatar-5.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=3840&amp;q=75"
+                    src="bloh/T5.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=3840&amp;q=75"
                   />
                 </div>
               </div>
@@ -1307,7 +1128,8 @@
         </div>
       </div>
     </section>
-    <section
+    
+    <!--section
       class="dHctb3ZlcmZsb3ctaGlkZGVu dHctYmctc2xhdGUtOTAw dHctcHktMTY sm:dHctcHktMjQ lg:dHctcHktMzI"
     >
       <div
@@ -2224,6 +2046,6 @@
           </div>
         </div>
       </div>
-    </section>
+    </section-->
   </div>
 </template>

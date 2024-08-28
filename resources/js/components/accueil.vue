@@ -746,7 +746,7 @@
               </p>
               <router-link
                 class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ dHctZ3JvdXA dHctbXQtMTQ dHctdGV4dC1za3ktNjAw hover:dHctdGV4dC1za3ktNzAw sm:dHctbXQtMTY sm:dHctdGV4dC1tZA"
-                to="/work"
+                to="/moreDescLivre"
                 >Voir Plus<svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewbox="0 0 20 20"
@@ -809,7 +809,7 @@
               </p>
               <router-link
                 class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ dHctZ3JvdXA dHctbXQtMTQ dHctdGV4dC1za3ktNjAw hover:dHctdGV4dC1za3ktNzAw sm:dHctbXQtMTY sm:dHctdGV4dC1tZA"
-                to="/work"
+                to="/moreDescCliQue"
                 >Voir Plus<svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewbox="0 0 20 20"

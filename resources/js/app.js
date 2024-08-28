@@ -31,8 +31,12 @@ const routes = [
         component: () => import('./components/contact.vue')
     },
     {
-        path: '/moreDesc',
-        component: () => import('./components/moreDescription.vue')
+        path: '/moreDescLivre',
+        component: () => import('./components/moreDescriptionLivre.vue')
+    },
+    {
+        path: '/moreDescCliQue',
+        component: () => import('./components/moreDescriptionCliQue.vue')
     },
     {
         path: '/singleBlog',
