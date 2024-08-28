@@ -1,6 +1,5 @@
 <template>
   <div class="pt-20">
-
     <!--Hero Content-->
     <section
       class="dHctcmVsYXRpdmU dHctcHktMjA dHctb3ZlcmZsb3ctaGlkZGVu lg:dHctcHktMjQ"
@@ -60,13 +59,14 @@
                 class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZHVyYXRpb24tMjAw dHctYm9yZGVy dHctcm91bmRlZC1mdWxs dHctaC0xMQ dHctdy0xMQ dHctYm9yZGVyLXNsYXRlLTIwMA hover:dHctYmctc2xhdGUtNTA"
                 aria-label="Follow on Dribbble"
                 href="https://dribbble.com"
-                ><i class="fa-brands fa-facebook"></i></a
-              >
+                ><i class="fa-brands fa-facebook"></i
+              ></a>
               <a
                 class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZHVyYXRpb24tMjAw dHctYm9yZGVy dHctcm91bmRlZC1mdWxs dHctaC0xMQ dHctdy0xMQ dHctYm9yZGVyLXNsYXRlLTIwMA hover:dHctYmctc2xhdGUtNTA"
                 aria-label="Follow on Twitter"
                 href="https://twitter.com"
-                ><i class="fa-brands fa-linkedin"></i></a>
+                ><i class="fa-brands fa-linkedin"></i
+              ></a>
             </div>
           </div>
         </div>
@@ -155,7 +155,7 @@
             <h2
               class="dHctdGV4dC00eGw dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC01eGw"
             >
-            ENCHANTÉE !
+              ENCHANTÉE !
               <span class="dHctcmVsYXRpdmU dHctd2hpdGVzcGFjZS1ub3dyYXA"
                 ><svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -176,7 +176,9 @@
           </div>
           <div>
             <p class="dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1zbGF0ZS03MDA">
-              Un ouvrage puissant dévoilant les réalités invisibles de l'injustice entre genres, et la force résiliente des vécus féminins.
+              Un ouvrage puissant dévoilant les réalités invisibles de
+              l'injustice entre genres, et la force résiliente des vécus
+              féminins.
             </p>
           </div>
         </div>
@@ -195,18 +197,23 @@
                     <div>
                       <span
                         class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctdy0yMA dHctaC0yMA dHctcm91bmRlZC1mdWxs dHctc2hhZG93LWxn dHctYmctc2xhdGUtOTAw"
-                        ><i class="fa-solid fa-bags-shopping"></i></span>
+                        ><i class="fa-solid fa-bags-shopping"></i
+                      ></span>
                     </div>
                     <div>
                       <h3
                         class="dHctdGV4dC14bA dHctZm9udC1tZWRpdW0 dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA"
                       >
-                      Passer la Commande (15.000 FCFA)
+                        Passer la Commande (15.000 FCFA)
                       </h3>
                       <p
                         class="dHctbXQtMg.5 dHctdGV4dC1iYXNl dHctdGV4dC1zbGF0ZS03MDA"
                       >
-                      Appelez au <a href="tel:+22996031886">+229 96 03 18 86</a>  / <a href="tel:+22940162696">+229 40 16 26 96</a> ou utilisez le formulaire en ligne. <router-link to="/contact">Cliquez ici...</router-link> 
+                        Appelez au
+                        <a href="tel:+22996031886">+229 96 03 18 86</a> /
+                        <a href="tel:+22940162696">+229 40 16 26 96</a> ou
+                        utilisez le formulaire en ligne.
+                        <router-link to="/contact">Cliquez ici...</router-link>
                       </p>
                     </div>
                   </div>
@@ -222,7 +229,7 @@
                     <div>
                       <span
                         class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctdy0yMA dHctaC0yMA dHctcm91bmRlZC1mdWxs dHctc2hhZG93LWxn dHctYmctc2xhdGUtOTAw"
-                        >
+                      >
                         <i class="fa-sharp fa-solid fa-mailbox"></i>
                       </span>
                     </div>
@@ -230,12 +237,13 @@
                       <h3
                         class="dHctdGV4dC14bA dHctZm9udC1tZWRpdW0 dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA"
                       >
-                      Réception
+                        Réception
                       </h3>
                       <p
                         class="dHctbXQtMg.5 dHctdGV4dC1iYXNl dHctdGV4dC1zbGF0ZS03MDA"
                       >
-                         Une fois votre commande reçue, vous serez notifié avec les détails de la date de livraison.
+                        Une fois votre commande reçue, vous serez notifié avec
+                        les détails de la date de livraison.
                       </p>
                     </div>
                   </div>
@@ -247,18 +255,20 @@
                     <div>
                       <span
                         class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctdy0yMA dHctaC0yMA dHctcm91bmRlZC1mdWxs dHctc2hhZG93LWxn dHctYmctc2xhdGUtOTAw"
-                        ><i class="fa-solid fa-moped"></i></span>
+                        ><i class="fa-solid fa-moped"></i
+                      ></span>
                     </div>
                     <div>
                       <h3
                         class="dHctdGV4dC14bA dHctZm9udC1tZWRpdW0 dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA"
                       >
-                      Livraison
+                        Livraison
                       </h3>
                       <p
                         class="dHctbXQtMg.5 dHctdGV4dC1iYXNl dHctdGV4dC1zbGF0ZS03MDA"
                       >
-                        Recevez votre livre à l’adresse indiquée à la date prévue.
+                        Recevez votre livre à l’adresse indiquée à la date
+                        prévue.
                       </p>
                     </div>
                   </div>
@@ -326,14 +336,14 @@
               />
               <div>
                 <div
-                  class=" dHctYWJzb2x1dGU dHctdy0zMg dHctaC0zMg LXR3LXRyYW5zbGF0ZS14LTEvMg LXR3LXRyYW5zbGF0ZS15LTEvMg dHctcm91bmRlZC1mdWxs dHctdG9wLTEvMg dHctbGVmdC0xLzI dHctYmctd2hpdGUvNTA dHctYmFja2Ryb3AtYmx1ci1zbQ lg:dHctaC00NA lg:dHctdy00NA"
+                  class="dHctYWJzb2x1dGU dHctdy0zMg dHctaC0zMg LXR3LXRyYW5zbGF0ZS14LTEvMg LXR3LXRyYW5zbGF0ZS15LTEvMg dHctcm91bmRlZC1mdWxs dHctdG9wLTEvMg dHctbGVmdC0xLzI dHctYmctd2hpdGUvNTA dHctYmFja2Ryb3AtYmx1ci1zbQ lg:dHctaC00NA lg:dHctdy00NA"
                 >
-                
-
                   <button
-                    class="  dHctcmVsYXRpdmU dHctaW5saW5lLWZsZXg dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctdy0xMg dHctaC0xMg dHctZHVyYXRpb24tMjAw LXR3LXRyYW5zbGF0ZS14LTEvMg LXR3LXRyYW5zbGF0ZS15LTEvMg dHctcm91bmRlZC1mdWxs dHctdG9wLTEvMg dHctbGVmdC0xLzI dHctYmctc2xhdGUtOTAw hover:dHctYmctc2xhdGUtODAw lg:dHctaC0yMA lg:dHctdy0yMA"
+                    class="dHctcmVsYXRpdmU dHctaW5saW5lLWZsZXg dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctdy0xMg dHctaC0xMg dHctZHVyYXRpb24tMjAw LXR3LXRyYW5zbGF0ZS14LTEvMg LXR3LXRyYW5zbGF0ZS15LTEvMg dHctcm91bmRlZC1mdWxs dHctdG9wLTEvMg dHctbGVmdC0xLzI dHctYmctc2xhdGUtOTAw hover:dHctYmctc2xhdGUtODAw lg:dHctaC0yMA lg:dHctdy0yMA"
                   >
-                     <i class=" animate-bounce fa-duotone fa-solid fa-download"></i>
+                    <i
+                      class="animate-bounce fa-duotone fa-solid fa-download"
+                    ></i>
                   </button>
                 </div>
                 <div
@@ -348,19 +358,19 @@
                     <dd
                       class="dHctb3JkZXItZmlyc3Q dHctdGV4dC0zeGw dHctZm9udC1leHRyYWJvbGQ dHctdGV4dC13aGl0ZQ sm:dHctdGV4dC00eGw"
                     >
-                      10
+                      74
                     </dd>
                   </div>
                   <div class="dHctZmxleA dHctZmxleC1jb2w dHctZ2FwLTE">
                     <dt
                       class="dHctdGV4dC1zbQ dHctZm9udC1zZW1pYm9sZA dHctbGVhZGluZy02 dHctdGV4dC1za3ktNTA"
                     >
-                    Commandes complètes
+                      Commandes complètes
                     </dt>
                     <dd
                       class="dHctb3JkZXItZmlyc3Q dHctdGV4dC0zeGw dHctZm9udC1leHRyYWJvbGQ dHctdGV4dC13aGl0ZQ sm:dHctdGV4dC00eGw"
                     >
-                      150
+                      +15
                     </dd>
                   </div>
                 </div>
@@ -711,28 +721,28 @@
         <div
           class="dHctcmVsYXRpdmU dHctbWF4LXcteGw dHctbXgtYXV0bw dHctbXQtMTY dHctc3BhY2UteS0xNg lg:dHctbXgtMA lg:dHctbWF4LXctbm9uZQ"
         >
-
           <div
             class="dHctcmVsYXRpdmU dHctZ3JpZA dHctaXRlbXMtY2VudGVy dHctZ2FwLTg dHctcHgtNA dHctcHQtNQ dHctb3ZlcmZsb3ctaGlkZGVu dHctc2hhZG93LXNt dHctcm91bmRlZC0yeGw dHctYmctc2xhdGUtNTA dHctcGItMTQ dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDA sm:dHctZ2FwLTEy sm:dHctcHgtOA sm:dHctcHQtOA lg:dHctZ3JpZC1jb2xzLTEy lg:dHctcHgtMA lg:dHctcHktMA xl:dHctZ2FwLTE2 xl:dHctcHQtMTY"
           >
-            
             <div
               class="dHctcmVsYXRpdmU dHctb3JkZXItMg dHctcHgtMQ sm:dHctcHgtNA lg:dHctb3JkZXItMQ lg:dHctY29sLXNwYW4tNg lg:dHctcGItMTY lg:dHctcGwtMTI lg:dHctcHQtMTY xl:dHctY29sLXNwYW4tNQ xl:dHctcGItMjQ xl:dHctcGwtMTY xl:dHctcHQtOA"
             >
               <div
                 class="dHctaW5saW5lLWZsZXg dHctaXRlbXMtY2VudGVy dHctZ2FwLTI.5 dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctbGVhZGluZy0[16px] dHctdGV4dC1za3ktOTAwLzgw sm:dHctdGV4dC1tZA"
               >
-              <i class="fa-duotone fa-solid fa-book"></i> Livre
+                <i class="fa-duotone fa-solid fa-book"></i> Livre
               </div>
               <h3
                 class="dHctbXQtNQ dHctdGV4dC0yeGw dHctZm9udC1tZWRpdW0 dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctbXQtNg sm:dHctdGV4dC0zeGw"
               >
-               ENCHANTÉE ! ICI LA CONNE
+                ENCHANTÉE ! ICI LA CONNE
               </h3>
               <p
                 class="dHctbXQtMw dHctbGVhZGluZy04 dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS03MDA sm:dHctbXQtNA sm:dHctdGV4dC1iYXNl sm:dHctbGVhZGluZy04"
               >
-                Ce livre, plus qu'un simple récit, est un voyage à travers les méandres de l'âme humaine, une exploration profonde, mais aussi une célébration de l'espoir.
+                Ce livre, plus qu'un simple récit, est un voyage à travers les
+                méandres de l'âme humaine, une exploration profonde, mais aussi
+                une célébration de l'espoir.
               </p>
               <router-link
                 class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ dHctZ3JvdXA dHctbXQtMTQ dHctdGV4dC1za3ktNjAw hover:dHctdGV4dC1za3ktNzAw sm:dHctbXQtMTY sm:dHctdGV4dC1tZA"
@@ -778,14 +788,13 @@
           <div
             class="dHctcmVsYXRpdmU dHctZ3JpZA dHctaXRlbXMtY2VudGVy dHctZ2FwLTg dHctcHgtNA dHctcHQtNQ dHctb3ZlcmZsb3ctaGlkZGVu dHctc2hhZG93LXNt dHctcm91bmRlZC0yeGw dHctYmctc2xhdGUtNTA dHctcGItMTQ dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDA sm:dHctZ2FwLTEy sm:dHctcHgtOA sm:dHctcHQtOA lg:dHctZ3JpZC1jb2xzLTEy lg:dHctcHgtMA lg:dHctcHktMA xl:dHctZ2FwLTE2 xl:dHctcHQtMTY"
           >
-         
             <div
               class="dHctcmVsYXRpdmU dHctb3JkZXItMg dHctcHgtMQ sm:dHctcHgtNA lg:dHctb3JkZXItMQ lg:dHctY29sLXNwYW4tNg lg:dHctcGItMTY lg:dHctcGwtMTI lg:dHctcHQtMTY xl:dHctY29sLXNwYW4tNQ xl:dHctcGItMjQ xl:dHctcGwtMTY xl:dHctcHQtOA"
             >
               <div
                 class="dHctaW5saW5lLWZsZXg dHctaXRlbXMtY2VudGVy dHctZ2FwLTI.5 dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctbGVhZGluZy0[16px] dHctdGV4dC1za3ktOTAwLzgw sm:dHctdGV4dC1tZA"
               >
-              <i class="fa-sharp fa-solid fa-store"></i>Clique
+                <i class="fa-sharp fa-solid fa-store"></i>Clique
               </div>
               <h3
                 class="dHctbXQtNQ dHctdGV4dC0yeGw dHctZm9udC1tZWRpdW0 dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctbXQtNg sm:dHctdGV4dC0zeGw"
@@ -795,7 +804,8 @@
               <p
                 class="dHctbXQtMw dHctbGVhZGluZy04 dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS03MDA sm:dHctbXQtNA sm:dHctdGV4dC1iYXNl sm:dHctbGVhZGluZy04"
               >
-               C'est l'événement que vous attendiez tous ! Pour faire de la place à nos nouvelles collections tout 🔥 toute flamme.
+                C'est l'événement que vous attendiez tous ! Pour faire de la
+                place à nos nouvelles collections tout 🔥 toute flamme.
               </p>
               <router-link
                 class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctZ2FwLTI dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ dHctZ3JvdXA dHctbXQtMTQ dHctdGV4dC1za3ktNjAw hover:dHctdGV4dC1za3ktNzAw sm:dHctbXQtMTY sm:dHctdGV4dC1tZA"
@@ -837,13 +847,12 @@
                 src="bloh/spot1.jpg?url=%2Fimages%2Fcase_studies%2Fcase-study-01.jpg&amp;w=3840&amp;q=75"
             /></router-link>
           </div>
-          
         </div>
       </div>
     </section>
     <!--Activities Content-->
 
-    
+    <!--Methods Content-->
     <section
       class="dHctcmVsYXRpdmU dHctb3ZlcmZsb3ctaGlkZGVu dHctYmctc2xhdGUtNTA dHctcHktMjA sm:dHctcHktMjQ lg:dHctcHQtMzI"
     >
@@ -870,7 +879,8 @@
           </div>
           <div class="lg:dHctbWwtYXV0bw lg:dHctbWF4LXctc20">
             <p class="dHctdGV4dC1sZw dHctdGV4dC1zbGF0ZS03MDA">
-              Lisez attentivement ces sept méthodes pour stimuler votre créativité.
+              Lisez attentivement ces sept méthodes pour stimuler votre
+              créativité.
             </p>
             <div class="dHctbXQtMTQ dHctZmxleA dHctZ2FwLTI.5 lg:dHctbXQtMTI">
               <button
@@ -914,7 +924,6 @@
         >
           <div class="swiper !tw-overflow-visible">
             <div class="swiper-wrapper">
-
               <div
                 class="swiper-slide !tw-h-auto !tw-w-auto dHctc2hyaW5rLTA dHctYm9yZGVyLWI dHctYm9yZGVyLWw dHctYm9yZGVyLXQ dHctYm9yZGVyLXNsYXRlLTIwMA dHctcC0xMA dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA first:dHctcm91bmRlZC1sLTJ4bA last:dHctcm91bmRlZC1yLTJ4bA last:dHctYm9yZGVyLXI"
               >
@@ -1004,7 +1013,6 @@
                   <img src="bloh/9.jpg" />
                 </div>
               </div>
-              
             </div>
             <div class="swiper-scrollbar"></div>
           </div>
@@ -1015,13 +1023,11 @@
       </div>
       <div
         class="dHctbXgtYXV0bw dHctbWF4LXctc2NyZWVuLXhs dHctcHgtNQ sm:dHctcHgtNg lg:dHctcHgtOA dHctbXQtMTY sm:dHctbXQtMjA"
-      >
-        
-      </div>
+      ></div>
     </section>
+    <!--Methods Content-->
 
-
-
+    <!--Témoignages Content-->
     <section
       class="dHctcmVsYXRpdmU dHctb3ZlcmZsb3ctaGlkZGVu dHctYmctc2xhdGUtNTA dHctcHktMjA sm:dHctcHktMjQ lg:dHctcHQtMzI"
     >
@@ -1035,7 +1041,7 @@
             <h2
               class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC00eGw dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC01eGw"
             >
-            Les témoignages
+              Les témoignages
             </h2>
             <div
               class="dHctbXQtMTA dHctaGlkZGVu dHctaC0[7px] dHctdy1mdWxs dHctcm91bmRlZC1mdWxs dHctYmctc2xhdGUtMjAw lg:dHctbXQtMTY lg:dHctYmxvY2s"
@@ -1160,14 +1166,14 @@
                     <h4
                       class="dHctbXQtNw dHctZm9udC1kaXNwbGF5 dHctdGV4dC14bA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
                     >
-                      “Highly skilled and professional”
+                      “Un voyage intérieur saisissant !”
                     </h4>
                     <p
                       class="dHctbXQtMw dHctdGV4dC1zbQ dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
                     >
-                      And robusta french bar luwak extra caffeine cup filter
-                      macchiato skinny shop cream that variety. Caramel black
-                      affogato con frappuccino mocha sweet milk and.
+                      Ce livre m'a profondément touchée, me plongeant dans une
+                      réflexion sur les complexités de la vie humaine et
+                      l'inébranlable force de l'espoir.
                     </p>
                   </div>
                   <div>
@@ -1181,12 +1187,12 @@
                         <p
                           class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
                         >
-                          Katy Jackson
+                          Fatoumata Diop
                         </p>
                         <p
                           class="dHctbXQtMQ.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS02MDA"
                         >
-                          Designer at Mailgorilla
+                          Psychologue
                         </p>
                       </div>
                       <img
@@ -1200,7 +1206,7 @@
                         style="color: transparent"
                         sizes="3.5rem"
                         srcset="bloh/avatar-1-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=16&amp;q=75 16w, bloh/avatar-1-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=32&amp;q=75 32w, bloh/avatar-1-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=48&amp;q=75 48w, bloh/avatar-1-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=64&amp;q=75 64w, bloh/avatar-1-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=96&amp;q=75 96w, bloh/avatar-1-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=128&amp;q=75 128w, bloh/avatar-1-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=256&amp;q=75 256w, bloh/avatar-1-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=360&amp;q=75 360w, bloh/avatar-1-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=384&amp;q=75 384w, bloh/avatar-1-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=414&amp;q=75 414w, bloh/avatar-1-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=512&amp;q=75 512w, bloh/avatar-1-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=640&amp;q=75 640w, bloh/avatar-1-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=750&amp;q=75 750w, bloh/avatar-1-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=828&amp;q=75 828w, bloh/avatar-1-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-1-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-1-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-1-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-1-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-1.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=3840&amp;q=75 3840w"
-                        src="bloh/avatar-1.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=3840&amp;q=75"
+                        src="bloh/T1.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=3840&amp;q=75"
                       />
                     </div>
                   </div>
@@ -1274,14 +1280,14 @@
                     <h4
                       class="dHctbXQtNw dHctZm9udC1kaXNwbGF5 dHctdGV4dC14bA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
                     >
-                      “I highly recommend him”
+                      “Un chef-d'œuvre introspectif !”
                     </h4>
                     <p
                       class="dHctbXQtMw dHctdGV4dC1zbQ dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
                     >
-                      And robusta french bar luwak extra caffeine cup filter
-                      macchiato skinny shop cream that variety. Caramel black
-                      affogato con frappuccino mocha sweet milk and.
+                      Ce livre m'a offert une perspective nouvelle sur la
+                      résilience et la capacité de l'âme humaine à se relever
+                      malgré tout.
                     </p>
                   </div>
                   <div>
@@ -1295,12 +1301,12 @@
                         <p
                           class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
                         >
-                          Sean Murphy
+                          Amina Ouattara
                         </p>
                         <p
                           class="dHctbXQtMQ.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS02MDA"
                         >
-                          Founder of North Agency
+                          Professeure de littérature
                         </p>
                       </div>
                       <img
@@ -1314,7 +1320,7 @@
                         style="color: transparent"
                         sizes="3.5rem"
                         srcset="bloh/avatar-2-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=16&amp;q=75 16w, bloh/avatar-2-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=32&amp;q=75 32w, bloh/avatar-2-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=48&amp;q=75 48w, bloh/avatar-2-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=64&amp;q=75 64w, bloh/avatar-2-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=96&amp;q=75 96w, bloh/avatar-2-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=128&amp;q=75 128w, bloh/avatar-2-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=256&amp;q=75 256w, bloh/avatar-2-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=360&amp;q=75 360w, bloh/avatar-2-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=384&amp;q=75 384w, bloh/avatar-2-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=414&amp;q=75 414w, bloh/avatar-2-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=512&amp;q=75 512w, bloh/avatar-2-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=640&amp;q=75 640w, bloh/avatar-2-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=750&amp;q=75 750w, bloh/avatar-2-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=828&amp;q=75 828w, bloh/avatar-2-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-2-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-2-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-2-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-2-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-2.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=3840&amp;q=75 3840w"
-                        src="bloh/avatar-2.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=3840&amp;q=75"
+                        src="bloh/T2.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=3840&amp;q=75"
                       />
                     </div>
                   </div>
@@ -1388,14 +1394,13 @@
                     <h4
                       class="dHctbXQtNw dHctZm9udC1kaXNwbGF5 dHctdGV4dC14bA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
                     >
-                      “I’m so lucky I found John!”
+                      “Un récit captivant et inspirant !”
                     </h4>
                     <p
                       class="dHctbXQtMw dHctdGV4dC1zbQ dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
                     >
-                      And robusta french bar luwak extra caffeine cup filter
-                      macchiato skinny shop cream that variety. Caramel black
-                      affogato con frappuccino mocha sweet milk and.
+                      Ce livre m'a offert bien plus qu'une simple lecture,
+                      c'était une véritable expérience émotionnelle.
                     </p>
                   </div>
                   <div>
@@ -1409,12 +1414,12 @@
                         <p
                           class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
                         >
-                          Elaine Foster
+                          Bintou Kone
                         </p>
                         <p
                           class="dHctbXQtMQ.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS02MDA"
                         >
-                          CEO of Wakatech
+                          Entrepreneure sociale
                         </p>
                       </div>
                       <img
@@ -1428,7 +1433,7 @@
                         style="color: transparent"
                         sizes="3.5rem"
                         srcset="bloh/avatar-3-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=16&amp;q=75 16w, bloh/avatar-3-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=32&amp;q=75 32w, bloh/avatar-3-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=48&amp;q=75 48w, bloh/avatar-3-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=64&amp;q=75 64w, bloh/avatar-3-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=96&amp;q=75 96w, bloh/avatar-3-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=128&amp;q=75 128w, bloh/avatar-3-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=256&amp;q=75 256w, bloh/avatar-3-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=360&amp;q=75 360w, bloh/avatar-3-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=384&amp;q=75 384w, bloh/avatar-3-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=414&amp;q=75 414w, bloh/avatar-3-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=512&amp;q=75 512w, bloh/avatar-3-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=640&amp;q=75 640w, bloh/avatar-3-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=750&amp;q=75 750w, bloh/avatar-3-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=828&amp;q=75 828w, bloh/avatar-3-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-3-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-3-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-3-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-3-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-3.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=3840&amp;q=75 3840w"
-                        src="bloh/avatar-3.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=3840&amp;q=75"
+                        src="bloh/T3.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=3840&amp;q=75"
                       />
                     </div>
                   </div>
@@ -1502,14 +1507,14 @@
                     <h4
                       class="dHctbXQtNw dHctZm9udC1kaXNwbGF5 dHctdGV4dC14bA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
                     >
-                      “I’m really impressed with the quality of his work”
+                      “Une œuvre profondément émouvante !”
                     </h4>
                     <p
                       class="dHctbXQtMw dHctdGV4dC1zbQ dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
                     >
-                      And robusta french bar luwak extra caffeine cup filter
-                      macchiato skinny shop cream that variety. Caramel black
-                      affogato con frappuccino mocha sweet milk and.
+                      Ce livre m'a montré les recoins les plus sombres de l'âme
+                      humaine, tout en célébrant l'espoir sous toutes ses
+                      formes.
                     </p>
                   </div>
                   <div>
@@ -1523,12 +1528,12 @@
                         <p
                           class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
                         >
-                          Jeff Bick
+                          Kwame Mensah
                         </p>
                         <p
                           class="dHctbXQtMQ.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS02MDA"
                         >
-                          Developer at Bad Inc.
+                          Consultant en développement personnel
                         </p>
                       </div>
                       <img
@@ -1542,7 +1547,7 @@
                         style="color: transparent"
                         sizes="3.5rem"
                         srcset="bloh/avatar-4-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=16&amp;q=75 16w, bloh/avatar-4-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=32&amp;q=75 32w, bloh/avatar-4-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=48&amp;q=75 48w, bloh/avatar-4-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=64&amp;q=75 64w, bloh/avatar-4-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=96&amp;q=75 96w, bloh/avatar-4-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=128&amp;q=75 128w, bloh/avatar-4-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=256&amp;q=75 256w, bloh/avatar-4-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=360&amp;q=75 360w, bloh/avatar-4-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=384&amp;q=75 384w, bloh/avatar-4-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=414&amp;q=75 414w, bloh/avatar-4-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=512&amp;q=75 512w, bloh/avatar-4-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=640&amp;q=75 640w, bloh/avatar-4-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=750&amp;q=75 750w, bloh/avatar-4-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=828&amp;q=75 828w, bloh/avatar-4-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-4-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-4-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-4-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-4-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-4.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=3840&amp;q=75 3840w"
-                        src="bloh/avatar-4.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=3840&amp;q=75"
+                        src="bloh/T4.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=3840&amp;q=75"
                       />
                     </div>
                   </div>
@@ -1616,14 +1621,14 @@
                     <h4
                       class="dHctbXQtNw dHctZm9udC1kaXNwbGF5 dHctdGV4dC14bA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
                     >
-                      “Seriously awesome!”
+                      “Un livre puissant et transformateur !”
                     </h4>
                     <p
                       class="dHctbXQtMw dHctdGV4dC1zbQ dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
                     >
-                      And robusta french bar luwak extra caffeine cup filter
-                      macchiato skinny shop cream that variety. Caramel black
-                      affogato con frappuccino mocha sweet milk and.
+                      Ce récit m'a donné une nouvelle perspective sur la vie et
+                      sur la manière dont nous pouvons surmonter les difficultés
+                      avec espoir.
                     </p>
                   </div>
                   <div>
@@ -1637,12 +1642,12 @@
                         <p
                           class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
                         >
-                          Jason Cosmo
+                          Yacouba Traoré
                         </p>
                         <p
                           class="dHctbXQtMQ.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS02MDA"
                         >
-                          CEO of Eastern Digital
+                          Journaliste
                         </p>
                       </div>
                       <img
@@ -1656,7 +1661,7 @@
                         style="color: transparent"
                         sizes="3.5rem"
                         srcset="bloh/avatar-5-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=16&amp;q=75 16w, bloh/avatar-5-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=32&amp;q=75 32w, bloh/avatar-5-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=48&amp;q=75 48w, bloh/avatar-5-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=64&amp;q=75 64w, bloh/avatar-5-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=96&amp;q=75 96w, bloh/avatar-5-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=128&amp;q=75 128w, bloh/avatar-5-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=256&amp;q=75 256w, bloh/avatar-5-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=360&amp;q=75 360w, bloh/avatar-5-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=384&amp;q=75 384w, bloh/avatar-5-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=414&amp;q=75 414w, bloh/avatar-5-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=512&amp;q=75 512w, bloh/avatar-5-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=640&amp;q=75 640w, bloh/avatar-5-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=750&amp;q=75 750w, bloh/avatar-5-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=828&amp;q=75 828w, bloh/avatar-5-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-5-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-5-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-5-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-5-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-5.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=3840&amp;q=75 3840w"
-                        src="bloh/avatar-5.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=3840&amp;q=75"
+                        src="bloh/T5.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=3840&amp;q=75"
                       />
                     </div>
                   </div>
@@ -1730,14 +1735,13 @@
                     <h4
                       class="dHctbXQtNw dHctZm9udC1kaXNwbGF5 dHctdGV4dC14bA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
                     >
-                      “Highly skilled and professional”
+                      “Une lecture bouleversante et éclairante !”
                     </h4>
                     <p
                       class="dHctbXQtMw dHctdGV4dC1zbQ dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
                     >
-                      And robusta french bar luwak extra caffeine cup filter
-                      macchiato skinny shop cream that variety. Caramel black
-                      affogato con frappuccino mocha sweet milk and.
+                      Ce livre m'a emmené dans un voyage introspectif qui m'a
+                      touchée au plus profond de mon être.
                     </p>
                   </div>
                   <div>
@@ -1751,12 +1755,12 @@
                         <p
                           class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
                         >
-                          Katy Jackson
+                          Aicha Diallo
                         </p>
                         <p
                           class="dHctbXQtMQ.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS02MDA"
                         >
-                          Designer at Mailgorilla
+                          Avocate
                         </p>
                       </div>
                       <img
@@ -1770,463 +1774,7 @@
                         style="color: transparent"
                         sizes="3.5rem"
                         srcset="bloh/avatar-1-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=16&amp;q=75 16w, bloh/avatar-1-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=32&amp;q=75 32w, bloh/avatar-1-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=48&amp;q=75 48w, bloh/avatar-1-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=64&amp;q=75 64w, bloh/avatar-1-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=96&amp;q=75 96w, bloh/avatar-1-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=128&amp;q=75 128w, bloh/avatar-1-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=256&amp;q=75 256w, bloh/avatar-1-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=360&amp;q=75 360w, bloh/avatar-1-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=384&amp;q=75 384w, bloh/avatar-1-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=414&amp;q=75 414w, bloh/avatar-1-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=512&amp;q=75 512w, bloh/avatar-1-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=640&amp;q=75 640w, bloh/avatar-1-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=750&amp;q=75 750w, bloh/avatar-1-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=828&amp;q=75 828w, bloh/avatar-1-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-1-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-1-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-1-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-1-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-1.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=3840&amp;q=75 3840w"
-                        src="bloh/avatar-1.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=3840&amp;q=75"
-                      />
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                class="swiper-slide !tw-h-auto !tw-w-auto dHctc2hyaW5rLTA dHctYm9yZGVyLWI dHctYm9yZGVyLWw dHctYm9yZGVyLXQ dHctYm9yZGVyLXNsYXRlLTIwMA dHctcC0xMA dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA first:dHctcm91bmRlZC1sLTJ4bA last:dHctcm91bmRlZC1yLTJ4bA last:dHctYm9yZGVyLXI"
-              >
-                <div
-                  class="dHctZmxleA dHctaC1mdWxs dHctdy1mdWxs dHctbWF4LXct[272px] dHctZmxleC0x dHctZmxleC1jb2w"
-                >
-                  <div class="dHctZmxleC0x">
-                    <div class="dHctZmxleA dHctZ2FwLTA.5">
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path></svg
-                      ><svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path></svg
-                      ><svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path></svg
-                      ><svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path></svg
-                      ><svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path>
-                      </svg>
-                    </div>
-                    <h4
-                      class="dHctbXQtNw dHctZm9udC1kaXNwbGF5 dHctdGV4dC14bA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
-                    >
-                      “I highly recommend him”
-                    </h4>
-                    <p
-                      class="dHctbXQtMw dHctdGV4dC1zbQ dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
-                    >
-                      And robusta french bar luwak extra caffeine cup filter
-                      macchiato skinny shop cream that variety. Caramel black
-                      affogato con frappuccino mocha sweet milk and.
-                    </p>
-                  </div>
-                  <div>
-                    <hr
-                      class="dHctbXktNg dHctaC1weA dHctdy1mdWxs dHctYmctc2xhdGUtMjAw"
-                    />
-                    <div
-                      class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1iZXR3ZWVu"
-                    >
-                      <div class="">
-                        <p
-                          class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
-                        >
-                          Sean Murphy
-                        </p>
-                        <p
-                          class="dHctbXQtMQ.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS02MDA"
-                        >
-                          Founder of North Agency
-                        </p>
-                      </div>
-                      <img
-                        alt="Sean Murphy"
-                        loading="lazy"
-                        width="84"
-                        height="85"
-                        decoding="async"
-                        data-nimg="1"
-                        class="dHctaC0xNA dHctdy0xNA dHctcm91bmRlZC1mdWxs"
-                        style="color: transparent"
-                        sizes="3.5rem"
-                        srcset="bloh/avatar-2-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=16&amp;q=75 16w, bloh/avatar-2-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=32&amp;q=75 32w, bloh/avatar-2-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=48&amp;q=75 48w, bloh/avatar-2-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=64&amp;q=75 64w, bloh/avatar-2-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=96&amp;q=75 96w, bloh/avatar-2-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=128&amp;q=75 128w, bloh/avatar-2-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=256&amp;q=75 256w, bloh/avatar-2-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=360&amp;q=75 360w, bloh/avatar-2-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=384&amp;q=75 384w, bloh/avatar-2-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=414&amp;q=75 414w, bloh/avatar-2-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=512&amp;q=75 512w, bloh/avatar-2-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=640&amp;q=75 640w, bloh/avatar-2-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=750&amp;q=75 750w, bloh/avatar-2-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=828&amp;q=75 828w, bloh/avatar-2-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-2-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-2-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-2-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-2-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-2.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=3840&amp;q=75 3840w"
-                        src="bloh/avatar-2.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-2.6989acc3.png&amp;w=3840&amp;q=75"
-                      />
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                class="swiper-slide !tw-h-auto !tw-w-auto dHctc2hyaW5rLTA dHctYm9yZGVyLWI dHctYm9yZGVyLWw dHctYm9yZGVyLXQ dHctYm9yZGVyLXNsYXRlLTIwMA dHctcC0xMA dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA first:dHctcm91bmRlZC1sLTJ4bA last:dHctcm91bmRlZC1yLTJ4bA last:dHctYm9yZGVyLXI"
-              >
-                <div
-                  class="dHctZmxleA dHctaC1mdWxs dHctdy1mdWxs dHctbWF4LXct[272px] dHctZmxleC0x dHctZmxleC1jb2w"
-                >
-                  <div class="dHctZmxleC0x">
-                    <div class="dHctZmxleA dHctZ2FwLTA.5">
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path></svg
-                      ><svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path></svg
-                      ><svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path></svg
-                      ><svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path></svg
-                      ><svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path>
-                      </svg>
-                    </div>
-                    <h4
-                      class="dHctbXQtNw dHctZm9udC1kaXNwbGF5 dHctdGV4dC14bA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
-                    >
-                      “I’m so lucky I found John!”
-                    </h4>
-                    <p
-                      class="dHctbXQtMw dHctdGV4dC1zbQ dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
-                    >
-                      And robusta french bar luwak extra caffeine cup filter
-                      macchiato skinny shop cream that variety. Caramel black
-                      affogato con frappuccino mocha sweet milk and.
-                    </p>
-                  </div>
-                  <div>
-                    <hr
-                      class="dHctbXktNg dHctaC1weA dHctdy1mdWxs dHctYmctc2xhdGUtMjAw"
-                    />
-                    <div
-                      class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1iZXR3ZWVu"
-                    >
-                      <div class="">
-                        <p
-                          class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
-                        >
-                          Elaine Foster
-                        </p>
-                        <p
-                          class="dHctbXQtMQ.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS02MDA"
-                        >
-                          CEO of Wakatech
-                        </p>
-                      </div>
-                      <img
-                        alt="Elaine Foster"
-                        loading="lazy"
-                        width="84"
-                        height="85"
-                        decoding="async"
-                        data-nimg="1"
-                        class="dHctaC0xNA dHctdy0xNA dHctcm91bmRlZC1mdWxs"
-                        style="color: transparent"
-                        sizes="3.5rem"
-                        srcset="bloh/avatar-3-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=16&amp;q=75 16w, bloh/avatar-3-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=32&amp;q=75 32w, bloh/avatar-3-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=48&amp;q=75 48w, bloh/avatar-3-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=64&amp;q=75 64w, bloh/avatar-3-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=96&amp;q=75 96w, bloh/avatar-3-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=128&amp;q=75 128w, bloh/avatar-3-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=256&amp;q=75 256w, bloh/avatar-3-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=360&amp;q=75 360w, bloh/avatar-3-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=384&amp;q=75 384w, bloh/avatar-3-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=414&amp;q=75 414w, bloh/avatar-3-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=512&amp;q=75 512w, bloh/avatar-3-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=640&amp;q=75 640w, bloh/avatar-3-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=750&amp;q=75 750w, bloh/avatar-3-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=828&amp;q=75 828w, bloh/avatar-3-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-3-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-3-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-3-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-3-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-3.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=3840&amp;q=75 3840w"
-                        src="bloh/avatar-3.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-3.d65026f7.png&amp;w=3840&amp;q=75"
-                      />
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                class="swiper-slide !tw-h-auto !tw-w-auto dHctc2hyaW5rLTA dHctYm9yZGVyLWI dHctYm9yZGVyLWw dHctYm9yZGVyLXQ dHctYm9yZGVyLXNsYXRlLTIwMA dHctcC0xMA dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA first:dHctcm91bmRlZC1sLTJ4bA last:dHctcm91bmRlZC1yLTJ4bA last:dHctYm9yZGVyLXI"
-              >
-                <div
-                  class="dHctZmxleA dHctaC1mdWxs dHctdy1mdWxs dHctbWF4LXct[272px] dHctZmxleC0x dHctZmxleC1jb2w"
-                >
-                  <div class="dHctZmxleC0x">
-                    <div class="dHctZmxleA dHctZ2FwLTA.5">
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path></svg
-                      ><svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path></svg
-                      ><svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path></svg
-                      ><svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path></svg
-                      ><svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path>
-                      </svg>
-                    </div>
-                    <h4
-                      class="dHctbXQtNw dHctZm9udC1kaXNwbGF5 dHctdGV4dC14bA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
-                    >
-                      “I’m really impressed with the quality of his work”
-                    </h4>
-                    <p
-                      class="dHctbXQtMw dHctdGV4dC1zbQ dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
-                    >
-                      And robusta french bar luwak extra caffeine cup filter
-                      macchiato skinny shop cream that variety. Caramel black
-                      affogato con frappuccino mocha sweet milk and.
-                    </p>
-                  </div>
-                  <div>
-                    <hr
-                      class="dHctbXktNg dHctaC1weA dHctdy1mdWxs dHctYmctc2xhdGUtMjAw"
-                    />
-                    <div
-                      class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1iZXR3ZWVu"
-                    >
-                      <div class="">
-                        <p
-                          class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
-                        >
-                          Jeff Bick
-                        </p>
-                        <p
-                          class="dHctbXQtMQ.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS02MDA"
-                        >
-                          Developer at Bad Inc.
-                        </p>
-                      </div>
-                      <img
-                        alt="Jeff Bick"
-                        loading="lazy"
-                        width="84"
-                        height="85"
-                        decoding="async"
-                        data-nimg="1"
-                        class="dHctaC0xNA dHctdy0xNA dHctcm91bmRlZC1mdWxs"
-                        style="color: transparent"
-                        sizes="3.5rem"
-                        srcset="bloh/avatar-4-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=16&amp;q=75 16w, bloh/avatar-4-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=32&amp;q=75 32w, bloh/avatar-4-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=48&amp;q=75 48w, bloh/avatar-4-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=64&amp;q=75 64w, bloh/avatar-4-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=96&amp;q=75 96w, bloh/avatar-4-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=128&amp;q=75 128w, bloh/avatar-4-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=256&amp;q=75 256w, bloh/avatar-4-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=360&amp;q=75 360w, bloh/avatar-4-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=384&amp;q=75 384w, bloh/avatar-4-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=414&amp;q=75 414w, bloh/avatar-4-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=512&amp;q=75 512w, bloh/avatar-4-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=640&amp;q=75 640w, bloh/avatar-4-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=750&amp;q=75 750w, bloh/avatar-4-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=828&amp;q=75 828w, bloh/avatar-4-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-4-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-4-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-4-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-4-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-4.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=3840&amp;q=75 3840w"
-                        src="bloh/avatar-4.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-4.d5e52684.png&amp;w=3840&amp;q=75"
-                      />
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                class="swiper-slide !tw-h-auto !tw-w-auto dHctc2hyaW5rLTA dHctYm9yZGVyLWI dHctYm9yZGVyLWw dHctYm9yZGVyLXQ dHctYm9yZGVyLXNsYXRlLTIwMA dHctcC0xMA dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA first:dHctcm91bmRlZC1sLTJ4bA last:dHctcm91bmRlZC1yLTJ4bA last:dHctYm9yZGVyLXI"
-              >
-                <div
-                  class="dHctZmxleA dHctaC1mdWxs dHctdy1mdWxs dHctbWF4LXct[272px] dHctZmxleC0x dHctZmxleC1jb2w"
-                >
-                  <div class="dHctZmxleC0x">
-                    <div class="dHctZmxleA dHctZ2FwLTA.5">
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path></svg
-                      ><svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path></svg
-                      ><svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path></svg
-                      ><svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path></svg
-                      ><svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewbox="0 0 20 20"
-                        fill="currentColor"
-                        class="dHctaC01 dHctdy01 dHctdGV4dC15ZWxsb3ctNDAw"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z"
-                          clip-rule="evenodd"
-                        ></path>
-                      </svg>
-                    </div>
-                    <h4
-                      class="dHctbXQtNw dHctZm9udC1kaXNwbGF5 dHctdGV4dC14bA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
-                    >
-                      “Seriously awesome!”
-                    </h4>
-                    <p
-                      class="dHctbXQtMw dHctdGV4dC1zbQ dHctbGVhZGluZy03 dHctdGV4dC1zbGF0ZS03MDA"
-                    >
-                      And robusta french bar luwak extra caffeine cup filter
-                      macchiato skinny shop cream that variety. Caramel black
-                      affogato con frappuccino mocha sweet milk and.
-                    </p>
-                  </div>
-                  <div>
-                    <hr
-                      class="dHctbXktNg dHctaC1weA dHctdy1mdWxs dHctYmctc2xhdGUtMjAw"
-                    />
-                    <div
-                      class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1iZXR3ZWVu"
-                    >
-                      <div class="">
-                        <p
-                          class="dHctZm9udC1kaXNwbGF5 dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS05MDA"
-                        >
-                          Jason Cosmo
-                        </p>
-                        <p
-                          class="dHctbXQtMQ.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS02MDA"
-                        >
-                          CEO of Eastern Digital
-                        </p>
-                      </div>
-                      <img
-                        alt="Jason Cosmo"
-                        loading="lazy"
-                        width="84"
-                        height="85"
-                        decoding="async"
-                        data-nimg="1"
-                        class="dHctaC0xNA dHctdy0xNA dHctcm91bmRlZC1mdWxs"
-                        style="color: transparent"
-                        sizes="3.5rem"
-                        srcset="bloh/avatar-5-1.png 16w?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=16&amp;q=75 16w, bloh/avatar-5-2.png 32we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=32&amp;q=75 32w, bloh/avatar-5-3.png 48we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=48&amp;q=75 48w, bloh/avatar-5-4.png 64we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=64&amp;q=75 64w, bloh/avatar-5-5.png 96we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=96&amp;q=75 96w, bloh/avatar-5-6.png 128we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=128&amp;q=75 128w, bloh/avatar-5-7.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=256&amp;q=75 256w, bloh/avatar-5-8.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=360&amp;q=75 360w, bloh/avatar-5-9.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=384&amp;q=75 384w, bloh/avatar-5-10.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=414&amp;q=75 414w, bloh/avatar-5-11.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=512&amp;q=75 512w, bloh/avatar-5-12.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=640&amp;q=75 640w, bloh/avatar-5-13.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=750&amp;q=75 750w, bloh/avatar-5-14.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=828&amp;q=75 828w, bloh/avatar-5-15.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=1080&amp;q=75 1080w, bloh/avatar-5-16.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=1200&amp;q=75 1200w, bloh/avatar-5-17.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=1536&amp;q=75 1536w, bloh/avatar-5-18.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=1920&amp;q=75 1920w, bloh/avatar-5-19.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=2048&amp;q=75 2048w, bloh/avatar-5.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=3840&amp;q=75 3840w"
-                        src="bloh/avatar-5.png?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-5.c07e83e4.png&amp;w=3840&amp;q=75"
+                        src="bloh/T6.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Favatar-1.f607a998.png&amp;w=3840&amp;q=75"
                       />
                     </div>
                   </div>
@@ -2249,8 +1797,8 @@
           <h3
             class="dHctcmVsYXRpdmU dHctbWF4LXcteHM dHctZm9udC13cml0aW5n dHctdGV4dC0[27px] dHctdHJhY2tpbmctd2lkZQ dHctdGV4dC1zbGF0ZS02MDA"
           >
-            These are some <span class="dHctdGV4dC1za3ktNzAw">companies</span> I
-            have worked with<svg
+            Les <span class="dHctdGV4dC1za3ktNzAw">partenaires</span>
+            <svg
               xmlns="http://www.w3.org/2000/svg"
               width="124"
               height="101"
@@ -2293,7 +1841,7 @@
                 data-nimg="1"
                 class="dHctaC1hdXRv dHctdy0zMg sm:dHctdy0zNg"
                 style="color: transparent"
-                src="bloh/static/media/zendesk.5a36afa5.svg"
+                src="bloh/part1.png"
               />
             </div>
             <div
@@ -2308,10 +1856,10 @@
                 data-nimg="1"
                 class="dHctaC1hdXRv dHctdy0zMg sm:dHctdy0zNg"
                 style="color: transparent"
-                src="bloh/static/media/intercom.15694fbf.svg"
+                src="bloh/part2.png"
               />
             </div>
-            <div
+            <!--div
               class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctcm91bmRlZC14bA dHctYm9yZGVy dHctYm9yZGVyLXNsYXRlLTIwMC85MA dHctcHktNw dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA"
             >
               <img
@@ -2430,17 +1978,14 @@
                 style="color: transparent"
                 src="bloh/static/media/instagram.650ebe20.svg"
               />
-            </div>
+            </div-->
           </div>
         </div>
       </div>
     </section>
+    <!--Témoignages Content-->
 
-
-
-
-
-    <section
+    <!--section
       class="dHctcHktMTY dHctb3ZlcmZsb3ctaGlkZGVu dHctYmctd2hpdGU sm:dHctcHQtMjQ lg:dHctcHQtMjg"
     >
       <div
@@ -2465,7 +2010,7 @@
               >Thoughts</span
             ></span
           >
-          <!-- -->on design, business and indie-hacking
+          on design, business and indie-hacking
         </h2>
         <div
           class="dHctcmVsYXRpdmU dHctZ3JpZA dHctbWF4LXctbGc dHctZ2FwLTg dHctbXgtYXV0bw dHctbXQtMTQ sm:dHctbXQtMTY md:dHctbXgtMA md:dHctbWF4LXctbm9uZQ md:dHctZ3JpZC1jb2xzLTI lg:dHctZ3JpZC1jb2xzLTM lg:dHctZ2FwLXgtNQ lg:dHctZ2FwLXktNg xl:dHctZ2FwLXgtNg xl:dHctZ2FwLXktOA"
@@ -2871,7 +2416,7 @@
           </article>
         </div>
       </div>
-    </section>
+    </section-->
   </div>
 </template>
 

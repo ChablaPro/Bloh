@@ -1,6 +1,5 @@
 <template>
-  <div>
-
+  <div class="pt-20">
     <section class="dHctcmVsYXRpdmU dHctYmctc2xhdGUtNTAvNTA">
       <img
         alt=""
@@ -22,7 +21,6 @@
           <h1
             class="dHctdGV4dC01eGw dHctZm9udC1zZW1pYm9sZA dHctZm9udC1kaXNwbGF5 dHctdGV4dC1zbGF0ZS05MDA sm:dHctdGV4dC02eGw"
           >
-            Hi,<!-- -->
             <span class="dHctcmVsYXRpdmU dHctd2hpdGVzcGFjZS1ub3dyYXA"
               ><svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -35,35 +33,65 @@
                 <path
                   d="M247.564 18.5807C241.772 13.3568 232.473 12.7526 225.225 11.4427C217.124 9.97395 208.996 8.57031 200.846 7.46093C186.542 5.51302 172.169 4.08854 157.79 3.01562C126.033 0.645827 94.0929 0.0338481 62.3387 2.36979C42.1785 3.85416 22.008 5.90885 2.32917 10.8463C-0.0155171 11.4349 0.207047 14.6719 2.6889 14.7083C22.0261 14.9896 41.3866 12.6406 60.7109 11.8568C79.9471 11.0807 99.2274 10.6719 118.484 10.9557C142.604 11.3125 166.719 12.8333 190.722 15.5156C199.956 16.5469 209.195 17.6016 218.411 18.8255C227.864 20.0807 237.259 22 246.767 20.7422C247.709 20.6198 248.426 19.3568 247.564 18.5807Z"
                 ></path></svg
-              ><span class="dHctcmVsYXRpdmU">I’m Jane</span></span
+              ><span class="dHctcmVsYXRpdmU">Biographie</span></span
             >
-            <!-- -->and I’m a designer &amp; developer
           </h1>
           <p
             class="dHctbXQtOA dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1zbGF0ZS03MDA"
           >
-            Pumpkin seasonal rich froth decaffeinated trifecta organic blue
-            panna doppio. Body a whipped lungo variety spice seasonal body press
-            mountain con macchiato. Medium coffee single white to caramelization
-            siphon con siphon id as con go single. So ristretto pumpkin affogato
-            cinnamon breve turkish organic. Lait black kopi dripper spice lait
-            cultivar robusta panna whipped and sit aromatic sugar.
+            Ainahin Béringère BLOH est une Communicatrice de formation et une
+            Conseillère spécialisée en Idéation et en stratégies de performances
+            basées sur les VALEURS.
           </p>
           <p
             class="dHctbXQtNg dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1zbGF0ZS03MDA"
           >
-            And café frappuccino extraction dHctZmlsdGVy froth sugar siphon
-            coffee pumpkin press milk ristretto et au. Trade instant aged as
-            wings bar seasonal pumpkin barista turkish shot go seasonal robusta.
-            Strong iced lungo frappuccino espresso redeye macchiato aftertaste
-            trade pot. Seasonal turkish mocha wings sit crema blue au and
-            grounds eu cortado café cup. Filter viennese bar seasonal wings
-            siphon as frappuccino go luwak single mazagran.
+            Consultante associée en management des entreprises, option
+            innovation et stratégies, elle collabore au sein du cabinet Strategy
+            Expertise, où elle s'entoure d'experts divers et complémentaires
+            pour apporter des solutions innovantes au monde de l'entrepreneuriat
+            et du business.
+          </p>
+          <p
+            class="dHctbXQtOA dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1zbGF0ZS03MDA"
+          >
+            Auteure accomplie, elle a déjà publié une première œuvre et prépare
+            le lancement de deux nouveaux projets littéraires avant la fin de
+            l'année 2024.
+          </p>
+          <p
+            class="dHctbXQtOA dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1zbGF0ZS03MDA"
+          >
+            Elle préside également le Réseau Leaders Invest Africa, une
+            initiative dédiée à la collaboration, à l'impact fédéré, et à
+            l'investissement collectif dans des projets rentables.
+          </p>
+          <p
+            class="dHctbXQtOA dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1zbGF0ZS03MDA"
+          >
+            Entrepreneure Multipotentielle, Ainahin est également une militante
+            passionnée des droits humains. Elle anime des ateliers débats
+            éducatifs, visant à sensibiliser et à mobiliser autour de ces
+            questions cruciales.
+          </p>
+          <p
+            class="dHctbXQtOA dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1zbGF0ZS03MDA"
+          >
+            Sa passion pour l'événementiel la pousse à s'investir dans divers
+            projets, notamment en tant qu'initiatrice du festival des Couleurs
+            et des Arts Visuels.
+          </p>
+          <p
+            class="dHctbXQtOA dHctdGV4dC1sZw dHctbGVhZGluZy04 dHctdGV4dC1zbGF0ZS03MDA"
+          >
+            Artiste dans l'âme, elle nourrit un amour profond pour l'art et la
+            danse, et reste toujours à l'écoute pour apporter sa petite pierre à
+            l'édifice.
           </p>
           <p
             class="dHctbXQtMTY dHctdGV4dC0zeGw dHctdGV4dC1zbGF0ZS03MDA __className_638ca0"
           >
-            Jane Doe
+            Ainahin Béringère BLOH
           </p>
         </div>
       </div>
@@ -81,7 +109,7 @@
           style="color: transparent"
           sizes="(min-width: 1024px) 33vw, 100vw"
           srcset="bloh/about-hero-1.png 128w?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=128&amp;q=75 128w, bloh/about-hero-2.png 256we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=256&amp;q=75 256w, bloh/about-hero-3.png 360we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=360&amp;q=75 360w, bloh/about-hero-4.png 384we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=384&amp;q=75 384w, bloh/about-hero-5.png 414we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=414&amp;q=75 414w, bloh/about-hero-6.png 512we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=512&amp;q=75 512w, bloh/about-hero-7.png 640we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=640&amp;q=75 640w, bloh/about-hero-8.png 750we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=750&amp;q=75 750w, bloh/about-hero-9.png 828we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=828&amp;q=75 828w, bloh/about-hero-10.png 1080we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=1080&amp;q=75 1080w, bloh/about-hero-11.png 1200we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=1200&amp;q=75 1200w, bloh/about-hero-12.png 1536we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=1536&amp;q=75 1536w, bloh/about-hero-13.png 1920we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=1920&amp;q=75 1920w, bloh/about-hero-14.png 2048we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=2048&amp;q=75 2048w, bloh/about-hero.png 3840we?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=3840&amp;q=75 3840w"
-          src="bloh/about-hero.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=3840&amp;q=75"
+          src="bloh/portrait.jpg?url=%2Fbloh%2Fstatic%2Fmedia%2Fabout-hero.4be39712.png&amp;w=3840&amp;q=75"
         /><svg
           width="229"
           height="40"
@@ -2197,6 +2225,5 @@
         </div>
       </div>
     </section>
-  
   </div>
 </template>
