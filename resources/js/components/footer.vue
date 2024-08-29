@@ -43,14 +43,15 @@
               </div>
               <form
                 class="dHctcmVsYXRpdmU dHctbXQtMTA dHctdy1mdWxs dHctbWF4LXctbGc lg:dHctbXQtMA"
-                action="#"
-                method="post"
+                @submit.prevent="abonner"
+                v-if="!success"
               >
                 <input
                   type="email"
                   class="dHctaC0xNA dHctdy1mdWxs dHctcm91bmRlZC1mdWxs dHctYm9yZGVyLTA dHctYmctd2hpdGUvMTA dHctcHktMw.5 dHctcGwtNQ dHctcHItMzI dHctdGV4dC1zbQ dHctbGVhZGluZy01 dHctdGV4dC1za3ktNTA dHctcGxhY2Vob2xkZXItc2t5LTEwMC85MA dHctb3V0bGluZS1ub25l dHctcmluZy0x dHctcmluZy13aGl0ZS8yNQ dHctYmFja2Ryb3AtYmx1cg dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy0y focus:dHctcmluZy13aGl0ZS8zMA sm:dHctcGwtNg"
                   placeholder="Entrez votre email."
                   autocomplete="email"
+                  required
                 /><button
                   type="submit"
                   class="dHctYWJzb2x1dGU dHctcmlnaHQtMQ.5 dHctdG9wLTE.5 dHctaW5saW5lLWZsZXg dHctaC0xMQ dHctaXRlbXMtY2VudGVy dHctcm91bmRlZC1mdWxs dHctYmctc2t5LTkwMA dHctcHgtNQ dHctcHktMw dHctdGV4dC1zbQ dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1za3ktNTA dHctb3V0bGluZS1ub25l dHctdHJhbnNpdGlvbg dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2t5LTgwMA focus:dHctb3V0bGluZS1ub25l sm:dHctcHgtNw sm:dHctdGV4dC1tZA"
@@ -58,6 +59,46 @@
                   S'abonner
                 </button>
               </form>
+
+              <div
+                class="relative border border-gray-200 rounded-lg shadow-lg w-full"
+                v-if="success"
+              >
+                <button
+                  class="absolute p-1 bg-gray-100 border border-gray-300 rounded-full -top-1 -right-1"
+                  @click="cancel"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="w-3 h-3"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
+                      clip-rule="evenodd"
+                    />
+                  </svg>
+                </button>
+
+                <div class="flex items-center p-4">
+                  <img
+                    class="object-cover w-12 h-12 rounded-lg"
+                    src="bloh/contactPro.jpg"
+                    alt=""
+                  />
+
+                  <div class="ml-3 overflow-hidden">
+                    <p class="font-medium text-black">Ainahin Béringère BLOH</p>
+                    <p
+                      class="max-w-xs text-sm text-gray-500 truncate text-white"
+                    >
+                      Votre commande ou message a été pris en compte.
+                    </p>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -80,7 +121,7 @@
               <div class="dHctaGlkZGVu lg:dHctYmxvY2s">
                 <a
                   class="dHctaW5saW5lLWZsZXg dHctaXRlbXMtY2VudGVy dHctcm91bmRlZC1mdWxs dHctZ2FwLTI.5 dHctanVzdGlmeS1jZW50ZXI dHctcHgtNw dHctcHktMw dHctdGV4dC1tZA dHctZm9udC1zZW1pYm9sZA dHctbGVhZGluZy1ub25l dHctb3V0bGluZS1vZmZzZXQtMg dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ active:dHctdHJhbnNpdGlvbi1ub25l dHctYmctd2hpdGU hover:dHctYmctc2t5LTUw dHctdGV4dC1zbGF0ZS03MDA dHctbXQtMTI"
-                  href="tel:+22969251018"
+                  href="tel:+22996031886"
                   >Passer un appel<svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewbox="0 0 20 20"
@@ -109,7 +150,7 @@
               >
                 <a
                   class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZ2FwLTI.5 dHctcm91bmRlZC1mdWxs dHctYm9yZGVy dHctYm9yZGVyLXNsYXRlLTYwMC85MA dHctcHktMg.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS01MA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2xhdGUtODAw hover:dHctdGV4dC13aGl0ZQ lg:dHctZ2FwLTI xl:dHctZ2FwLTI.5"
-                  href="mailto:chabijohnthebaptiste@gmail.com"
+                  href="mailto:ainahinbloh@gmail.com"
                   ><i
                     class="fa-solid fa-envelopes dHctaC00 dHctdy00 dHctc2hyaW5rLTA dHctdGV4dC1zbGF0ZS0yMDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ group-hover:dHctZmlsbC1zbGF0ZS0xMDA"
                   >
@@ -117,7 +158,8 @@
                   >Email</a
                 ><a
                   class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZ2FwLTI.5 dHctcm91bmRlZC1mdWxs dHctYm9yZGVy dHctYm9yZGVyLXNsYXRlLTYwMC85MA dHctcHktMg.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS01MA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2xhdGUtODAw hover:dHctdGV4dC13aGl0ZQ lg:dHctZ2FwLTI xl:dHctZ2FwLTI.5"
-                  href="#"
+                  href="https://www.facebook.com/profile.php?id=100083515921361&mibextid=ZbWKwL"
+                  target="_blank"
                   ><i
                     class="fa-brands fa-facebook dHctaC00 dHctdy00 dHctc2hyaW5rLTA dHctdGV4dC1zbGF0ZS0yMDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ group-hover:dHctZmlsbC1zbGF0ZS0xMDA"
                   >
@@ -125,7 +167,8 @@
                   >Facebook</a
                 ><a
                   class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZ2FwLTI.5 dHctcm91bmRlZC1mdWxs dHctYm9yZGVy dHctYm9yZGVyLXNsYXRlLTYwMC85MA dHctcHktMg.5 dHctdGV4dC1zbQ dHctdGV4dC1zbGF0ZS01MA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2xhdGUtODAw hover:dHctdGV4dC13aGl0ZQ lg:dHctZ2FwLTI xl:dHctZ2FwLTI.5"
-                  href="#"
+                  href="https://www.linkedin.com/in/ainahin-b%C3%A9ring%C3%A8re-bloh-a1a453252/"
+                  target="_blank"
                   ><i
                     class="fa-brands fa-linkedin dHctaC00 dHctdy00 dHctc2hyaW5rLTA dHctdGV4dC1zbGF0ZS0yMDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ group-hover:dHctZmlsbC1zbGF0ZS0xMDA"
                   >
@@ -197,3 +240,24 @@
     </section>
   </div>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      data: {
+        email: "",
+      },
+      success: false,
+    };
+  },
+  methods: {
+    abonner() {
+      this.success = true;
+    },
+    cancel() {
+      this.success = false;
+    },
+  },
+};
+</script>

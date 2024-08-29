@@ -27,7 +27,7 @@ const routes = [
         component: () => import('./components/blog.vue')
     },
     {
-        path: '/contact',
+        path: '/contact/:type?',
         component: () => import('./components/contact.vue')
     },
     {

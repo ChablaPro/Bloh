@@ -57,14 +57,16 @@
             <div class="dHctZmxleA dHctZ2FwLTM sm:dHctZ2FwLTQ">
               <a
                 class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZHVyYXRpb24tMjAw dHctYm9yZGVy dHctcm91bmRlZC1mdWxs dHctaC0xMQ dHctdy0xMQ dHctYm9yZGVyLXNsYXRlLTIwMA hover:dHctYmctc2xhdGUtNTA"
-                aria-label="Follow on Dribbble"
-                href="https://dribbble.com"
+                aria-label="Follow on facebook"
+                target="_blank"
+                href="https://www.facebook.com/profile.php?id=100083515921361&mibextid=ZbWKwL"
                 ><i class="fa-brands fa-facebook"></i
               ></a>
               <a
                 class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZHVyYXRpb24tMjAw dHctYm9yZGVy dHctcm91bmRlZC1mdWxs dHctaC0xMQ dHctdy0xMQ dHctYm9yZGVyLXNsYXRlLTIwMA hover:dHctYmctc2xhdGUtNTA"
-                aria-label="Follow on Twitter"
-                href="https://twitter.com"
+                aria-label="Follow on linkedIn"
+                target="_blank"
+                href="https://www.linkedin.com/in/ainahin-b%C3%A9ring%C3%A8re-bloh-a1a453252/"
                 ><i class="fa-brands fa-linkedin"></i
               ></a>
             </div>
@@ -197,7 +199,10 @@
                     <div>
                       <span
                         class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctdy0yMA dHctaC0yMA dHctcm91bmRlZC1mdWxs dHctc2hhZG93LWxn dHctYmctc2xhdGUtOTAw"
-                        ><i class="fa-solid fa-bags-shopping"></i
+                        ><i
+                          class="fa-solid fa-bags-shopping"
+                          style="color: white"
+                        ></i
                       ></span>
                     </div>
                     <div>
@@ -213,7 +218,9 @@
                         <a href="tel:+22996031886">+229 96 03 18 86</a> /
                         <a href="tel:+22940162696">+229 40 16 26 96</a> ou
                         utilisez le formulaire en ligne.
-                        <router-link to="/contact">Cliquez ici...</router-link>
+                        <router-link to="/contact/commande"
+                          >Cliquez ici...</router-link
+                        >
                       </p>
                     </div>
                   </div>
@@ -230,7 +237,10 @@
                       <span
                         class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctdy0yMA dHctaC0yMA dHctcm91bmRlZC1mdWxs dHctc2hhZG93LWxn dHctYmctc2xhdGUtOTAw"
                       >
-                        <i class="fa-sharp fa-solid fa-mailbox"></i>
+                        <i
+                          class="fa-sharp fa-solid fa-mailbox"
+                          style="color: white"
+                        ></i>
                       </span>
                     </div>
                     <div>
@@ -255,7 +265,7 @@
                     <div>
                       <span
                         class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctdy0yMA dHctaC0yMA dHctcm91bmRlZC1mdWxs dHctc2hhZG93LWxn dHctYmctc2xhdGUtOTAw"
-                        ><i class="fa-solid fa-moped"></i
+                        ><i class="fa-solid fa-moped" style="color: white"></i
                       ></span>
                     </div>
                     <div>
@@ -313,6 +323,7 @@
           <div class="lg:dHctY29sLXNwYW4tOA lg:dHctcGwtOA xl:dHctcGwtMjQ">
             <div
               class="dHctcmVsYXRpdmU dHctdy1mdWxs dHctYXNwZWN0LXctMw dHctYXNwZWN0LWgtMg"
+              @click="$router.push('/contact/commande')"
             >
               <img
                 alt=""
@@ -343,6 +354,7 @@
                   >
                     <i
                       class="animate-bounce fa-duotone fa-solid fa-download"
+                      style="color: white"
                     ></i>
                   </button>
                 </div>
@@ -762,7 +774,7 @@
             </div>
             <router-link
               class="dHctcmVsYXRpdmU dHctb3JkZXItMQ dHctdy1mdWxs dHctaC1mdWxs dHctb3ZlcmZsb3ctaGlkZGVu dHctZ3JvdXA dHctYXNwZWN0LWgtOQ dHctYXNwZWN0LXctMTY dHctcm91bmRlZC0yeGw dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDAvNzU lg:dHctb3JkZXItMg lg:dHctY29sLXNwYW4tNg lg:dHctcm91bmRlZC1sLW5vbmU lg:dHctcm91bmRlZC1yLW5vbmU xl:dHctY29sLXNwYW4tNw xl:dHctcm91bmRlZC10bC0yeGw"
-              to="/work"
+              to="/moreDescLivre"
               ><img
                 alt="Wavvy"
                 loading="lazy"
@@ -825,7 +837,7 @@
             </div>
             <router-link
               class="dHctcmVsYXRpdmU dHctb3JkZXItMQ dHctdy1mdWxs dHctaC1mdWxs dHctb3ZlcmZsb3ctaGlkZGVu dHctZ3JvdXA dHctYXNwZWN0LWgtOQ dHctYXNwZWN0LXctMTY dHctcm91bmRlZC0yeGw dHctcmluZy0x dHctcmluZy1zbGF0ZS0xMDAvNzU lg:dHctb3JkZXItMg lg:dHctY29sLXNwYW4tNg lg:dHctcm91bmRlZC1sLW5vbmU lg:dHctcm91bmRlZC1yLW5vbmU xl:dHctY29sLXNwYW4tNw xl:dHctcm91bmRlZC10bC0yeGw"
-              to="/work"
+              to="/moreDescCliQue"
               ><img
                 alt="Horizons in Perspective"
                 loading="lazy"
@@ -1058,7 +1070,7 @@
             </p>
             <div class="dHctbXQtMTQ dHctZmxleA dHctZ2FwLTI.5 lg:dHctbXQtMTI">
               <button
-                class="carousel-prev dHctaW5saW5lLWZsZXg dHctaC0xMg dHctdy0xMg dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctcm91bmRlZC1mdWxs dHctYmctd2hpdGU dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0yMDAvNzU dHctcmluZy0x dHctcmluZy1zbGF0ZS0yMDAvNjA dHctZHVyYXRpb24tMjAw hover:dHctYmctc2t5LTUwLzUw"
+                class="carousel-prev2 dHctaW5saW5lLWZsZXg dHctaC0xMg dHctdy0xMg dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctcm91bmRlZC1mdWxs dHctYmctd2hpdGU dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0yMDAvNzU dHctcmluZy0x dHctcmluZy1zbGF0ZS0yMDAvNjA dHctZHVyYXRpb24tMjAw hover:dHctYmctc2t5LTUwLzUw"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -1073,7 +1085,7 @@
                   ></path>
                 </svg></button
               ><button
-                class="carousel-next dHctaW5saW5lLWZsZXg dHctaC0xMg dHctdy0xMg dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctcm91bmRlZC1mdWxs dHctYmctd2hpdGU dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0yMDAvNzU dHctcmluZy0x dHctcmluZy1zbGF0ZS0yMDAvNjA dHctZHVyYXRpb24tMjAw hover:dHctYmctc2t5LTUwLzUw"
+                class="carousel-next2 dHctaW5saW5lLWZsZXg dHctaC0xMg dHctdy0xMg dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctcm91bmRlZC1mdWxs dHctYmctd2hpdGU dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0yMDAvNzU dHctcmluZy0x dHctcmluZy1zbGF0ZS0yMDAvNjA dHctZHVyYXRpb24tMjAw hover:dHctYmctc2t5LTUwLzUw"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -1096,7 +1108,7 @@
         <div
           class="dHctbXgtYXV0bw dHctbWF4LXctc2NyZWVuLXhs dHctcHgtNQ sm:dHctcHgtNg lg:dHctcHgtOA dHctcmVsYXRpdmU"
         >
-          <div class="swiper !tw-overflow-visible">
+          <div class="swiper2 !tw-overflow-visible">
             <div class="swiper-wrapper">
               <div
                 class="swiper-slide !tw-h-auto !tw-w-auto dHctc2hyaW5rLTA dHctYm9yZGVyLWI dHctYm9yZGVyLWw dHctYm9yZGVyLXQ dHctYm9yZGVyLXNsYXRlLTIwMA dHctcC0xMA dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA first:dHctcm91bmRlZC1sLTJ4bA last:dHctcm91bmRlZC1yLTJ4bA last:dHctYm9yZGVyLXI"
@@ -2423,7 +2435,43 @@
 <script>
 export default {
   mounted() {
-    console.log("Component mounted.");
+    new Swiper(".swiper", {
+      speed: 1000,
+      loop: true,
+      autoplay: {
+        delay: 20000,
+        disableOnInteraction: false,
+      },
+      slidesPerView: "auto",
+      pagination: {
+        el: ".swiper-pagination",
+        type: "bullets",
+        clickable: true,
+      },
+      navigation: {
+        nextEl: ".carousel-next",
+        prevEl: ".carousel-prev",
+      },
+    });
+
+    new Swiper(".swiper2", {
+      speed: 1000,
+      loop: true,
+      autoplay: {
+        delay: 10000,
+        disableOnInteraction: false,
+      },
+      slidesPerView: "auto",
+      pagination: {
+        el: ".swiper-pagination",
+        type: "bullets",
+        clickable: true,
+      },
+      navigation: {
+        nextEl: ".carousel-next2",
+        prevEl: ".carousel-prev2",
+      },
+    });
   },
 };
 </script>
