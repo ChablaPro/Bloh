@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="pt-20">
    
     <main>
       <article>
@@ -127,12 +127,15 @@
               <div
                 class="dHctbXQtMg.5 dHctZmxleA dHctZ2FwLTM sm:dHctbXQtMA sm:dHctZ2FwLTQ"
               >
+              <a href="tel:+22996031886">
                 <button 
-  
-                  class="dHctZ3JvdXA dHctZmxleA dHctaC0xMA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZ2FwLTM dHctcm91bmRlZC1mdWxs dHctYm9yZGVy dHctYm9yZGVyLXNsYXRlLTIwMA dHctcHgtNg dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS02MDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2xhdGUtNTA"
-                >
-                <i class="fa-sharp fa-solid fa-cart-shopping"></i>Appeler</button
-                >
+                    
+                    class="dHctZ3JvdXA dHctZmxleA dHctaC0xMA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZ2FwLTM dHctcm91bmRlZC1mdWxs dHctYm9yZGVy dHctYm9yZGVyLXNsYXRlLTIwMA dHctcHgtNg dHctdGV4dC1zbQ dHctZm9udC1tZWRpdW0 dHctdGV4dC1zbGF0ZS02MDA dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2xhdGUtNTA"
+                  >
+                  <i class="fa-sharp fa-solid fa-cart-shopping"></i>Appeler</button
+                  >
+                                </a>
+                
               </div>
             </div>
           </footer>

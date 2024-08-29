@@ -156,52 +156,46 @@
               <p class="dHctbXQtNA dHctdGV4dC1sZw dHctdGV4dC1zbGF0ZS02MDA">
                 Laissez-nous un message ou passez une commande pour le livre.
               </p>
-              <form class="dHctbXQtMTA" action="#" method="POST">
+              <form class="dHctbXQtMTA" @submit.prevent="envoyer">
 
                 <div style="margin-bottom: 20px;">
                   <fieldset>
+
                     <legend
                       class="dHctYmxvY2s dHctdGV4dC1tZA dHctZm9udC1tZWRpdW0 dHctbGVhZGluZy02 dHctdGV4dC1zbGF0ZS05MDA"
                     >
                      Service souhaité
                     </legend>
+
                     <div class="dHctbXQtNA dHctc3BhY2UteS0z">
-                      <div class="dHctZmxleA dHctaXRlbXMtc3RhcnQ">
-                        <div class="dHctZmxleA dHctaC02 dHctaXRlbXMtY2VudGVy">
-                          <input
-                            id="Message"
-                            type="checkbox"
-                            class="dHctaC00 dHctdy00 dHctcm91bmRlZA dHctYm9yZGVyLXNsYXRlLTMwMC84MA dHctYmctc2xhdGUtNTA dHctdGV4dC1za3ktNjAw dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy10cmFuc3BhcmVudA"
-                            name="web-development"
-                          />
+                        <div class="dHctZmxleA dHctaXRlbXMtc3RhcnQ">
+                          <div class="dHctZmxleA dHctaC02 dHctaXRlbXMtY2VudGVy">
+                            <input  :checked="data.messageCheck" 
+                              id="Message"
+                              type="radio"
+                              class="dHctaC00 dHctdy00 dHctcm91bmRlZA dHctYm9yZGVyLXNsYXRlLTMwMC84MA dHctYmctc2xhdGUtNTA dHctdGV4dC1za3ktNjAw dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy10cmFuc3BhcmVudA"
+                              name="contact" @change="handleCheck"
+                            />
+                          </div>
+                          <div class="dHctbWwtMw dHctdGV4dC1zbQ dHctbGVhZGluZy02">
+                            <label for="Message" class="dHctdGV4dC1zbGF0ZS07MDA">Message</label>
+                          </div>
                         </div>
-                        <div class="dHctbWwtMw dHctdGV4dC1zbQ dHctbGVhZGluZy02">
-                          <label
-                            for="Message"
-                            class="dHctdGV4dC1zbGF0ZS03MDA"
-                            >Message</label
-                          >
+                        <div class="dHctZmxleA dHctaXRlbXMtc3RhcnQ">
+                          <div class="dHctZmxleA dHctaC02 dHctaXRlbXMtY2VudGVy">
+                            <input  :checked="!data.messageCheck" 
+                              id="Commande"
+                              type="radio"
+                              class="dHctaC00 dHctdy00 dHctcm91bmRlZA dHctYm9yZGVyLXNsYXRlLTMwMC84MA dHctYmctc2xhdGUtNTA dHctdGV4dC1za3ktNjAw dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy10cmFuc3BhcmVudA"
+                              name="contact" @change="handleCheck"
+                            />
+                          </div>
+                          <div class="dHctbWwtMw dHctdGV4dC1zbQ dHctbGVhZGluZy02">
+                            <label for="Commande" class="dHctdGV4dC1zbGF0ZS07MDA">Commande</label>
+                          </div>
                         </div>
-                      </div>
-                      <div class="dHctZmxleA dHctaXRlbXMtc3RhcnQ">
-                        <div class="dHctZmxleA dHctaC02 dHctaXRlbXMtY2VudGVy">
-                          <input
-                            id="Commande"
-                            type="checkbox"
-                            class="dHctaC00 dHctdy00 dHctcm91bmRlZA dHctYm9yZGVyLXNsYXRlLTMwMC84MA dHctYmctc2xhdGUtNTA dHctdGV4dC1za3ktNjAw dHctc2hhZG93LXNt dHctc2hhZG93LXNreS0xMDAvNTA focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy10cmFuc3BhcmVudA"
-                            name="web-design"
-                          />
-                        </div>
-                        <div class="dHctbWwtMw dHctdGV4dC1zbQ dHctbGVhZGluZy02">
-                          <label
-                            for="Commande"
-                            class="dHctdGV4dC1zbGF0ZS03MDA"
-                            >Commande</label
-                          >
-                        </div>
-                      </div>
-                      
                     </div>
+
                   </fieldset>
                 </div>
 
@@ -225,7 +219,7 @@
                         autocomplete="name"
                         placeholder="Jane Doe"
                         class="dHctYmxvY2s dHctdy1mdWxs dHctcHgtNA dHctcHktNA dHctbGVhZGluZy00 dHctdHJhbnNpdGlvbi1jb2xvcnM dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ dHctYm9yZGVyLTA dHctc2hhZG93LXNt dHctcm91bmRlZC14bA dHctYmctc2xhdGUtNTA dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS05MDA dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1pbnNldA dHctcmluZy1zbGF0ZS0yMDA placeholder:tw-text-slate-400 hover:dHctYmctd2hpdGU focus:dHctYm9yZGVyLTA focus:dHctYmctd2hpdGU focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy0y focus:dHctcmluZy1pbnNldA focus:dHctcmluZy1za3ktNjAwLzYw"
-                        name="name"
+                        name="name" v-model="data.nom" required
                       />
                     </div>
                   </div>
@@ -243,10 +237,10 @@
                       <input
                         id="email"
                         type="email"
-                        autocomplete="email"
+                        autocomplete="email" required 
                         placeholder="john@email.com"
                         class="dHctYmxvY2s dHctdy1mdWxs dHctcHgtNA dHctcHktNA dHctbGVhZGluZy00 dHctdHJhbnNpdGlvbi1jb2xvcnM dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ dHctYm9yZGVyLTA dHctc2hhZG93LXNt dHctcm91bmRlZC14bA dHctYmctc2xhdGUtNTA dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS05MDA dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1pbnNldA dHctcmluZy1zbGF0ZS0yMDA placeholder:tw-text-slate-400 hover:dHctYmctd2hpdGU focus:dHctYm9yZGVyLTA focus:dHctYmctd2hpdGU focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy0y focus:dHctcmluZy1pbnNldA focus:dHctcmluZy1za3ktNjAwLzYw"
-                        name="email"
+                        name="email" v-model="data.email"
                       />
                     </div>
                   </div>
@@ -261,18 +255,19 @@
                       >
                     </div>
                     <div class="dHctbXQtMg">
-                      <input
+                      <vue-tel-input v-model="data.tel" @validate="handleValidationChange" :dropdown-options="dropdownOptions" :mode="mode" :input-options="inputOptions" :valid-characters-only="validCharactersOnly"></vue-tel-input>
+                      <!--input
                         id="phone"
-                        type="tel"
+                        type="tel" required
                         autocomplete="tel"
                         aria-describedby="phone-description"
                         placeholder="+1 (800) 123-4567"
                         class="dHctYmxvY2s dHctdy1mdWxs dHctcHgtNA dHctcHktNA dHctbGVhZGluZy00 dHctdHJhbnNpdGlvbi1jb2xvcnM dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ dHctYm9yZGVyLTA dHctc2hhZG93LXNt dHctcm91bmRlZC14bA dHctYmctc2xhdGUtNTA dHctdGV4dC1tZA dHctdGV4dC1zbGF0ZS05MDA dHctc2hhZG93LXNreS0xMDAvNTA dHctcmluZy0x dHctcmluZy1pbnNldA dHctcmluZy1zbGF0ZS0yMDA placeholder:tw-text-slate-400 hover:dHctYmctd2hpdGU focus:dHctYm9yZGVyLTA focus:dHctYmctd2hpdGU focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy0y focus:dHctcmluZy1pbnNldA focus:dHctcmluZy1za3ktNjAwLzYw"
-                        name="phone"
-                      />
+                        name="phone" v-model="data.tel"
+                      /-->
                     </div>
                   </div>
-                  <div>
+                  <div v-if="data.messageCheck">
                     <div
                       class="dHctZmxleA dHctanVzdGlmeS1iZXR3ZWVu dHctdGV4dC1tZA dHctbGVhZGluZy02"
                     >
@@ -283,9 +278,9 @@
                       >
                     </div>
                     <div class="dHctbXQtMg">
-                      <textarea
+                      <textarea @input="handleText"
                         id="message"
-                        name="message"
+                        name="message" v-model="data.message"
                         rows="5"
                         aria-describedby="message-description"
                         placeholder="Laissez un message ici."
@@ -294,7 +289,7 @@
                     </div>
                   </div>
 
-                  <div class="flex flex-col md:flex-row gap-4">
+                  <div class="flex flex-col md:flex-row gap-4" v-if="!data.messageCheck">
                       <div class="md:w-3/4">
                           <div class="bg-white rounded-lg shadow-md p-6 mb-4">
                               <table class="w-full">
@@ -309,14 +304,14 @@
                                           <td class="py-4">
                                               <div class="flex items-center">
                                                   <img class="h-16 w-16 mr-4" src="bloh/experience-image.jpg" alt="Product image">
-                                                  <span class="font-semibold">ENCHANTÉE ! ICI LA CONNE</span>
+                                                  <span class="font-semibold" style="font-size: small;">ENCHANTÉE ! ICI LA CONNE</span>
                                               </div>
                                           </td>
                                           <td class="py-4">
                                               <div class="flex items-center">
-                                                  <button class="border rounded-md py-2 px-4 mr-2">-</button>
-                                                  <span class="text-center w-8">1</span>
-                                                  <button class="border rounded-md py-2 px-4 ml-2">+</button>
+                                                  <span class="border rounded-md py-2 px-4 mr-2" @click="handleSous" style="cursor: pointer;">-</span>
+                                                  <span class="text-center w-8">{{data.nbrCommande}}</span>
+                                                  <span class="border rounded-md py-2 px-4 ml-2" @click="handleAdd" style="cursor: pointer;">+</span>
                                               </div>
                                           </td>
                                       </tr>
@@ -327,11 +322,11 @@
                       </div>
                       <div class="md:w-1/4">
                           <div class="bg-white rounded-lg shadow-md p-6">
-                              <h2 class="text-lg font-semibold mb-4">Total</h2>
+                              <h2 class="text-lg font-semibold mb-4">Total (FCFA)</h2>
                               
                               <hr class="my-2">
                               <div class="flex justify-between mb-2">
-                                  $21.98
+                                {{data.total}}
                               </div>
 
                           </div>
@@ -339,9 +334,9 @@
                   </div>
 
 
-                  <div class="relative border border-gray-200 rounded-lg shadow-lg">
+                  <div class="relative border border-gray-200 rounded-lg shadow-lg" v-if="responseError || responseSuccess">
                     <button 
-                      class="absolute p-1 bg-gray-100 border border-gray-300 rounded-full -top-1 -right-1"
+                      class="absolute p-1 bg-gray-100 border border-gray-300 rounded-full -top-1 -right-1" @click="cancel"
                     >
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -366,8 +361,11 @@
                   
                       <div class="ml-3 overflow-hidden">
                         <p class="font-medium text-gray-900">Ainahin Béringère BLOH</p>
-                        <p class="max-w-xs text-sm text-gray-500 truncate">
-                          Votre commande ou message a été pris en compte.
+                        <p class="max-w-xs text-sm text-red-500 truncate" v-if="responseError">
+                          {{responseError}}
+                        </p>
+                        <p class="max-w-xs text-sm text-green-500 truncate" v-if="responseSuccess">
+                          {{responseSuccess}}
                         </p>
                       </div>
                     </div>
@@ -395,3 +393,124 @@
     
   </div>
 </template>
+
+<script>
+import axios from "axios";
+import { VueTelInput } from 'vue-tel-input';
+import 'vue-tel-input/vue-tel-input.css';
+
+export default{
+  components: {
+      VueTelInput,
+    },
+  data(){
+    return {
+      dropdownOptions: {
+                disabled: false,
+                showDialCodeInList: true,
+                showDialCodeInSelection: false,
+                showFlags: true,
+                showSearchBox: true,
+                tabindex: 0,
+              },
+              inputOptions: {
+                placeholder: '',
+                showDialCode: true,
+                required: true,
+              },
+              validCharactersOnly: true,
+              mode: 'international',
+       data: {
+         messageCheck: false,
+         commandeCheck: true,
+         nom: "",
+         email: "",
+         tel: "",
+         message: "",
+         nbrCommande: 1,
+         total: 15000,
+       },
+       responseError: "",
+       responseSuccess: "",
+       telError: true
+    }
+  },
+  methods:{
+    handleText() {
+        // Vérifie si le message est renseigné et si le numéro de téléphone est valide
+       // Vérifie si le message est renseigné et si le numéro de téléphone est valide
+       if (this.data.message.trim() !== "" && !this.telError) {
+            this.responseError = "";
+        }
+
+
+        
+    },
+    handleValidationChange(phoneObject) {
+            // Cette méthode est appelée lorsque la validité du numéro de téléphone change
+            // phoneObject.isValid indique si le numéro est actuellement valide
+            console.log('Validation changed:', phoneObject.valid);
+
+          
+
+            if (this.data.tel.trim()=="") {
+                this.responseError = "Renseignez votre numéro de téléphone."
+            }else if(!phoneObject.valid){
+              this.responseError = "Numéro de téléphone invalide."
+            }else if (this.data.message.trim() =="" && this.data.messageCheck) {
+              this.responseError = "Veuillez renseigner votre message."
+              this.telError = false
+            }else {
+                  this.responseError = ""
+                }
+
+          },
+    handleSous(){
+      if (this.data.nbrCommande > 1) {
+        this.data.nbrCommande--;
+        this.data.total = 15000*this.data.nbrCommande;
+      }
+    },
+    handleAdd(){
+      this.data.nbrCommande++;
+      this.data.total = 15000*this.data.nbrCommande;
+    },
+    handleCheck(){
+       this.data.messageCheck = !this.data.messageCheck;
+    },
+    cancel(){
+       this.responseError = "";
+       this.responseSuccess = "";
+    },
+    async envoyer(){
+      if (this.data.message.trim() =="" && this.data.messageCheck) {
+              this.responseError = "Veuillez renseigner votre message."
+            } else{
+
+              if (this.responseError =="") {
+
+                const res = await axios.post('/commande', this.data);
+
+                if (res.status == 200) {
+                  this.data.messageCheck= false;
+                  this.data.nom= "";
+                  this.data.email= "";
+                  this.data.message= "";
+                  this.data.nbrCommande= 1;
+                  this.data.total= 15000;
+                  this.responseSuccess = "Requête bien prise en compte."
+                  
+                  setTimeout(() => {
+                        this.responseSuccess = "";
+                    }, 10000);
+                }
+                
+              }
+
+            }
+          
+    }
+  }
+
+}
+</script>

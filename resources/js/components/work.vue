@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="pt-20">
   
     <section
       class="dHctb3ZlcmZsb3ctaGlkZGVu dHctYmctd2hpdGU dHctcHktMTY sm:dHctcHQtMjQ lg:dHctcHQtMzI"
@@ -70,9 +70,9 @@
             <div
               class="dHctZmxleA dHctZmxleC1jb2w dHctZ2FwLTEy dHctcm91bmRlZC0zeGw dHctYmctc2xhdGUtNTA dHctcHgtNw dHctcHktMTI sm:dHctZ2FwLTE0 sm:dHctcC0xNg lg:dHctcHgtMTA lg:dHctcHktMTQ xl:dHctZ2FwLTE2 xl:dHctcC0xNg dHctcm91bmRlZC10bC0[64px]"
             >
-              <a
+              <router-link
                 class="dHctZ3JvdXA dHctYXNwZWN0LWgtOQ dHctYXNwZWN0LXctMTY dHctcmVsYXRpdmU dHctYmxvY2s dHctdy1mdWxs dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC14bA md:dHctYXNwZWN0LWgtMg md:dHctYXNwZWN0LXctMw dHctb3JkZXItMQ"
-                href="work/horizons-in-perspective.html"
+                to="/moreDescLivre"
                 ><img
                   alt="Horizons in Perspective"
                   loading="lazy"
@@ -96,7 +96,7 @@
                 <div
                   class="dHctYWJzb2x1dGU dHctaW5zZXQtMA dHctcm91bmRlZC14bA dHctcmluZy0x dHctcmluZy1pbnNldA dHctcmluZy1zbGF0ZS05MDAvNQ"
                 ></div>
-              </a>
+              </router-link>
               <div
                 class="dHctZmxleA dHctZmxleC1jb2w dHctaXRlbXMtY2VudGVy dHctb3JkZXItMg"
               >
@@ -133,9 +133,9 @@
             <div
               class="dHctZmxleA dHctZmxleC1jb2w dHctZ2FwLTEy dHctcm91bmRlZC0zeGw dHctYmctc2xhdGUtNTA dHctcHgtNw dHctcHktMTI sm:dHctZ2FwLTE0 sm:dHctcC0xNg lg:dHctcHgtMTA lg:dHctcHktMTQ xl:dHctZ2FwLTE2 xl:dHctcC0xNg dHctdHJhbnNmb3Jt dHctcm91bmRlZC1ici0[64px] lg:dHctdHJhbnNsYXRlLXktMjQ xl:dHctdHJhbnNsYXRlLXktMzI"
             >
-              <a
+              <router-link
                 class="dHctZ3JvdXA dHctYXNwZWN0LWgtOQ dHctYXNwZWN0LXctMTY dHctcmVsYXRpdmU dHctYmxvY2s dHctdy1mdWxs dHctb3ZlcmZsb3ctaGlkZGVu dHctcm91bmRlZC14bA md:dHctYXNwZWN0LWgtMg md:dHctYXNwZWN0LXctMw dHctb3JkZXItMg"
-                href="work/wavvy.html"
+                to="/moreDescCliQue"
                 ><img
                   alt="Wavvy"
                   loading="lazy"
@@ -159,7 +159,7 @@
                 <div
                   class="dHctYWJzb2x1dGU dHctaW5zZXQtMA dHctcm91bmRlZC14bA dHctcmluZy0x dHctcmluZy1pbnNldA dHctcmluZy1zbGF0ZS05MDAvNQ"
                 ></div>
-              </a>
+          </router-link>
               <div
                 class="dHctZmxleA dHctZmxleC1jb2w dHctaXRlbXMtY2VudGVy dHctb3JkZXItMQ"
               >

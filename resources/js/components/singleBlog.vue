@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="pt-20">
    
     <main>
       <article>
@@ -382,3 +382,24 @@
    
   </div>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      data: {
+        email: "",
+      },
+      success: false,
+    };
+  },
+  methods: {
+    abonner() {
+      this.success = true;
+    },
+    cancel() {
+      this.success = false;
+    },
+  },
+};
+</script>

@@ -14,7 +14,7 @@
               aria-label="Home"
               class="dHctZmxleA dHctZmxleC1zaHJpbmstMA dHctaXRlbXMtY2VudGVy"
               to="/"
-              ><img
+              ><!--img
                 alt=""
                 loading="lazy"
                 width="122"
@@ -35,7 +35,10 @@
                 style="color: transparent"
                 srcset="bloh/logo-icon-1.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Flogo-icon.0c534754.png&amp;w=96&amp;q=75 1x, bloh/logo-icon.png 2xe?url=%2Fbloh%2Fstatic%2Fmedia%2Flogo-icon.0c534754.png&amp;w=256&amp;q=75 2x"
                 src="bloh/logo-icon.png?url=%2Fbloh%2Fstatic%2Fmedia%2Flogo-icon.0c534754.png&amp;w=256&amp;q=75"
-            /></router-link>
+            /--><div class="logo-container">
+                    <span class="queen">QUEEN</span>
+                    <span class="bloh">BLOH</span>
+                </div></router-link>
           </div>
           <div
             class="dHctaGlkZGVu dHctaXRlbXMtY2VudGVy md:dHctZmxleA md:dHctc3BhY2UteC02 lg:dHctc3BhY2UteC04"
@@ -304,3 +307,46 @@ export default {
   },
 };
 </script>
+
+<style>
+.logo-container {
+    display: flex;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+    color: #4B0082; /* Indigo color */
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.queen {
+    position: relative;
+    color: #D83F87; /* Gold color */
+    margin-right: 0.3em;
+}
+
+.bloh {
+    color: #4B0082; /* Indigo color */
+}
+
+.queen::before {
+    content: "👑";
+    position: absolute;
+    /*top: -1.5em;
+    left: 50%;*/
+    transform: translateX(-50%);
+    font-size: 0.5em;
+    color: #D83F87; /* Gold color */
+}
+
+.logo-container:hover .queen {
+    color: #D83F87; /* Bright Gold */
+    text-shadow: 0 0 10px rgba(216, 63, 135, 0.5);
+}
+
+.logo-container:hover .bloh {
+    color: #800080; /* Purple */
+    text-shadow: 0 0 10px rgba(128, 0, 128, 0.5);
+}
+</style>

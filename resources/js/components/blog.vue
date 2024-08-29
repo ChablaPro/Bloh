@@ -47,8 +47,7 @@
           </p>
           <form
             class="dHctcmVsYXRpdmU dHctbXQtMTI dHctdy1mdWxs dHctbWF4LXctbGc"
-            action="#"
-            method="post"
+            @submit.prevent="abonner"
           >
             <div
               class="dHctYWJzb2x1dGU LXR3LWxlZnQtNDg LXR3LXRvcC0xMg dHctaGlkZGVu lg:dHctZmxleA xl:LXR3LWxlZnQtNzI"
@@ -89,14 +88,54 @@
               class="dHctaC0xMg dHctdy1mdWxs dHctcm91bmRlZC1mdWxs dHctYm9yZGVyLTA dHctYmctd2hpdGUvOTU dHctcHktMw.5 dHctcGwtNQ dHctcHItMzI dHctdGV4dC1zbQ dHctbGVhZGluZy01 dHctdGV4dC1zbGF0ZS05MDA dHctcGxhY2Vob2xkZXItc2xhdGUtNDAw dHctc2hhZG93LW1k dHctc2hhZG93LXNreS0xMDAvNTA dHctb3V0bGluZS1ub25l dHctcmluZy0x dHctcmluZy1zbGF0ZS05MDAvNQ dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ focus:dHctYm9yZGVyLTA focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy0y focus:dHctcmluZy1pbnNldA focus:dHctcmluZy1za3ktOTAwLzIw sm:dHctcGwtNg sm:dHctdGV4dC1tZA"
               required=""
               placeholder="Entrez votre email."
-              autocomplete="email"
-            /><button
+              autocomplete="email" v-model="data.email"
+            /><button v-if="!btn"
               type="submit"
               class="dHctYWJzb2x1dGU dHctcmlnaHQtMQ dHctdG9wLTE dHctaW5saW5lLWZsZXg dHctaC0xMA dHctaXRlbXMtY2VudGVy dHctcm91bmRlZC1mdWxs dHctYmctc2xhdGUtOTAw dHctcHgtNQ dHctdGV4dC1zbQ dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1za3ktNTA dHctb3V0bGluZS1ub25l dHctdHJhbnNpdGlvbg dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2t5LTgwMA focus:dHctb3V0bGluZS1ub25l sm:dHctcHgtNw sm:dHctdGV4dC1tZA"
             >
               S'abonner
-            </button>
+            </button> <span v-if="btn">En cours ...</span>
           </form>
+
+          <div
+                class="relative border border-gray-200 rounded-lg shadow-lg w-full mt-10"
+                v-if="success"
+              >
+                <button
+                  class="absolute p-1 bg-gray-100 border border-gray-300 rounded-full -top-1 -right-1"
+                  @click="cancel"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="w-3 h-3"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
+                      clip-rule="evenodd"
+                    />
+                  </svg>
+                </button>
+
+                <div class="flex items-center p-4">
+                  <img
+                    class="object-cover w-12 h-12 rounded-lg"
+                    src="bloh/contactPro.jpg"
+                    alt=""
+                  />
+
+                  <div class="ml-3 overflow-hidden">
+                    <p class="font-medium text-black">Ainahin Béringère BLOH</p>
+                    <p
+                      class="max-w-xs text-sm text-gray-500 truncate text-green-500"
+                    >
+                      Abonnement effectué avec succès.
+                    </p>
+                  </div>
+                </div>
+              </div>
         </div>
       </div>
     </section>
@@ -1368,3 +1407,34 @@
     </section>
   </div>
 </template>
+
+<script>
+import axios from "axios";
+export default {
+  data() {
+    return {
+      data: {
+        email: "",
+      },
+      success: false,
+      btn: false
+    };
+  },
+  methods: {
+    async abonner() {
+      this.btn = true;
+      const res = await axios.post('/new', this.data);
+
+      if(res.status == 200){
+        this.success = true;
+        this.data.email = "";
+        this.btn = false;
+      }
+      
+    },
+    cancel() {
+      this.success = false;
+    },
+  },
+};
+</script>

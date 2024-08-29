@@ -159,7 +159,7 @@
 .token.selector.class,
 .token.tag {
     --tw-text-opacity: 1;
-    color: rgb(244 114 182/var(--tw-text-opacity))
+    color: #D83F87;
 }
 
 .token.attr-name,
@@ -168,37 +168,37 @@
 .token.pseudo-class,
 .token.rule {
     --tw-text-opacity: 1;
-    color: rgb(203 213 225/var(--tw-text-opacity))
+    color: rgb(203 213 225/1)
 }
 
 .token.attr-value,
 .token.class,
 .token.string {
     --tw-text-opacity: 1;
-    color: rgb(125 211 252/var(--tw-text-opacity))
+    color: #44318D;
 }
 
 .token.attr-equals,
 .token.punctuation {
     --tw-text-opacity: 1;
-    color: rgb(100 116 139/var(--tw-text-opacity))
+    color: #2A1B3D;
 }
 
 .token.attr-value * {
     --tw-text-opacity: 1;
-    color: rgb(125 211 252/var(--tw-text-opacity))
+    color: #44318D;
 }
 
 .token.attr-value .attr-equals,
 .token.attr-value .attr-equals+.punctuation,
 .token.attr-value>.punctuation:last-child {
     --tw-text-opacity: 1;
-    color: rgb(100 116 139/var(--tw-text-opacity))
+    color: #2A1B3D;
 }
 
 .token.property {
     --tw-text-opacity: 1;
-    color: rgb(125 211 252/var(--tw-text-opacity))
+    color: #44318D;
 }
 
 .token.unit {
@@ -2942,11 +2942,11 @@ select {
 
 .dHctYmctc2t5LTcwMA {
     --tw-bg-opacity: 1;
-    background-color: rgb(3 105 161/var(--tw-bg-opacity))
+    background-color: #44318D;
 }
 
 .dHctYmctc2t5LTcwMC85MA {
-    background-color: rgba(3, 105, 161, .9)
+    background-color: #44318D;
 }
 
 .dHctYmctc2t5LTcwMC85NQ {
@@ -3004,7 +3004,7 @@ select {
 
 .dHctYmctc2xhdGUtOTAw {
     --tw-bg-opacity: 1;
-    background-color: rgb(15 23 42/var(--tw-bg-opacity))
+    background-color: #2A1B3D;
 }
 
 .dHctYmctd2hpdGU {
@@ -3118,7 +3118,7 @@ select {
 }
 
 .dHctZmlsbC1za3ktMjAwLzc1 {
-    fill: rgba(186, 230, 253, .75)
+    fill: #D83F87;
 }
 
 .dHctZmlsbC1za3ktMjAwLzkw {
@@ -3529,17 +3529,17 @@ select {
 
 .dHctdGV4dC1za3ktNTAw {
     --tw-text-opacity: 1;
-    color: rgb(14 165 233/var(--tw-text-opacity))
+    color: #2A1B3D;
 }
 
 .dHctdGV4dC1za3ktNjAw {
     --tw-text-opacity: 1;
-    color: rgb(2 132 199/var(--tw-text-opacity))
+    color: #D83F87;
 }
 
 .dHctdGV4dC1za3ktNzAw {
     --tw-text-opacity: 1;
-    color: rgb(3 105 161/var(--tw-text-opacity))
+    color: #44318D;
 }
 
 .dHctdGV4dC1za3ktNzAwLzcw {
@@ -3565,7 +3565,7 @@ select {
 }
 
 .dHctdGV4dC1za3ktOTAwLzgw {
-    color: rgba(12, 74, 110, .8)
+    color: #D83F87;
 }
 
 .dHctdGV4dC1zbGF0ZS0xMDA {
@@ -3630,7 +3630,7 @@ select {
 
 .dHctdGV4dC1zbGF0ZS05MDA {
     --tw-text-opacity: 1;
-    color: rgb(15 23 42/var(--tw-text-opacity))
+    color: #2A1B3D;
 }
 
 .dHctdGV4dC1zbGF0ZS05MDAvOTA {
@@ -4338,12 +4338,12 @@ select {
 
 .hover\:dHctYmctc2t5LTYwMA:hover {
     --tw-bg-opacity: 1;
-    background-color: rgb(2 132 199/var(--tw-bg-opacity))
+    background-color: #D83F87;
 }
 
 .hover\:dHctYmctc2t5LTgwMA:hover {
     --tw-bg-opacity: 1;
-    background-color: rgb(7 89 133/var(--tw-bg-opacity))
+    background-color: #D83F87;
 }
 
 .hover\:dHctYmctc2xhdGUtMTAw:hover {
@@ -4389,7 +4389,7 @@ select {
 
 .hover\:dHctdGV4dC1za3ktNzAw:hover {
     --tw-text-opacity: 1;
-    color: rgb(3 105 161/var(--tw-text-opacity))
+    color: #2A1B3D;
 }
 
 .hover\:dHctdGV4dC1zbGF0ZS05MDA:hover {
@@ -4528,7 +4528,7 @@ select {
 
 .dHctZ3JvdXA:hover .group-hover\:dHctdGV4dC1za3ktNjAw {
     --tw-text-opacity: 1;
-    color: rgb(2 132 199/var(--tw-text-opacity))
+    color: #D83F87;
 }
 
 .dHctZ3JvdXA:hover .group-hover\:dHctdGV4dC1za3ktNzAw {

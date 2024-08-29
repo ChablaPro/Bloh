@@ -50,14 +50,14 @@
                   type="email"
                   class="dHctaC0xNA dHctdy1mdWxs dHctcm91bmRlZC1mdWxs dHctYm9yZGVyLTA dHctYmctd2hpdGUvMTA dHctcHktMw.5 dHctcGwtNQ dHctcHItMzI dHctdGV4dC1zbQ dHctbGVhZGluZy01 dHctdGV4dC1za3ktNTA dHctcGxhY2Vob2xkZXItc2t5LTEwMC85MA dHctb3V0bGluZS1ub25l dHctcmluZy0x dHctcmluZy13aGl0ZS8yNQ dHctYmFja2Ryb3AtYmx1cg dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ focus:dHctb3V0bGluZS1ub25l focus:dHctcmluZy0y focus:dHctcmluZy13aGl0ZS8zMA sm:dHctcGwtNg"
                   placeholder="Entrez votre email."
-                  autocomplete="email"
+                  autocomplete="email" v-model="data.email"
                   required
-                /><button
+                /><button v-if="!btn"
                   type="submit"
                   class="dHctYWJzb2x1dGU dHctcmlnaHQtMQ.5 dHctdG9wLTE.5 dHctaW5saW5lLWZsZXg dHctaC0xMQ dHctaXRlbXMtY2VudGVy dHctcm91bmRlZC1mdWxs dHctYmctc2t5LTkwMA dHctcHgtNQ dHctcHktMw dHctdGV4dC1zbQ dHctZm9udC1zZW1pYm9sZA dHctdGV4dC1za3ktNTA dHctb3V0bGluZS1ub25l dHctdHJhbnNpdGlvbg dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ hover:dHctYmctc2t5LTgwMA focus:dHctb3V0bGluZS1ub25l sm:dHctcHgtNw sm:dHctdGV4dC1tZA"
                 >
                   S'abonner
-                </button>
+                </button> <span v-if="btn" style="color: green;">En cours ...</span>
               </form>
 
               <div
@@ -94,7 +94,7 @@
                     <p
                       class="max-w-xs text-sm text-gray-500 truncate text-white"
                     >
-                      Votre commande ou message a été pris en compte.
+                    Abonnement effectué avec succès.
                     </p>
                   </div>
                 </div>
@@ -242,6 +242,7 @@
 </template>
 
 <script>
+import axios from "axios";
 export default {
   data() {
     return {
@@ -249,11 +250,20 @@ export default {
         email: "",
       },
       success: false,
+      btn: false
     };
   },
   methods: {
-    abonner() {
-      this.success = true;
+    async abonner() {
+      this.btn = true;
+      const res = await axios.post('/new', this.data);
+
+      if(res.status == 200){
+        this.success = true;
+        this.data.email = "";
+        this.btn = false;
+      }
+      
     },
     cancel() {
       this.success = false;

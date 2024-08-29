@@ -60,14 +60,14 @@
                 aria-label="Follow on facebook"
                 target="_blank"
                 href="https://www.facebook.com/profile.php?id=100083515921361&mibextid=ZbWKwL"
-                ><i class="fa-brands fa-facebook"></i
+                ><i class="fa-brands fa-facebook" style="color: #2A1B3D; font-size:larger;"></i
               ></a>
               <a
                 class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctZHVyYXRpb24tMjAw dHctYm9yZGVy dHctcm91bmRlZC1mdWxs dHctaC0xMQ dHctdy0xMQ dHctYm9yZGVyLXNsYXRlLTIwMA hover:dHctYmctc2xhdGUtNTA"
                 aria-label="Follow on linkedIn"
                 target="_blank"
                 href="https://www.linkedin.com/in/ainahin-b%C3%A9ring%C3%A8re-bloh-a1a453252/"
-                ><i class="fa-brands fa-linkedin"></i
+                ><i class="fa-brands fa-linkedin" style="color: #2A1B3D; font-size:larger;"></i
               ></a>
             </div>
           </div>
@@ -201,7 +201,7 @@
                         class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctdy0yMA dHctaC0yMA dHctcm91bmRlZC1mdWxs dHctc2hhZG93LWxn dHctYmctc2xhdGUtOTAw"
                         ><i
                           class="fa-solid fa-bags-shopping"
-                          style="color: white"
+                          style="color: white; font-size: larger;"
                         ></i
                       ></span>
                     </div>
@@ -218,7 +218,7 @@
                         <a href="tel:+22996031886">+229 96 03 18 86</a> /
                         <a href="tel:+22940162696">+229 40 16 26 96</a> ou
                         utilisez le formulaire en ligne.
-                        <router-link to="/contact/commande"
+                        <router-link to="/contact"
                           >Cliquez ici...</router-link
                         >
                       </p>
@@ -239,7 +239,7 @@
                       >
                         <i
                           class="fa-sharp fa-solid fa-mailbox"
-                          style="color: white"
+                          style="color: white; font-size: larger;"
                         ></i>
                       </span>
                     </div>
@@ -265,7 +265,7 @@
                     <div>
                       <span
                         class="dHctZmxleA dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI dHctdy0yMA dHctaC0yMA dHctcm91bmRlZC1mdWxs dHctc2hhZG93LWxn dHctYmctc2xhdGUtOTAw"
-                        ><i class="fa-solid fa-moped" style="color: white"></i
+                        ><i class="fa-solid fa-moped" style="color: white; font-size: larger;"></i
                       ></span>
                     </div>
                     <div>
@@ -323,7 +323,7 @@
           <div class="lg:dHctY29sLXNwYW4tOA lg:dHctcGwtOA xl:dHctcGwtMjQ">
             <div
               class="dHctcmVsYXRpdmU dHctdy1mdWxs dHctYXNwZWN0LXctMw dHctYXNwZWN0LWgtMg"
-              @click="$router.push('/contact/commande')"
+              @click="$router.push('/contact')"
             >
               <img
                 alt=""
@@ -354,7 +354,7 @@
                   >
                     <i
                       class="animate-bounce fa-duotone fa-solid fa-download"
-                      style="color: white"
+                      style="color: white; font-size: larger;"
                     ></i>
                   </button>
                 </div>
