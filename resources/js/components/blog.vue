@@ -6,18 +6,7 @@
       <div
         class="dHctbXgtYXV0bw dHctbWF4LXctc2NyZWVuLXhs dHctcHgtNQ sm:dHctcHgtNg lg:dHctcHgtOA dHctcmVsYXRpdmU dHctYmctc2xhdGUtNTA dHctcHktMTY sm:dHctcHktMjQ lg:dHctcm91bmRlZC1iLTN4bA lg:dHctcHktMzI"
       >
-        <img
-          alt=""
-          loading="lazy"
-          width="2592"
-          height="829"
-          decoding="async"
-          data-nimg="1"
-          class="dHctYWJzb2x1dGU dHctaW5zZXQtMA dHctaC1mdWxs dHctdy1mdWxs dHctb3BhY2l0eS03NQ"
-          style="color: transparent"
-          srcset="bloh/blog-hero-bg.png 1x?url=%2Fbloh%2Fstatic%2Fmedia%2Fblog-hero-bg.d53a5269.png&amp;w=3840&amp;q=75 1x"
-          src="bloh/blog-hero-bg.png?url=%2Fbloh%2Fstatic%2Fmedia%2Fblog-hero-bg.d53a5269.png&amp;w=3840&amp;q=75"
-        />
+        
         <div
           class="dHctcmVsYXRpdmU dHctZmxleA dHctZmxleC1jb2w dHctaXRlbXMtY2VudGVy dHctanVzdGlmeS1jZW50ZXI"
         >
@@ -1430,6 +1419,8 @@ export default {
         this.data.email = "";
         this.btn = false;
       }
+
+      this.btn = false;
       
     },
     cancel() {

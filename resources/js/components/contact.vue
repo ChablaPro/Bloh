@@ -377,12 +377,13 @@
                 <div
                   class="dHctbXQtMTA dHctYm9yZGVyLXQ dHctYm9yZGVyLXNsYXRlLTIwMA dHctcHQtOA"
                 >
-                  <button
+                  <button v-if="!btnCommande"
                     class="dHctaW5saW5lLWZsZXg dHctaXRlbXMtY2VudGVy dHctcm91bmRlZC1mdWxs dHctZ2FwLTI.5 dHctanVzdGlmeS1jZW50ZXI dHctcHgtNw dHctcHktMw dHctdGV4dC1tZA dHctZm9udC1zZW1pYm9sZA dHctbGVhZGluZy1ub25l dHctb3V0bGluZS1vZmZzZXQtMg dHctdHJhbnNpdGlvbi1hbGw dHctZHVyYXRpb24tMjAw dHctZWFzZS1pbi1vdXQ active:dHctdHJhbnNpdGlvbi1ub25l dHctYmctc2xhdGUtOTAw dHctdGV4dC13aGl0ZQ hover:dHctYmctc2t5LTgwMA dHctdy1mdWxs !tw-text-base sm:!tw-text-lg"
                     type="submit"
                   >
                     Envoyer
                   </button>
+                  <span v-if="btnCommande" style="color: orange;">En cours ...</span>
                 </div>
               </form>
             </div>
@@ -405,6 +406,7 @@ export default{
     },
   data(){
     return {
+    btnCommande: false,
       dropdownOptions: {
                 disabled: false,
                 showDialCodeInList: true,
@@ -483,8 +485,10 @@ export default{
        this.responseSuccess = "";
     },
     async envoyer(){
+      this.btnCommande = true;
       if (this.data.message.trim() =="" && this.data.messageCheck) {
               this.responseError = "Veuillez renseigner votre message."
+              this.btnCommande = false;
             } else{
 
               if (this.responseError =="") {
@@ -492,6 +496,7 @@ export default{
                 const res = await axios.post('/commande', this.data);
 
                 if (res.status == 200) {
+                  this.btnCommande = false;
                   this.data.messageCheck= false;
                   this.data.nom= "";
                   this.data.email= "";
@@ -506,6 +511,7 @@ export default{
                 }
                 
               }
+              this.btnCommande = false;
 
             }
           

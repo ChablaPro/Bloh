@@ -266,6 +266,7 @@ export default {
         this.data.email = "";
         this.btn = false;
       }
+      this.btn = false;
     },
     cancel() {
       this.success = false;

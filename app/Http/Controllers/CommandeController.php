@@ -21,7 +21,7 @@ class CommandeController extends Controller
                 'message'=>$request->message,
             ]);
 
-            Mail::to("chabijohnthebaptistebiz@gmail.com")
+            Mail::to("ainahinbloh@gmail.com")
             ->send(new Message($request->except('_token')));
         }
 
@@ -35,7 +35,7 @@ class CommandeController extends Controller
                     'total'=>$request->total,
                 ]);
 
-                Mail::to("chabijohnthebaptistebiz@gmail.com")
+                Mail::to("ainahinbloh@gmail.com")
                 ->send(new MailCommande($request->except('_token')));
 
                 Mail::to($request->email)
