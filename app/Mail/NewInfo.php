@@ -20,10 +20,7 @@ class NewInfo extends Mailable
      *
      * @return void
      */
-    public function __construct($data)
-    {
-        $this->data = $data;
-    }
+    public function __construct() {}
 
     /**
      * Build the message.
@@ -33,8 +30,8 @@ class NewInfo extends Mailable
     public function build()
     {
         return $this->from("chablatech@gmail.com", "QUEEN BLOH") // L'expéditeur
-        ->subject("Abonnement à la newsletter." ) // Le sujet
-        ->view('emails.news'); // La vue
+            ->subject("Abonnement à la newsletter.") // Le sujet
+            ->view('emails.news'); // La vue
 
     }
 }

@@ -10,10 +10,11 @@ use App\Mail\NewInfo;
 
 class NewsletterController extends Controller
 {
-    public function store(Request $request){
-       
+    public function store(Request $request)
+    {
+
         $request->validate([
-           'email' => 'required'
+            'email' => 'required'
         ]);
 
         $existingEmail = Newsletter::where('email', $request->email)->first();
@@ -24,12 +25,11 @@ class NewsletterController extends Controller
             ]);
 
             Mail::to($request->email)
-            ->send(new NewInfo($request->except('_token')));
+                ->send(new NewInfo());
         }
 
         return response()->json([
             'new' => isset($news) ? $news : $existingEmail
-         ]);
-
+        ]);
     }
 }
